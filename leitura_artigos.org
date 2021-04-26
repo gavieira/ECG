@@ -1,0 +1,30 @@
+#+TITLE: Leitura Artigos
+#+AUTHOR: Gabriel Alves Vieira
+#+BIBLIOGRAPHY: Bibliometry apalike
+
+
+* Artigo:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\bibliography{Bibliometry}
+\bibliographystyle{apalike}
