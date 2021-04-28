@@ -3,23 +3,235 @@
 #+BIBLIOGRAPHY: Bibliometry apalike
 
 
-* Artigo:
+* Artigo: 40 anos da bibliografia no brasil \cite{mugnaini2013}
+** Introdução
+
+- Uma das coisas mais importantes da bibliometria é entender a complexidade do processo de comunicação científica em que estamos inseridos.
+
+- Pergunta: Qual a diferença de bibliometria e biblioteconomia?
+
+- Ciência e seu potencial de propulsionar desenvolvimento socio-economico: Leva à indicadores para mensurar investimento e frutos da ciência e tecnologia (C&T).
+
+- Isso, por sua vez, impacta o planejamento do investimento em C&T. A avaliação contínua e intensa da ciência se torna importante na definição de quem ganha financiamento.
+
+- "Numa economia baseada em conhecimento, a publicação da pesquisa científica torna-se a moeda principal (BOURDIEU, 1994) trazendo consigo os índices e valores dela decorrentes."
+
+- A avaliação científica apresenta então um dilema: Ela deve se valer da praticidade da bibliometria/indices/bases de dados, que podem incitar um alto grau de produtividade, ao mesmo tempo em que não ignora a excelência da pesquisa acadêmica. Ambos podem ser excludentes, dependendo da situação.
+
+- A bibliometria é uma especialidade de outra área já estabelecida: A Ciência da Informação.
+
+** Eventos importantes do desenvolvimento histórico da Bibliometria
+
+- As constantes restrições oramentárias para obter acesso a periódicos foi um dos fatores que levou ao surgimento de técnicas matemáticas/estatísticas para a avaliação da produção científica.
+
+- Primórdios da bibliometria: 1917 - Fracis J. Cole e Nellie B. Eales - "Estatística bibliográfica"
+
+- 1927 - Alfred J Lotka: Lei matemática que diz que frentes de pesquisa são representadas por poucos autores muito produtivos.
+
+- 1928 - P. L. K. Gross, E. M. Gross - Análise baseada em citações (Química). Busca levantar artigos mais relevantes.
+
+- Décadas seguintes - Duas novas leis (muito conhecidas) são publicadas:
+
+  + *Lei de dispersão das publicações de artigos em periódicos* (Samuel C. Bradford - 1934)
+
+    - Tbm chamada "Lei de Bradford". Amplamente usada na bibliometria científica, já q periódicos são o principal veículo de comunicação.
+
+  + Lei de George K. Zipf (1949)
+
+    - Baseada em ranking de frequências de palavras. Muito aplicada na linguística.
+
+- 1955 - Eugene Garfield
+
+  + Publica artigo sobre um índice de citação (parece importante, provavelmente esbarrarei nisso depois)
+
+  + No mesmo artigo, menciona a idéia de fator de impacto de periódicos. Aparentemente, esse tema já foi tratado por outros autores antes, mas foi popularizado por esse artigo de Garfield.
+
+- 1960 - Inúmeros marcos:
+
+  + Termo 'bibliometria' popularizado por Alan Pritchard (mas criado bem antes, em 1934, por Paul Otlet).
+
+  + Criação do Science Citation Index (SCI), por Eugene Garfield, que também transforma a Lei de Dispersão de Bradford na "lei de concentração de Garfield", criando um núcleo de periódicos principais abrangindo a ciência mundial.
+
+  + Garfiled também fundou o *Institute for Scientific Information (ISI)*. Por mais que o nome atual seja Clarivate Analytics (e antes disso, Thomson Scientific), a sigla “ISI” é a referência mais popular.
+
+
+  + Derek J. de Solla Price: Origem de nova especialidade: a *Cientometria.*
+
+    - 'A Cientometria foi chamada por Price, em 1969, “ciência das ciências”, por estudar o comportamento das ciências, se atendo não apenas às publicações, mas ao sistema de pesquisa como um todo.'
+
+    - Ou seja, a Bibliometria está inserida na Cientometria.
+
+    - A princípio, análises quantitativas da produção científica não atentavam para a política científica, algo que muda na década de 70
+
+- Década de 70: Barateamento de bens associados à informática, ampliação de bancos de dados bibliométricos e grande desenvovlimento na área.
+
+- Década de 80: ampliação das possíveis aplicações da bibliometria. Mapeamentos gráficos e modelagem matemáticas.
+
+** Inserção e desenvolvimento no Brasil
+
+- Artigo pioneiro: Urbizagástegui-Alvarado (1984)
+
+  + Levantamento de trabalhos bibliométricos - 2 leis mais usadas
+
+    - 50% usam a Lei de Bradford
+
+    - 14% usam a Lei de Lotka
+
+  + MACHADO (2007), por outro lado, encontra a Análise de Citação como técnica de análise prevalente. Possivelmente a maior disponibilidade de computadores e poder de processamento...
+
+- Instituto Brasileiro de Informação em CiênciaTecnologia (IBICT) - primeiro indício de institucionalização
+
+- Desenvolvimento da bibliometria (contexto histórico): resposta à importância que passou a ser creditada à informação, não apenas científica, após a segunda guerra mundial.
+
+- "A ciência da informação recorre à disciplinas métricas, como a bibliometria e, mais recentemente, cientometria e infometria." (MACHADO, 2007)
+
+- "Num estudo mais recente, Meneghini e Packer (2010) analisaram a produção científica não apenas em Bibliometria, mas incluíram áreas correlatas como a Cientometria, Informetria, Avaliação de Produção Científica, entre outras, e ainda fizeram uso de fontes de informação com maior abrangência da produção científica nacional – o Google Acadêmico e a Plataforma Lattes – não restringindo a publicações da área de Ciência da Informação."
+
+  + *Ou seja, Bibliometria e Avaliação da Produção científica podem ser consideradas coisas distintas?*
+
+- Dicas de periódicos (onde os brasileiros publicam mais):
+
+  + Nacional: Ciência da Informação
+
+  + Internac: Scientometrics
+
+- Bibliometria é parte da ciência da informação, mas é útil à comunidade científica como um todo, permitindo compreender e criticar a política científica nacional e seus métodos de avaliação.
+
+** Fontes de informação e indicadores bibliométricos para subsídio à política científica brasileira
+
+- Brasil da década de 70: Concepção e desenvolvimento de um sistema de desenvolvimento científico e tecnológico. O que gera, por sua vez, uma nova classificação de periódicos (que na verdade foi um fênomeno internacional)
+
+- No Brasil, surge o sistema de avaliação de periódicos QUALIS, extensamente abordado no artigo...
+
+- Outras iniciativas citadas:
+
+  + Web of Science - Interface de acesso ao Science Citation Index (SCI)
+
+    - O SCI, por sua vez, apresenta 3 versões: (i) Science, (ii) Social Sciences e Arts & Humanities e (iii) Journal Citation Reports (JCR)
+
+    - WoS correu atrás de periódicos regionais. Ex:
+
+      + " O total de periódicos brasileiros indexados na WoS, que em 2005 era 27, alcança um total de 132 em 2010 (TESTA, 2011)."
+
+  + Portal de Periódicos da CAPES (Periodicos nacionais e internacionais)
+
+  + SciELO (Scientific Electronic Library Online) - Foco em periódicos nacionais
+
+  + JCR - O que é?
+
+  + Google Scholar
+
+    - Gratuito (como tudo da google)
+
+    - Alta capacidade de recuperação de artigos não encontrados nos índices tradicionais
+
+  + Scopus
+
+    - Da editora comercial Elsevier (assim como o Mendeley)
+
+    - Cobertura abrangente: periódicos nacionais e regionais.
+
+    - Indexa grande número de periódicos nacionais (especialmente após parceria com SCImago)
+
+- Indicadores dessas bases passaram a compor a avaliação da produção científica Brasileira. O Qualis passou por mudanças, por exemplo. É importante se manter atento a essas mudanças, que nos afetam diretamente.
+
+- Índice h
+
+  + Criado por Jorge E. Hirsch para comparação entre pesquisadores.
+
+  + Quase automaticamente adaptado para analisar periódicos
+
+  + Disponibilizado por Web of Science e Scopus.
+
+  + Assim como o fator de impacto, sua simplicidade metodológica fez com que esse índice extrapolasse a bolha dos especialistas em cientometria.
+
+  + Tanto é que vários outros índices criados pela *International Society for Informetrics and Scientometrics (ISSI)* não são conhecidos pela comunidade científica.
+
+- Muganini e Sales (2011):
+
+  + ìndices de citação são os principais indicadores usados na avaliação da produção científica nacional.
+
+  + Fator de impacto das revistas também é mto considerado, apesar de estar sempre sujeitos à inúmeras críticas
+
+  + Índice H não é tão usado, muito embora componha critérios de algumas áreas, como no caso das ciencias da saude.
+
+** Críticas à consagração de um indicador: alternativas e o ferramental metodológico disponível
+
+- JCR - Journal Citation Index. Periódico anual que dá informações sobre os mais diversos periódicos das ciencias naturais e sociais, assim como provê os *fatores de impacto* dessas revistas.
+
+- A publicação do JCR, desde 1975, pelo ISI, reforça a proeminencia das revistas/artigos/ciencia /mainstream/. Isso, em grande parte, pelo fator de impacto, o qual vem sendo cada vez mais criticado nas mais diversas publicações.
+
+- 5 críticas predominantes:
+
+  1. Originalmente desenvolvido para desenvolvimento de coleções, não para avaliação;
+
+  2. Incomparabilidade, dadas as especificidades entre áreas;
+
+  3. Assimetria entre elementos contados no numerador e denominador;
+
+  4. Janela de citação de dois anos;
+
+  5. Estabelecimento da língua inglesa e centralização americana.
+
+- O terceiro fator pode ser manipulado por revistas para aumentar seu fator de impacto.
+
+- Revistas geralmente rejeitam publicações que potencialmente não serão tão citadas pq poucas citações levam a quedas no fator de impacto
+
+- Há casos mais extremos, como revistas especializadas que passaram a não publicar nenhum artigo de caso clínico, já que esses geralmente não são tão citado. Uma decisão completamente editorial.
+
+- O corpo editorial da revista usou isso para tentar aumentar de forma forçosa o fator de impacto. É basicamente um jogo editorial para aumentar o numerador e diminuir o denominador do fator de impacto.
+
+- O denominador restringe os tipos de artigos considerados, mas o numerador não. Logo, outra estratégia para "inflar" o fator de impacto é a publicação de bons editoriais, alatamente citáveis.
+
+- Glänzel e Moed (2002):
+
+  + Autores falam como o uso do fator de impacto está associado à fatores como "facilidade de compreensão" (afinal, é apenas a média de citações recebidas pelos artigos do periódico), "robustez" e "rápida disponibilidade".
+
+  + Mas tbm falam de limitações, como "a falta de normalização das práticas de referência; a não discriminação de artigos de revisão, que são muito mais citados; a incapacidade de uma única medida de aferir padrões de citação de periódicos; e o problema da frequente utilização do FI isolado do seu contexto (MOED, 2005)."
+
+
+- Também há várias ressalvas sobre o quão estatísticamente válido é usar apenas a média de citações como indicador do impacto de uma revista.
+
+- Quando o FI é usado, comumente não são usados testes estatísticos para validá-lo (Frank - 2003)
+
+- Seria a média uma medida adequada, já que há uma grande discrepancia no numero de citações de diferentes artigos? (Colquhoun 2003)
+
+- Sem falar que algumas áreas simplesmente possuem menos pessoas trabalhando nelas. Logo, o número de citações (e impacto das revistas/artigos) acaba não refletindo a qualidade da pesquisa.
+
+- Assumir que fator de impacto significa qualidade de um dado periodico é muito propenso a erro, já que isso implica "assumir perfeita comunicação na comunidade científica internacional" (Velho, 1986). Assumir que todos os pesquisadores de todas as áreas possuem igual probabilidade de citar o seu artigo, independente da área de atuação dos mesmos.
+
+- "Saha, Saint e Christakis (2003) mencionam que o FI reflete a reputação de um periódico, mais do que sua qualidade." Eu adicionaria que reflete a popularidade dos periódicos tbm...
+
+- De forma geral, indicadores bibliometricos podem medir impacto, mas não qualidade. E os índices, dentre eles o fator de impacto de periódicos, podem sim ser úteis quando usados cuidadosamente.
+
+- Todas essas críticas ao FI vem levando à criação e adoção de indicadores alternativos.
+
+- Boa parte do trabalho dos bibliometristas é converter a informação bibliogŕafica em bibliometrica. "A primeira, fiel ao manuscrito do autor, com seus códigos, abreviações e erros; e a segunda, exige cuidadosa padronização para garantia da qualidade da análise quantitativa"
+
+- Com o avanço e barateamento de ferramentas/computadores, vivemos em uma era da "bibliometria de escritório", impossível há alguns anos. Uma era onde dá pra fazer coisas interessantes na área com um computador na mão e uma idéiana cabeça.
+
+- O movimento Open Source e Open Access também desempenham funções importantes nisso.
+
+** Considerações finais
+
+- Países cuja publicação científica é sub-representada no contexto internacional devem dar um grande peso a métricas como o Fator de Impacto na definição de políticas públicas de financiamento científico?
+
+- É mto comum nas agências de fomento a premiação pela publicação em periódicos de "alto impacto"
+
+- Apesar disso, o sistema de avaliação feito pela Capes continua mudando e se adequando à novos contextos. Assim sendo, é no mínimo desejável que a comuniade científica se envolva em discussões sobre o tema.
+
+- O autor sugere que uma possivel causa da diminuição do uso da lei de bradford é o uso das bases de dados, que estabelecem as revistas importantes de uma dada área. Mas será que as bases de dados estão definindo bem as coleções de periódicos especializados? Será que não estamos "confortaveis" com o que nos é servido?
+
+- Mais do que isso, será que os periódicos são uma boa unidade de avaliação? Ou deveríamos passar a considerar a análise a nível de artigo como uma alternativa?
 
 
 
 
 
 
+*TODO
 
-
-
-
-
-
-
-
-
-
+Estudar melhor o que é o Science Citation Index (SCI) e suas divisões, JCR e ISI.
 
 
 
