@@ -224,6 +224,14 @@
 
 - Mais do que isso, será que os periódicos são uma boa unidade de avaliação? Ou deveríamos passar a considerar a análise a nível de artigo como uma alternativa?
 
+* Livro: \cite{mugnaini2017a}
+
+- Bibliometria/cientometria envolvem custos substanciais. Ter uma infraestrutura adequada à pesquisa bibliométrica "profissional" tem um grande custo envolvido. - In: *Discussões gerais sobre as características mais relevantes de infraestruturas de pesquisa para a cientometria*
+
+- Pular artigo “Avaliação Institucional na USP”.
+
+- Pesquisar diferença entre cientometria, bibliometria, tecnometria (associado à patentes) e altmetria (associado à recepção da ciência em outras fontes, como redes sociais?), webometria...
+
 
 
 
