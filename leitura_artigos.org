@@ -226,16 +226,164 @@
 
 * Livro: \cite{mugnaini2017a}
 
-- Bibliometria/cientometria envolvem custos substanciais. Ter uma infraestrutura adequada à pesquisa bibliométrica "profissional" tem um grande custo envolvido. - In: *Discussões gerais sobre as características mais relevantes de infraestruturas de pesquisa para a cientometria*
-
 - Pular artigo “Avaliação Institucional na USP”.
 
-- Pesquisar diferença entre cientometria, bibliometria, tecnometria (associado à patentes) e altmetria (associado à recepção da ciência em outras fontes, como redes sociais?), webometria...
+** Discussões gerais sobre as características mais relevantes de infraestruturas de pesquisa para a cientometria
+
+- Bibliometria/cientometria envolvem custos substanciais. Ter uma infraestrutura adequada à pesquisa bibliométrica "profissional" tem um grande custo envolvido.
+
+- Pesquisar diferença entre cientometria, bibliometria, tecnometria (associado à patentes) e altmetria (métrica baseada no uso  de fontes de dados alternativos, comumente associado à recepção da ciência em outras fontes, como redes sociais), webometria...
+
+** Rumo a indicadores para ‘abertura’ de políticas de ciência e tecnologia1
+
+- Fala na introdução como o uso simplista de metricas vem sendo criticado, e como está havendo um empenho para melhorar a robustez das métricas, com incorporação dos mais diversos dados, como os altmétricos ou a adição de periódicos nacionais/regionais. Em suma, devem ter mais inputs.
+
+- "Com isso, as comunidades de indicadores e de políticas da C&T voltaram a acreditar que a cientometria deve contar com múltiplas fontes de dados que podem proporcionar ‘indicadores parciais convergentes’ (MARTIN; IRVINE, 1983)."
+
+- Aumentar os inputs tbm aumenta os outputs, o que adiciona possiblidade de interpretações contrastantes e abre margem para viéses (mas ainda assim menos do que quando não há discussão), mas tbm permite tomar decisões mais ponderadas.
+
+- Cita artigo que *não é de review* (RAFOLS et al. 2012) para ilustrar o aumento dos inputs e seu impacto nos outputs.
+
+- Indicadores como "dispositivos discutíveis, que permitam aprendizado" (Barré, 2010, pg.227)
+
+- Duas dimensões:
+
+  + Amplitude: Associada ao número de inputs
+
+  + Abertura: O quanto que os outputs permitem interpretações plurais e opções de políticas contrastantes a serem debatidas. Quanto maior a abertura, menor a tendência de busca por uma única melhor explicação, método ou resposta. É mais holístico.
+
+- A avaliação cientpométrica convencional tende a ser bastante estreita nas duas dimensões.
+
+- Mesmo quando a análise é ampla, ela perde abertura ao sumarizar os inputs em uma única medida. Essa transformação limita a discussão sobre desempenho e define de maneira inequívoca qual universidade/pesquisador é "melhor". Para além disso, essa redução tbm é mais sujeita a viéses.
+
+- O contrário pode ser verdade: a análise pode não ser ampla, mas conceitualizar/operacionalizar seus outputs de forma a gerar suposições/resultados constrastantes.
+
+- Apesar de haver desafios associados à maior amplitude ae abertura, como a questão da visualização dos dados (é difícil fazer uma redução de dimensão quando os resultados vêm de fontes de dados muito distintas, muito embora seja possível operacionalizar eles de forma distinta), é importante evitar que ‘Medidas estatísticas tendem a substituir o debate político pelo conhecimento técnico’ (MERRY, 2011). Sob essas circunstâncias, torna-se imperativo que hajam debates mais abertos envolvendo as escolhas normativas cruciais subjacentes aos indicadores (BARRÉ, 2010). Com isso, teremos avaliações mais rigorosas e confiáveis.
+
+** A pesquisa bibliométrica na era do big data: Desafios e oportunidades
+
+- Nem sempre mais é melhor. Dados podem ter diferentes qualidades.
+
+- Assim como em qqr análise estatística, as conclusoes tiradas da análise se aplicam somente à amostra utilizada. Características das amostras mudam dependendo do subset utilizado (parametros de est. descritiva e outros)
+
+- Um grande desafio da bigdata bibliometrica é a aplicação de metodologias para limpeza/análise/visualização de dados
+
+- Visualização dos dados também é complexo. Muitas dimensões, que geralmente devem ser reduzidas ao msm tempo em que mantêm as relações observadas. Várias técnicas são usadas para simplificar a representação dos dados, como *análise de agrupamento* e *análise fatorial para dados quantitativos*, assim como *métodos baseados em linguagem*.
+
+- A análise dos dados tbm é um ponto complicado, já que a enorme diversidade de análises/metodologias disponíveis permitem que os pesquisadores cheguem a diversos resultados com os mesmos dados. Logo, a adequação da escolha metodológica deve ser justicada caso a caso.
+
+- Mas as oportunidades são enormes também. Há mtos dados e porgramas disponíveis para trabalhar com esse crescente contingente de informação bibliográfica.
+
+- Redes de citações: Extremamente usada, mas tem uma desvantagem: se não há citação, não há relação. Assim sendo, pesquisadores que não se conhecem/citam, mas estão na mesma área ou compartilham interesses não têm suas similaridades identificadas por esse tipo de análise.
+
+- Análise de linguagem: primeiramente, usava co-ocorrência de palavras em títulos ou palavras-chave para estabelecer relações. Hj, com Natural Language Processing e afins, essas análises passam a ser passíveis de serem utilizadas em textos integrais. Também há outras abordagens, como *comparações baseadas em texto utilizando modelagem de tópicos (WALLACH, 2006)*. Métodos baseados em texto e em citações podem se complementar.
+
+** Avaliação Institucional na USP
+
+- Vários pormenores sobre os tipos de avaliação institucional e como esse processo se dá na USP. Não é mto interessante.
+
+
+** Políticas Públicas em Ciência e Tecnologia no Brasil: desafios e propostas para utilização de indicadores na avaliação
+
+- Fala sobre o sistema de avaliação da pós-graduação brasileira (realizado pela CAPES) em detalhe.
+
+- Parece um bom artigo para ser adicionado aos principais...
+
+- Artigo recomendado: "Dez coisas que você deveria saber sobre o Qualis"
+
+* Artigo \cite{roldan-valadez2019}
+
+- Paper fala sobre o uso de medidas bibliométricas para escolher a revista mais adequada para o seu paper baseado em impacto e prestígio.
+- "Since there is a journal performance market and an article performance market, each one with its patterns, an integrative use of these metrics, rather than just the impact factor alone, might represent the fairest and most legitimate approach to assess the influence and importance of an acceptable research issue, and not only a sound journal in their respective disciplines."
+- Autor fala que, apesar das críticas ao fator de impacto das revistas por vários acadêmicos, é fato que os autores geralmente dão grande importância ao fator de impacto em suas decisões sobre onde submeter os manuscritos.
+- Daí, começa a falar sobre as mais diversas métricas. Histórico, como elas são calculadas, quem está interessado na mesma, seus pontos fortes e críticas.
+
+** Metricas (journals)
+  + IF
+    - Publicado anualmente pelo Journal Citation Reports (JCR)
+    - Descrição bem detalhada sobre o indicador. Ótima tabela que fala das condições que impactam o IF. Fala sobre a questão das cartas e editoriais e como eles podem ser contados no numerador se citados, mas não no denominador.
+    - Inclusive, faz sentido esses itens não serem contados, pois normalmente não são citados mesmo, e adicioná-los diminuiria artificialmente o fator de impacto. Entretanto, do jeito que está, as revistas com mais prestígio tendem a ter seu IF inflado (todo mundo envia cartas e geralmente tem bons editoriais). Tbm abre margem para inchar esse valor ao aumentar o numero de editoriais e priorizar artigos de revisão. Não seria mais interessante considerar citações desse tipo de documento separadamente, em outra métrica, que seja?
+    - Também fala de como, para o IF, a distribuição das citações é não-paramétrica. E na verdade, menos de 20% dos artigos concentram mais de 50% das citações.
+  + Cited Half-Life
+    - Medida da taxa de declínio da curva de citação
+  + CiteScore (Uma nova forma de se avaliar o impacto das revistas - Está ganhando mta projeção. Talvez a evolução do IF?)
+    - Incorpora SCImago journal rank e Source-Normalised IMpact per paper
+  + SCImago journal rank (SJR)
+    - Ao contrário do IF, que não dá peso para as citações, ele dá um peso maior para citações dos journals com maior SJR.
+  + Source-Normalised Impact per paper (SNIP)
+    - Calcula impacto por citação ao mesmo tempo que considera o total de citações de uma área.
+    - Janela de publicação maior (3 anos)
+    - Permite comparação entre áreas diferentes
+  + Eigenfactor metrics
+    - Consiste no Eigenfactor score e Article Influence. Disponiveis para o JCR depois de 2007
+    - Tem uma ótima tabela comparando os dois tbm
+  + Eigenfactor score (ES)
+    - Num de vezes artigos de uma dada revista q foram publicados nos ultimos 5 anos foram citados nesse ano (JCR - IF year).
+    - Citações têm peso diferente, dependendo do journal. Journal self-citation removidas (só são consideradas citações de uma revista para outra).
+    - Algoritmo complexo, similar a Google Page Rank
+    - Calcula disseminção do artigo
+    - Não tem denominador. Logo, é sensível à quantidade de itens citáveis. Em outras palavras, revistas com mais artigos tendem a ter ES maior.
+  + Article INfluence Score (AIS)
+    - Baseado no ES
+    - Determina a influencia dos artigos de um jornal após os 5 anos da data de publicação dos mesmos.
+    - Ao contrário do ES, ele possui numerador e denominador
+    - Cálculo: ES dividido pelo num de artigos no jornal, normalizado como fração de todos os artigos
+  + Immediacy Index
+    - Mede o quanto que artigos recentes de um journal são citados. Ou seja, o quão rápido esses papers desses journals estão sendo adotados na literatura.
+
+** Métricas (Pesquisador)
+
+- H-index
+  + Combina produtividade e impacto
+  + Criado para avaliar autores, mas pode ser usado para qr conjunto de documentos (ex: publicações de um departamento)
+  + Os outros indices tentam abordar problemas/limitações específicas do H-index
+- G-index
+- HC-index
+- Individual H-index
+- E-index
+- M-index
+- Q-index
+
+** Altmetrics
+- "Altmetrics covers not just citation counts but also various other aspects of the impact of an article such as how many data and knowledge bases refer to it, article views, full-text down- loads, Facebook likes, or mentions in social media and news media [78]."
+
+** Proposed method to use bibliometrics
+
+- Os autores tbm sugerem um pipeline/metodologia para planejar em qual revista sumeter o trabalho, acompanhar a importancia do paper e ter uma perspectiva sobre a performance anos depois.
+- Essa é uma abordagem mais integrativa, que não se baseia apenas no IF.
+- Talvez ler para entender isso melhor depois...
+
+
+* Artigo: \cite{wang2019}
+
+- Bibliometria só diz respeito à avaliação do impacto de artigos dentro da academia, mas não versa sobre a influencia de pesquisadores fora da academia, e o nome dos autores (para além de outros fatores) estão associados ao quanto os papers são citados. A altmetria tbm visa uma medição do impacto da pesquisa em uma esfera mais social. Um dos maiores beneficios da altmetric é seu potencial de mensurar o impacto mais amplo da pesquisa, aquele que vai para além do meio científico.
+- Janela de 3 anos: aparenetemente, bom período para todas as áreas:
+  + "And according to Glänzel (2008), the use of a 3-year citation window is “a good compromise between the fast reception of life science and technology literature and that of the slowly ageing theoretical and mathematical subjects”" - artigo dos sete mitos
+- Usa uma combinação de preditores obtidos a partir de índices bibliométricos e altmétricos nos primeiros dois anos após a publicação dos artigos para predizer quais artigos se tornarão altamente citados. Consegue fazer isso com um bom poder de predição com as abordagens de machine learning utilizadas. Chega à conclusão que os melhores preditores englobam tanto ínidices altmetricos quanto bibliométricos (muito embora os bibliométricos sejam a maioria, usar ambos parece aumentar o poder de previsão).
+
+
+* Artigo: \cite{eysenbach2006}
+
+- Duas opções para tornar o paper público: Open Acess ou Self-Archive.
+- Mas será que o fato do paper estar público tem impacto no quanto ele é citado?
+- OBS: Papers com mais autores: tendem a ser mais citados, isso pode vir de mais autocitações e/ou pelo paper ter de fato maior qualidade (mais pessoas trabalharam nele, afinal)
+- Trabalho mostra que o paper estar em open access aumenta a immediacy - o quanto que ele é citado no começo da sua vida. Mas também parece aumentar a quantidade de citações de forma geral.
 
 
 
 
 
+
+
+
+
+
+* IDEIAS
+
+- Falar sobre a institucionalização da ciência e como o lab adotou uma ideologia capitalista (desenterrar os textos do Rômulo)
+- Citações são diferentes entre si: algumas são para isso, algumas para aquilo. E se houvesse uma forma de classificação de citações, para atribuir pesos diferentes a elas?
+- Pq as pessoas continuam usando tanto o IF? Bom, pq as pessoas continuam adotando 0,05 como limiar de significância para teste estatístico? Meio que se tornou uma convenção. Algo que as pessoas nem param para pensar sobre.
+- Será que tem algum artigo que eu possa usar no arquivo de srtigos do reproducibilitea?
 
 *TODO
 
