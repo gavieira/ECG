@@ -370,20 +370,45 @@
 - Trabalho mostra que o paper estar em open access aumenta a immediacy - o quanto que ele é citado no começo da sua vida. Mas também parece aumentar a quantidade de citações de forma geral.
 
 
+* Artigo (review): \cite{pendlebury2009}
 
+- Dá um resumo dos marcos históricos da bibliometria. Dos poloneses, passando por Garfield até o estabelecimento de centros de pesquisa na área.
+- Esse autor diz que bibliometria e cientometria são nomes usados para a mesma coisa.
+- Sugere o livro "Citation Analysis in Research Evaluation", por Henk F. Moed, como um bom review do campo da bibliometria até o ano de 2005.
+- JCR não tem apenas o IF das revistas. Tem tbm várias outras informações/métricas, como o immediacy index e meia-vida de citação.
+- Logo, usar o fator de impacto sozinho para definir onde publicar ou o valor de um artigo não é justificado, já que mesmo a revista que gera o fator de impacto gera tantas outras métricas que poderiam ser levadas em consideração. (E diga-se de passagem, mesmo o Garfield sempre disse que o fator de impacto é só mais uma métrica, e que não deveria (mas possivelmente seria) ser usada para classificar artigos)
+- Críticas sobre o Fator de Impacto com relação a como esse é usado (erroneamente) para dar juízo de valor sobre artigos individuais devem ser direcionadas às pessoas que fazem esse mal uso da métrica, não à métrica em si...
+- "H-index, v-index, g-index, y-index, Eigenfactor, audi- ence-factor: What is the non-bibliometrican to think of this mélange of measures? It is important to recognize that different measures attempt to answer different questions and that each will emphasize or highlight cer- tain aspects and nuances of a phenomenon. This is not to deny that some measures may be better, in general terms, than others. There is certainly room for advance- ment in terms of new and better measures. But it is also necessary to point out that there is a fallacy in demanding a single-number metric or just one approach to analysis. "
+- "O q as citações medem, afinal?" - Pergunta é abordada em um livro \cite{moed2006}
+- Citações representam noções de uso, recepção, utilidade, influencia, e o nebuloso termo "impacto". Citações, entretanto, *não representam medidas de qualidade*. Para averiguar a qualidade de um trabalho, *é estrtitamente necessario o julgamento humano*, por mais que ele possa ter seus viéses e problemas.
 
+* Artigo (review): \cite{waltman2016}
+- Fala bastante sobre databases bibliograficas (WoS, Scopus e Google Scholar)
+- Depois, fala sobre indicadores de impacto baseados em citação
+- Paper enorme (não vou passar pra banca), mas explica tudo nos mínimos detalhes. Bom ler para preparar a apresentação
+- Fala muito sobre janela de citação, auto-citação, normalização... Muito bom
 
-
-
-
-
+* Artigo (review): \cite{tahamtan2016}
+- Autor fala muito sobre a importância das citações para mensurar  a qualidade de um artigo, sendo que a citação não mede isso... Mas dá uma cutucada nessa visão simplista dps. Dps ele até comenta que diferentes pesquisadores terão diferentes opiniões sobre o q exatamente é qualidade.
+- Basicamente, a qualidade da análise estatistica do paper não impacta o numero de citações
+- Paper com equações diferenciais e mtas notas de rodapé tendem a ter menos citações
 
 * IDEIAS
 
 - Falar sobre a institucionalização da ciência e como o lab adotou uma ideologia capitalista (desenterrar os textos do Rômulo)
-- Citações são diferentes entre si: algumas são para isso, algumas para aquilo. E se houvesse uma forma de classificação de citações, para atribuir pesos diferentes a elas?
+- Citações são diferentes entre si: algumas são para isso, algumas para aquilo. E se houvesse uma forma de classificação de citações, para atribuir pesos diferentes a elas? Agora, com uma cada vez maior disponibilidade de artigos full-text, isso se torna cada vez mais uma possibilidade.
 - Pq as pessoas continuam usando tanto o IF? Bom, pq as pessoas continuam adotando 0,05 como limiar de significância para teste estatístico? Meio que se tornou uma convenção. Algo que as pessoas nem param para pensar sobre.
 - Será que tem algum artigo que eu possa usar no arquivo de srtigos do reproducibilitea?
+- Encontrar artigos sobre:
+  + Os manifestos sobre a bibliometria
+  + Os bancos de dados usados
+  + Softwares usados (citnetexplorer, publish or perish...)
+- Tentar pesquisar no web of science/scielo/scientometrics por artigos de revisão
+- Pesquisar depois qual o fator de impacto para que a pós pague pelo artigo. E discutir que usar só isso como critério é um mal uso do fator de impacto, pois publicar numa revista de alto impacto não significa que o artigo é de qualidade ou que será bem citado.
+- Nas métricas bibliometricas para revistas, falar pelo menos do IF e (claro) do QUALIS
+- Mostrar (com exemplos) que muito da vida moderna envolve caracterização de atividades humanas em termos de estatísticas. Daí falar que o mesmo é válido para a ciência.
+- Problema editorial: Quando os pesos são diferentes por revista, e isso é usado para dar peso à citações, isso não torna o IF algo recursivo? Como que uma nova revista irá surgir e aumentar seu impacto sem as falcatruas dos editoriais e afins?
+- Como o fator de impacto é uma consequencia e tbm uma causa de citações, pode ser complicado trabalhar (só) com ela.
 
 *TODO
 
