@@ -393,6 +393,56 @@
 - Basicamente, a qualidade da análise estatistica do paper não impacta o numero de citações
 - Paper com equações diferenciais e mtas notas de rodapé tendem a ter menos citações
 
+* Artigo: \cite{glanzel2008}
+- Fala sobre 7 mitos da bibliometria
+  1. Myth of delayed recognition
+     - Na verdade, são raros os artigos que são mais citados depois
+     - E por mais que o envelhecimento da informação científica varie de área para área, o autor defende que 3 anos é um bom compromise
+  2. Myth of self-citation
+     - Coloca a autocitação como algo comum da ciência e fala dos argumentos para considerá-la. Ao mesmo tempo, fala de como ela serve para análises específicas
+  3. Colaboração como chave para sucesso
+     - Por mais que aceite que de fato a colaboração em média aumente a taxa de citações, questiona a idéia de que isso é o bastante para ganhar financiamento e afins, discorrendo sobre os efeitos nocivos desse mito.
+  4. Citações como medida de qualidade
+     - Joga a idéia do artigo/citações como a moeda corrente da ciência
+     - Defende que citações e fator de impacto está mais associado à recepção do trabalho do que à sua qualidade, mesmo que haja estudos estatísticos que mostrem correlação entre as duas coisas. (Mto embora correlação não implique causalidade)
+     - " Even where the impact factors are not used as immediate evaluation tools, these journal citation measures often serve as decision criterion and reference standard in the choice of journals for paper submission. Reaching the targeted readership has become a secondary aspect in individual publication strategies"
+  5. Reviews inflam o impacto
+     - É verdade que a média de citações de artigos de revisão é maior q a de artigos originais
+     - Entretanto, a distribuição de citações de revisões tbm é assimétrica, logo não é uma garantia de alto impacto
+     - Para além disso, preparar artigos de revisão é trabalho duro, que requer experiencia na área
+  6. Uma vez altamente citado, sempre altamente citado
+     - Fala de exemplos em q msm artigos retratados continuam altamente citado, e o impacto do autor sobe msm quando ele não publica mais
+     - Entretanto, nós somos continuamente avaliados e, mesmo que hajam métricas que são "infladas" pelo trabalho cumulativo (citações, por exemplo), há tantas outras q não o são
+  7. Não se deve usar média em bibliometria
+     - ..já que a distribuição de citações é extremamente assimiétrica
+     - Entretanto, geralmente trabalhamos com amostras (Corpus) consideravelmente grandes de uma totalidade. Daí entra o teorema do limite central.
+
+* Artigo: \cite{garner2018}
+- Sumarização de várias métricas
+- Excelente explicação do q é o h-index e outros índices
+- Tem tabela excelente que mostra como os índices variam de acordo com a database usada.
+
+* Artigo: \cite{wallin2005}
+- Fala de alguns métodos bibliometricos pouco conhecidos/discutidos: Publication analysis, Bibliographing, etc...
+- "JIF was originally only envisaged as an aid for scientific libraries for the evaluation of their choice of scientific journals."
+- Citação como medida de qualidade: Implica assumir que TODO MUNDO lê TODA A BIBLIOGRAFIA da sua área e consegue, sem viéses, selecionar apenas os verdadeiramente mais relevantes. Ao mesmo tempo, os viéses se diluem se analisarmos muitas pessoas de uma vez.
+- Cada pesquisador tem sua própria "identidade de citação" (White 2001 & 2004), citando por diferentes motivos
+- "If a relationship between citation frequency and research quality does exist, this relationship is not likely to be linear. The relationship between research quality and citation fre- quency probably takes the form of a J-shaped curve, with exceedingly bad research cited more frequently than mediocre research (Bornstein 1991)"
+- "The conclusion must therefore be that there is no unam- biguous relationship between citation parameters and scien- tific importance and/or quality. If we then assume that there must after all be some sort of relationship, an explanation for these clearly conflicting investigations must therefore be that the relationship is so complex that we have difficulty in capturing it with the tools available to us"
+- Matthew effect (Merton 1968) or "cumulative advantage" principle (Price 1976): "In the citation world this effect relates to the fact that citing a publication singles it out for other authors, which increases its chances of being cited again"
+- Foca bastante na normalização e como *várias comparações podem sim ser feitas, mesmo entre áreas bem distintas, contanto que os dados seja normalizados*
+
+* Artigo: \cite{belter2015}
+- Bela crítica da idéia que citações são medida de impacto. Desconstrução do que "impacto" significa, afinal...
+- *A citação pode ser usada para medir o quão útil um artigo foi para outros autores*. Mas meio q é só isso que ele mede... E a importância dele para o público em geral? Questões a nível local ou regional?
+- Fala dos problemas do peer-review q levam a usar indicadores: quantidade de papers, falta de reprodutibilidade...
+
+* Artigo: \cite{durieux2010}
+- Descrição boa de praticamente tudo q dá pra fazer em bibliometria
+- Separação dos indicadores bibliometricos em 3 tipos: Quantidade, qualidade e estruturais.
+- Possivelmente um bom exemplo para a aula:
+  + " For example, J.E. Hirsh has reported that the top 10 researchers in physics and biology have quite different h-indexes (46)."
+
 * IDEIAS
 
 - Falar sobre a institucionalização da ciência e como o lab adotou uma ideologia capitalista (desenterrar os textos do Rômulo)
@@ -409,6 +459,11 @@
 - Mostrar (com exemplos) que muito da vida moderna envolve caracterização de atividades humanas em termos de estatísticas. Daí falar que o mesmo é válido para a ciência.
 - Problema editorial: Quando os pesos são diferentes por revista, e isso é usado para dar peso à citações, isso não torna o IF algo recursivo? Como que uma nova revista irá surgir e aumentar seu impacto sem as falcatruas dos editoriais e afins?
 - Como o fator de impacto é uma consequencia e tbm uma causa de citações, pode ser complicado trabalhar (só) com ela.
+- Criar um programinha que jogue um dado multiplas vezes e tire as médias... Para exemplificar o Teorema Central do Limite
+- Comparar os fatores de impacto de duas revistas: uma de molecular e outra de sei lá, ciencia da computação
+- Guardando as devidas proporções, esse lance do fator de impacto é tipo a nota de corte do ENEM. Muitas vezes a pessoa escolhe uma revista por causa do fator de impacto, mesmo que a revista não tenha tanto a ver com a sua pesquisa. Obviamente, espera-se que o peer review dê uma barrada nisso, mas ainda assim...
+
+
 
 *TODO
 
