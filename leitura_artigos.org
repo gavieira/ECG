@@ -475,14 +475,276 @@
 - Afinal, o quão importante é o JIF no Qualis?
 
 
+* Ler artigos mais focados na história da bibliometria/cientometria da próxima vez
 
+* Artigo: \cite{thompson2015}
+- Foca no histórico e no uso de bibliometria nas ciêcias médicas
+- Tem uma explicação menos matemática das Leis de Lotka e Bradford.
+- "Of course, all metrics must be used in context. Bibliometric indexes should generally be used in concert with a thoughtful review by senior colleagues.33, 34" *OLHAR ESSAS REFERÊNCIAS DPS*
+
+* Artigo: \cite{araujo2006}
+- Tbm fala das leis. No caso das 3: Lotka, Bradford e Zipf.
+- Lotka
+  + Fala como a lei de Lotka foi criticada, e como houveram improvements a ela, feitos por exemplo por Price.
+  + Fala de uma outra lei, a *lei do elitismo de Price*:
+    - " Logo depois foi formu- lada a lei do elitismo de Price: o número de membros da elite corresponde à raiz quadrada do número total de autores, e a metade do total da produção é considerado o critério para se saber se a elite é produtiva ou não."
+- Bradford
+  + Lei da dispersão explica pq os índices têm dificuldade em atingir cobertura completa de assuntos. As 2 zonas externas (e especialmente a terceira) possuem um número muito grande de periódicos. Por isso que thompson2015 diz que essa lei inspirou Garfield a criar o SCI, focando em periódicos mais relevantes (core).
+  + "Bradford constatou que mais da metade do total de artigos úteis não estavam sendo cobertos pelos serviços de indexação e resumos"
+  + Essa lei tbm foi contestada e reformulada várias vezes.
+    - "Essa lei tam- bém foi sendo constantemente reformulada e aperfeiçoada, como por exem- plo por Vickery, em 1948, que propôs que o número de zonas não precisa ser três mas qualquer número."
+  + Lei mto importante para bibliotecas:
+    - "Essa lei foi muito utilizada para aplicações práticas em bibliotecas, tais como o estudo do uso de coleções para auxiliar na decisão quanto à aquisição, descartes, encadernação, depósito, utilização de verba, planejamento de siste- ma."
+  + "Estudos atuais têm sido realizados (COOPER; BLAIR; PAO, 1993) bus- cando identificar core lists, isto é, núcleos de periódicos mais produtivos, de uma determinada área, em revisões que confirmam ou reformulam a Lei de Bradford."
+- Zipf
+  + Traça uma correlação entre a ordenação das palavras mais usadas em um texto e sua frequência
+  + Um pequeno numero de palavras é usado mais frequentemente. A maioria é bem mais esporádica
+  + A posição da palavra multiplicada pela sua frequencia cai em uma constante
+  + Zipf forma o princípio do menor esforço:
+    - Há economia no numero de palavras usadas. Não há dispersão, mas sim concentração de palavras.
+    - Aquelas nuvems de palavras com os termos mais usados representam bem isso.
+    - *As palavras mais usadas indicam o assunto do documento.*
+    - Com cada vez mais acesso a full-text documents, isso me parece bem interessante.
+  + Essa lei tbm foi extremamente revisitada e aprimorada ao longo do tempo.
+
+- "Uma variação de enfoques bibliométricos é a teoria epidêmica da trans- missão de idéias, desenvolvida por Goffman e Newill, em 1967, que explica a propagação de idéias dentro de uma determinada comunidade como um fe- nômeno similar à transmissão das doenças infecciosas (ou seja, pelo processo epidêmico). Os autores realizam seu estudo por comparação do ciclo da esquistossomose e da informação, fazendo uma analogia entre os dois siste- mas." - *Linka bem com a idéia de ligar bibliometria e epidemiologia de thompson2015.*
+
+- Daí mergulha na área que considera a mais importante da bibliometria: a análise de citações.
+  - Cita 4 tipos de citações distintas.
+  - "Dentro da bibliometria, particularmente a análise de citações permite a identificação e descrição de uma série de padrões na produção do conheci- mento científico. Com os dados retirados das citações pode-se descobrir: au- tores mais citados, autores mais produtivos, elite de pesquisa, frente de pes- quisa, fator de impacto dos autores, procedência geográfica e/ou institucional dos autores mais influentes em um determinado campo de pesquisa; tipo de documento mais utilizado, idade média da literatura utilizada, obsolescência da literatura, procedência geográfica e/ou institucional da bibliografia utiliza- da; periódicos mais citados, “core” de periódicos que compõem um campo."
+  - Fala do histórico e origens da analise de citações e culmina com o SCI de Garfield.
+  - Fala tbm do envelhecimento (obsolescência) da literatura
+    + Há dois tipos de envelhecimento (clássico ou efêmero)
+    + ALgumas áreas tem o envelhecimento clássico presente, enquanto em outras o envelhecimento é bem efêmero (se baseia em literatura recente que em breve será outdated). Outras são intermediárias.
+
+- Fala tbm sobre a história da bibliometria no Brasil.
+- E sobre diferenças conceituais entre bibliometria, scientometria e informetria
+- E como a bibliometria foi se transformando cada vez mais em uma técnica, que deve ser adotada em conjunto a outros referenciais e métodos (muitas vezes advindos das ciências sociais).
+  + "São trabalhos que se utilizam de dados bibliométricos mas que realizam uma leitura desses dados à luz de ele- mentos do contexto sócio-histórico em que a atividade científica é produzida."
+
+- Exemplo interessante de uso da bibliometria fora do âmbito de indicadores de produção científica e afins:
+  + "Diversas frentes de estudo são levadas a termo na atualidade com essa proposta. Há, por exemplo, estudos de usuários feitos com o auxílio de técni- cas bibliométricas. É o caso do estudo de Oliveira (2004), que analisa a possi- bilidade de aquisição de itens para uma biblioteca universitária a partir de indicativos de necessidades de usuários obtidos com o estudo bibliométrico das referências bibliográficas de teses e dissertações."
+- Ele fala de diversas outras aplicações da bibliometria. Bem interessante.
+
+
+* Artigo: \cite{urbizagastegui}
+- Basicamente, fala como as bases da bibliometria (diversas leis e conceitos, como a obsolescencia, o estudo de ocorrências das palavras e a transmissão de idéias científicas como um modelo epidêmico) já estavam em andamento bem antes da introdução do termo bibliometria em 1969.
+- Começa discorrendo sobre as origens históricas do termo bibliometria.
+- Fala sobre estudos precursores da bibliometria que são bem obscuros e não aparecem na maioria dos outros papers.
+- Lotka, Bradford e esses caras criaram as leis antes mesmo do termo bibliometria ser popularizado em 1969 por Pritchard (lembrando que o primeiro uso foi de otlet em 1934 - /bilbiometrie/)
+- "Em razão do estilo especial e particular de cada falante ou escritor, assim como da existência de uma multiplicidade de línguas, nunca se pensou que a freqüência de ocorrência de palavras num texto tivesse um tipo especial de comportamento. Não obstante, Estoup (1908) já tinha observado que as frequências das palavras da linguagem natural seguem leis estatísticas, tanto que, quando as frequências das palavras são traçadas sobre um papel gráfico, em ordem descendente de freqüências, forma-se uma hipérbole muito similar àquela chamada hoje “Lei de Zipf”."
+- Daí, fala de indicadores de desenvolvimento da área, como a ISSI e seus congressos internacionais, assim comoo surgimento de periódicos específicos, como o scientometrics em 1978. Após mostrar essas evidências, conclui:
+  + " Enfim, pode-se constatar que a institucionalização e legitimação da Bibliometria está em plena expansão. "
+- Price e a distribuição da vantagem acumulativa. Olhar isso melhor. (Sucesso gera sucesso)
+- Na primeira revisão específica do estado-da-art da bibliometria (Narin & Moll, 1977):
+  + "Os autores concluíram que os dados bibliométricos proporcionam observações precisas e adequadas sobre o comportamento da informação, sendo seu maior desafio o desenvolvimento de técnicas mais confiáveis e úteis para a avaliação e a predição."
+- Sobre a segunda revisão:
+  + "A segunda revisão, feita por White & McCain (1989), cobre a literatura produzida de 1977 a 1988. Os autores afirmam que não pretendem *“explicar de novo as leis de Bradford, Lotka e Zipf, as noções da vantagem cumulativa, acoplamento bibliográfico e co-citação, e assim em diante, mas focalizar as linhas de pesquisas [bibliométricas] emergentes dentro das grandes especialidades”* (White e McCain, 1989: 120). Concluem a revisão afirmando que as possibilidades da Bibliometria merecem maiores oportunidades de exploração, apesar de suas fragilidades"
+- Tbm fala por alto do *modelo de crescimento dos recursos limitados de Shaw*
+
+- E depois disso finaliza falando sobre as mais diversas divisões da Bibliometria propostas pelos mais diversos autores.
+
+* Selecionando artigos que falem mais do Brasil (scielo, serrapilheira, qualis)
+- Encontrei alguns arigos sobre o scielo, mas tem MUITO mais artigos sobre qualis.
+- Não encontrei nada da serrapilheira.
+- Aproveitei para adicionar alguns papers que falam da relação entre indicadores bibliometricos e peer-review...
+- Semana que vem, quando for ler, ordenar por "date added" no Zotero
+
+* Artigo: \cite{rego2014}
+
+* Palestra: Como superar a ciência impaciente e a quantofrenia acadêmica?  Uma proposta para avaliação científica mais humana e responsável - Marcus Oliveira
+- Essa questão pode não fazer parte da minha área, mas me afeta (e acredito que afeta todos aqui) diretamente.
+- Práticas comuns do meio corporativo foram adotados/incorporados à nossa cultura de fazer ciencia (além da burocracia): Excelencia, produtividade, impacto...
+- Produtividade científica acaba sendo encarada como um fim em si msma
+- Ciência impaciente: Cientistas como CEOs após a incorporação desse jargão corporativista
+- Amplo foco em indicadores numericos para avaliar pesquisadores, instituções e (erroneamente) a qualidade da pesquisa
+- Impatient science - Desejo de retorno rápido de papers, citações, prestígio, etc...
+  + Aumento da taxa de publicação dos artigos científicos
+  + Cientistas ficam sobrecarregados de informações. Nossa leitura fica cada vez mais superficial graças a isso.
+  + Além disso, os cientistas tbm estão sobrecarregados de atividades não cientificas. Sobrecarga na rotina de trabalho.
+- Quais são as consequencias da ciencia impaciente
+  + Burnout (de Meis et al., 2003). Ficamos acabados psicologicamente.
+  + Aumento das retratações, principalmente em high-profile journals - Talvez um indicio da pressão para que os pesquisadores publiquem nessas revistas de maior impacto
+  + Crise de reprodutibilidade - Muita da pesquisa que vem sendo feita acaba não sendo reprodutivel, já que a pressão é que seja publicável, não reprodutível
+- Ciencia impaciente: conhecimento como uma profitable commodity
+  + Similar ao capital impaciente
+  + O mercado de publicação cientifica se tornou extremamente rentavel/lucrativo
+  + Perfeito modelo de business/negócios: Consumidor e produtor é a msma pessoa: nós. E nós não fazemos idéia do quanto de dinheiro circula nesse mercado.
+- Challenge #1: Overcome the current of scientific publishing (the open access push)
+  + Low costs, high revenue  boost journal profits
+    - Scientific publishing models:
+      + Subscription: Universidade paga mensalidade para revistas para ter acesso a seu conteudo
+      + Paywall: Pessoa individual paga para acessar artigo/conteúdo, caso a universidade não assine aquela revista
+      + Open acces: Uma vez publicado o artigo, qqr um pode ter acesso ao conteudo dele permanentemente. O problema é que o custo de publicação desses artigos é bem alto. E esse custo é mtas vezes pago pelo autor (Author page charges - APC)
+        - Modelo verde: Manuscritos disponíveis em repositorios onlines após período de embargo (self-archiving - vc mantém o artigo e pode disponibilizá-lo após um certo tempo)
+        - Modelo gold: Manuscritos aceitos são acessíveis a todos após publicação. Extremamente abrangente e lucrativo.
+          + Baixo custo:
+            - Pesquisadores não são pagos pelas empresas editoriais para produzir conhecimento
+            - Pesquisadores escrevem de graça para comunicar seus achados
+            - Boa parte da pesquisa publicada é financiada pelo setor público (empresas não arcam com um tostão disso)
+            - "Peer-review" é feito de graça por outros cientistas.
+            - Era digital diminuiu os gastos com publicação
+          + Alta receita:
+            - Taxa de assinatura para universidades são muito altas, assim como paywal (revistas não open-access)
+            - Page charge muito alto (APC) nos journals open access (OA)
+      + O open access não é tão bonzinho quanto pensamos
+    - A bizarra industria da publicação científica
+      + "Professional publishers (Elsevier?) add little value to the research process"
+      + É tipo pagar impostos altíssimos e o governo terceirizar tudo para lucrar com uma receita insana.
+      + Logo, é uma industria bizarra : o Estado financia a pesquisa, paga os salários de quem checa a qualidade da pesquisa (peer-review) e depois ainda paga pela maior parte do produto publicado. Esse modelo foi chamado de "triple-pay". Paga três vezes pelo conhecimento, o que não é justo
+    - Quais são os custos de publicação OA?
+      + Nature é o pior caso: 5200 dolares por artigo
+      + Em média, o APC (author page charges) é 1800 dólares por artigo
+      + Enquanto isso, os editais de financiamento da faperj são de 60000 reais por 3 anos. se publicar 2 papers, 50% desse dinheiro já vai por agua abaixo.
+      + Principais revistas: custo por artigo no modelo gold OA:
+        - Nature: 11500 dolares - e em breve só terá o modelo golden open access, por várias razões
+        - Cell 10395 dolares
+    - Mercado cientifico é enorme: 2.5 bilhoes de papers baixados por ano (2015) - 2.5x mais q o total de downloads da appstore. O lobo mau sabe disso
+    - Open access é um modelo que cai bem às revistas, pois seus artigos têm mais visibilidade e ela lucra o msm (ou até mais) em cima do pesquisador. Para além disso, é garantido que ela vai conseguir lucro com aquele paper específico.
+    - A receita total em 2015 da publicação cientifica foi de 10 bilhoes de dolares.
+    - OA: 28% das publicações. Ainda é incipiente.
+    - Colizão S (Plan S) - Coalizão feita por editoras em 2018 que visa mudar o modelo de subscription-based para open access. Transferindo o custo dos institutos para o pesquisador. O plano era que todas as pub. cientificas financiadas por isntituiçoes publicas ou privadas deveriam ser OA por volta de 2021. Entretanto, o preprint não entraria nisso.
+    - Quem financia o plan S? Várias agências. WHO e outras.Pessoas financiadas por essas agências só podem publicar como OA. O impacto disso é que o pesquisador deve agora arcar com os custos de publicação, usando parte do dinheiro do financiamento para isso, que poderia ir para reagentes, equipamento e afins...
+    - O plan S está ganhando muita popularidade...
+    - O plano possui 10 "mandamentos":
+      + Dentre eles, que os financiadores não devem aceitar o modelo híbrido: publica e não fica aberto durante um tempo de embargo. Depois fica disponível para todos. Mas aceita que revistas q estão em transição receba essas publicações (transformativa arrangements). O que isso quer dizer na prática é que as revistas têm até 2024 para se converter em Full OA. É uma forma de ditar a tendencia do mercado editorial. Se vc tiver um grant de uma agencia financiadora que está no plan S , vc é OBRIGADO a publicar em OA journals (Gold/Green). Vc vai ter que pagar por isso.
+      + Tbm fala que as agencias financiadoras devem monitorar se os pesquisadores estão publicando em OA. Senão, irão sofrer sançoes. Tem que tomar cuidado sobre aonde publicar.
+    - Arranjo transformativo: Forma de corroer o sistema de publicação cientifica - Se uma revista adere ao plan S, ela tem que aumentar o conteudo OA até 75% 2024. Até 31 de dezembro, elas tem que ser full gold open access.
+    - O valor obtido pelo OA será abatido da subscription (como se isso já não fosse uma obrigação) - Na verdade o custo vai aumentar para todo o sistema, como o Marcus fala depois. O menor gasto com periodico capes não necessariamente vai compensar o nosso gasto.
+    - Paises low-income tem isenção de APC (waivers), não precisando pagar nada. lower middle-income ganham descontos
+      + Brasil é considerado upper-middle economy pelo banco mundial. Não tem desconto. Não teremos isso nesse sistema. A publicação gratuita parece morta. O que se desenha lá fora é mto diferente do que tem aqui.
+      + A lista de revistas no plan S é enorme.
+    - Is Plan S affordable for Brazilian Science?
+      + Ok, talvez fosse trocar 6 por meia duzia.
+      + Mas aparentemente, o total gasto pelo periodico capes com artigos é menor que o quanto que nós pagaríamos com os page charges.
+      + Se o periodico CAPES cobrisse só journal subscription, sairia mais barato, mas ele cobre várias outras coisas.
+      + Logo o custo para manter os APCs em conjunto com os periodicos capes vai aumentar.
+    - Devemos lutar para obter waivers e incluir o Brasil nesse tipo de isenção. Plan S parece uma forma de separar os pesquisadores ricos dos pobres, o norte do sul.
+    - Lutar por essa política do waiver é o caminho. Há varias maneiras de lutar contra isso:
+      + Demand change on Plan S waiver policy
+      + Publish in non-OA (free) journals, independentemente da visibilidade
+      + Estimular a publicação em journals locais
+      + Publicar em preprints
+        - Ok, não é peer-review...
+        - Será que não se pode pensar em um modelo no qual se publica primeiro e as críticas vêm depois?
+        - Marcus acredita que o peer-review funciona, eu tbm (não 100%, claro)
+- Challenge #2: Overcome academic quantophrenia and the impact factor obsession
+  + quantofrenia academica: adesão e obsessão por numeros para explicar qqr coisa. Usar eles para tentar qualificar qqr coisa. - conceito de Pitirim Sorokin, 1965
+    - O problema disso é que o fator de impacto é um fim, não um meio. Essa busca incessante pelo fator de impacto, no fim do dia, dá uma nota maior ou menor para o programa de pós graduação. Mas certamente ele está longe de ser uma boa métrica.
+    - Fala do Garfield, e de como ele msm diz que o JIF é indicativo, não um valor absoluto. Até que ponto a maior parte da pesquisa não ser tão citada significa que ela não é de qualidade? Mais do que isso, então 99% da ciência não é de qualidade então? Que trabalho horrível estamos fazendo aqui?
+    - O problema não é o fator de impacto (ou qqr outra métrica). O problema somos nós mesmos. Nossa cultura e nosso desconhecimento sobre as métricas e como aplicá-las. Tanto no nível do pesquisador quanto no de instituições e governamental até. Precisa haver uma mudança na nossa cultura.
+    - Devemos avaliar o conteúdo do trabalho dos nossos colegas, não o fator de impacto. Isso é difícil, mas é necessário.
+    - Fator de impacto usa a média, em vez da mediana... Isso, para uma distribuição assimétrica como a das citações científicas, é misleading.
+    - Fator de impacto têm seu cálculo muito nebuloso.
+    - Há DIVERSOS índices. Mas ele deve ser visto como uma medida acessória, dada a quantidade de publicações. E nenhum índice vai realmente quantificar o prestígio ou qualidade de um pesquisador, da mesma forma que um CR não fala qual aluno é "melhor".
+    - Deve haver uma balança entre quantitativo e qualitativ, depois jogar a questão: numero de citações indicam qualidade? E perguntar se a maior parte da pesquisa cientifica não é de qualidade então. Se for, o que estamos fazendo aqui?
+    - Balancear a avaliação qualitativa e quantitativa. A ciência é mto subjetiva, especialmente na interpretação que damos aos mais diversos conjuntos de dados. As observações podem ser objetivas, mas as extrapolações não o são. A forma como cada um vai contextualizar suas observações é baseada nas experiências e conhecimentos individuais.
+    - Peer-review deve ser menos objetiva e mais subjetiva... Peer review poderia ser inclusive quantificavel.
+    - Como superar a obsessão pelo JIF?
+      + Há sugestões na literatura. Ex: \cite{stern2019} - Incluir peer-review como parte do processo de avaliação, para que outros possam avaliar a qualidade da avaliação. Além disso, o desenvolvimento de métricas a nível de artigo podem ser interessantes (incluindo altmetrics)
+      + Atribuir um DOI aos reviews, que poderiam então ser citados. Obviamente, o  carater anonimo permaneceria. O fato do peer-review poder receber citação pode inclusive ser um incentivo para que os revisores gastem mais tempo fazendo uma boa revisão. Se os reviews seriam consideravelmente citados já é outra história que não tem como saber...
+      + Regra dos cinco: Avaliação de pesquisadores. O pesquisador apresenta seus 5 melhores papers dos ultimos 5 anos.
+      + O próprio peer review poderia ter algum peso ao se avaliar a produtividade de um pesquisador, para q o mesmo tenha algum incentivo a fazê-lo.
+- Challenge #3 Rethink where we aspire to publish
+  + Journal branding as a market strategy to promote their names to the scientific community
+    - As revistas cientificas se tornaram marcas, como Apple, Google, etc.
+    - Os grupos editoriais fizeram isso a principio pensando nas redes sociais
+    - Em vez de www.scientificreports, o link vai para www.nature, o que estabelece essa associação, esse branding. Daí a gente pensa que só a nature é que deve ser almejada para publicação. Esse marketing infla o prestígio de alguns papers. A gente usa essa maquina para amplificar esse prestígio já exacrebado.
+    - Uma possível saída é a publicação em preprints. O inicial foi o arXiv, da área de física. Esse ramo cresceu mto.
+    - Mas, infelizmente, nossa comunidade e os tomadores de decisão não abraçaram os preprints, o q é uma pena... Preprint é efetivamente um open access real.
+- Pioneer initiatives to improve scientific assessment
+  + Visam melhorar nossa cultura de avaliação
+    - San Francisco Declaration on Research Assessment (DORA) - Não usar metricas de jornais para proxy de qualidade de artigos individuais.
+    - Leiden Manifesto - Compilado de princípios. Visa a melhoria dos critérios de avaliação.
+    - The Metric Tide - Redesenho dessas iniciativas, voltadas à realidade inglesa. Recomenda reduzir o peso das métricas na avaliação das pesquisas.
+    - Hong Kong Principles  \cite{moher2020} - Artigo discutido pelo Olavo no reproducibilitea de abril. Baixei a live para ver depois. Reformulação desses critérios, que visa avaliar de maneira correta os pesquisadores. Tornar o processo mais humanitário.
+    - IRSA - The Iniciative for Responsible Scientific Assessment - Iniciativa criada pelo Marcus e colegas.
+      + Escreveram o seu próprio manifesto.
+      + Primeiro ponto é ler os manifestos anteriores e pensar neles. Pensar mais na qualidade de um trabalho do q aonde ele será publicado... Esquecer um pouco os índices.
+        - A UFRJ e a FAPERJ, o CNPQ, nenhum deles endossou o DORA. Isso não faz sentido.
+      + Segundo ponto: Aumentar a qualidade do peer review.
+        - Tanto fazer boas revisões como sugerir bons revisores.
+        - *Ser subjetivo não significa não ser transparente.*
+        - Próprio Garfield fala de como no mundo ideal nós deveríamos ler cada artigo e fazer os julgamentos.
+        - Mais uma vez, com a internet, nós conseguiriamos ter acesso às críticas feitas ao artigo, podendo nos basear menos em citações.
+        - *É impossível colocar toda a dimensão de um artigo, de conhecimento gerado, em um único número.*
+      + Terceiro ponto: Recognize seminal findings by researches
+        - Cite primery literature, avoiding reviews.
+        - Value central scientific discoveries in funding and hiring decisions.
+        - Dá crédito ao pesquisador q trabalhou orginalmente
+      + Quarto ponto: Promote actions to associate quality assessment with more representative scientometric tools in academic decisions.
+        - O fator de impacto não é a melhor métrica.
+      + Quinto: Submit manuscripts to journals with editors who are active scientists, backed by scientific societies.
+        - Particularmente interessante hj em dia, que muitas revistas tem editores profissionais, não cientistas praticantes.
+        - Não dar suporte a revistas predatórias.
+        - Use pre-prints.
+    - IRSA milestones - DORA endorsou o IRSA. Petição online. O que nós vamos fazer a partir de 2024?
+- Perguntas:
+  + Forma de barganha: Se vc é revisor, ganha capital para conseguir um weaver. Isso torna o parecer do revisor mais impactante. Se adicionar o DOI ao parecer, ajuda nessa barganha. J́á tá tudo ali registrado.
+  + Plan S: tira as barreiras dos leitores, mas adiciona barreiras para os autores. Isso desfavorece países como o Brasil. Nós seremos isolados.
+  + Questões de integridade científica estão aflorando tbm. O problema do Qualis, que usa fator de impacto primariamente. Se não nos debruçarmos sobre o Plan S, o Qualis vai acabar. Pq basicamente não vamos ter dinheiro para publicar nessas revistas. Sonia fala que o IBqM é mto crítico e tenta contribuir com os APCs.
+  + Como cultivar a cultura em um instituto onde tem as amarras? Mudar a cultura é difícil. Como fazer isso?
+    - Não precisa recriar nada, mas se a gente tentar seguir boa parte do que o DORA fala, por exemplo. FAPERJ não assinou, por exemplo.
+    - Antes de mais nada, devemos ter noção que há problemas na avaliação da ciência como ela é feita atualmente.
+    - E que aceitar isso de cabeça baixa implica aceitar um status quo que nos isola do circulo de publicação cientifica e favorece os grandes grupos editoriais (35% da margem de lucro é absurdo). Para além disso, as informações circulam e são amplificadas por um grupo pequeno de pesquisadoes (Lotka).
+    - Isso deve ser ventilado continuamente. Não importa a revista em q vc publica. O próprio Marcus diz q tem um paper da Nature de 20 anos atrás e não é o paper mais citado. Mas a cultura é difícil de ser mudada, em grande parte pq a avaliação quer sumarizar tudo em um numero e ngm quer ficar para trás. Para professores que já estão estabelecidos. Para os professores mais jovens, e principalmente para os alunos, isso não é tão simples. Hj em dia nem os preprints são reconhecidos.
+    - Pq o Lattes não aceita preprint? Só pq não tem ISSN? Modelo do preprint é esse: publica primeiro, avalia depois. Será que é um modelo tão ruim assim?
+  + E o caso da ciencia básica é outro: e quando uma pesquisa básica é incorporada em patentes, mas não tem muitas citações?
+  + Vai chegar uma hora que a conta não vai fechar. Daí como que vamos publicar artigos, se teremos que pagar.
+  + O problema do qualis somos nós. Afinal, tem diversas comitês para determinar o que é usado na avaliação. Claro que podem haver realocações de revistas, mas elas são as exceções, não a regra. A maioria dos comitês se baseiam principalmente no fator de impacto, q é a regra, para determinar se é A1, A2, etc... E o posicionamento de revistas que estão entre A1 e A2, por exemplo, às vezes sobe ou desce por mudanças na ultima casa decimal do fator de impacto, q para fins praticos nao quer dizer nada.
+  + *Idéia interessante: Revistas foram espertas. Ao mudar para o Open Access, eles garantem o pagamento de uma vez e evitam problemas com a pirataria, como é o caso do sci-hub.* A revista já tá garantida a priori. Não precisam mais se preocupar com o scihub...
+  + Além disso, quando não havia muitos artigos abertos, nada impedia vc de ir pedir o paper para o autor, o que implica perda de receita da revista. Logo, é uma jogada de mestre das revistas. Elas provavelmente vão aumentar seus lucros.
+  + O problema de verdade é para quem está abaixo do equador economico. Nós, no caso...
+  + O problema principal é a cultura, na verdade. Temos de fazer nossa parte. O q o Marcus faz:
+    - Não dá parecer para revista open access.
+    - As revistas dependem de bons estudos para manter o fator de impacto. Logo, ele tbm não submete nessas revistas se não tiver full waiver.
+    - Esquecer revistas top tier, que gera quantofrenia e favorece os ganhos astronomicos das editoras.
+  + O problema de usar o bioarxiv:
+    - Vc não vai conseguir financiamento
+    - Vc não consegue adicionar no lattes (bizarramente) - Mas será que isso não dá pra resolver relativamente fácil?
+    - Mas como vencer a rede de divulgação das revistas tbm?
+    - O convencimento dos alunos deve vir do exemplo tbm. Devemos publicar no bioarxiv e discutir papers do bioarxiv. Mais importante que isso, CITAR esses artigos. Para além disso, devemos comentar sobre os papers que lemos. Raramente os papers do bioarxiv tem algum comentario. Mais uma vez, um problema de cultura. Talvez assim, iremos fazer com que os alunos publiquem ali e, com essa ação mais coletiva, eventualmente, a ficha dos orgaos de fomento irá cair.
+
+
+* Exemplos nos quais bibliometria pode ser usada noa auxílio do peer-review
+
+** \cite{juznic2010}
+- Fala do dual system of grant approval da slovenia - usa tanto bibliometria como peer review.
+- "Bibliometrics could there serve as an indicator of conflict of interest, indicated for at least 16% of the projects in 2003. On the other hand, scientometric indicators can hardly replace peer review as the ultimate decision-making and support system"
+- "An important reason for introducing the dual system of grant approval in 2008 was to decrease the burden of administration, at least for the majority of researchers who already have a rich bibliographic record to prove their excellence. At least half of the researchers that are selected for phase two can be pre-selected using bibliometric methods. "
+
+
+** \cite{besselaar2020}
+- In this paper, we describe an interesting case in which the use of bibliometrics in a panel-based evaluation of a mid- sized university was systematically tried out. The case suggests a useful way in which bibliometric indica- tors can be used to inform and improve peer review and panel-based evaluation.
+- Today’s reality is that peer review and bibliometric assessment are not anymore two separate activities – in prac- tice they have been merged: many peer reviewers and review panel members use bibliometric databases like WoS- Clarivate, Scopus, Dimensions, Microsoft Academic, Google Scholar, or even ResearchGate to obtain an impression of the applicants or research units they need to evaluate (Moed 2005, ch. 18.3; c.f. de Rijcke & Rushforth 2015).
+- For professional bibliometricians it is obvious that this non-professional use of bibliometrics may lead to serious prob- lems, as the latter often uses indicators like the journal impact factor and the H-index, which are considered flawed by  the former.
+- Não tenta comparar resultados baseados em  índices bibliométricos com peer-review (que é o que geralmente é feito)
+- Como a bibliometria e o peer-review são mto diferentes (bibliometria tem dificuldade em criar indicadores para qualidade e peer-review possui um certo grau de subjetividade), talvez o melhor seja combinar os pontos positivos de cada um, em vez de tentar fazer com que um suplante o outro. Logo, trabalhos como esse me parecem mais interessantes do que a discussão tão presentes do "qual é melhor?"
+- "In order to bring peer review to a level of disinterestedness and fairness (Merton 1973), and to avoid many of the problems of subjectivity and bias that research on peer review has reported, it would be a challenge for the bibliometric community to produce a larger set of valid indicators covering the more quality dimensions that are important when evaluating research, including quality indicators for applied research and societal impact. The current dominance of impact and productivity indicators is too narrow. "
+
+- Capítulo: \cite{haustein2015}:
+  + "Adverse effects, misapplication and misuse of bibliometric indicators can be observed on the individual as well as the collective level. Researchers and journal editors look for ways to optimize or manipulate the outcomes of indicators targeted at assessing their success, resulting in changes of publication and citation behavior, while universities and countries reward publishing in high-impact journals. The more bibliometric indicators are used to evaluate research outputs and as a basis for funding and hiring decisions, the more they foster unethical behavior. The higher the pressure, the more academics are tempted to take shortcuts to inflate their publication and citation records". Most common adverse effects:
+    - "Publishing in Journals That Count The importance of the Web of Science and the journal Impact Factor have led researchers to submit their papers to journals which are covered by the database and preferably to those with the highest Impact Factors, sometimes regardless of the audiences (Rowlands & Nicholas, 2005). More specifically, given that journals with higher Impact Factors are typically Anglo-American journals that focus on Anglo-American research topics, scholars typically have to work on more international or anglo-american topics in order for their research to be published in such journals and, as a consequence, perform much less research on topics of local relevance
+    - Salami Publishing and Self-Plagiarism Increasing the number of publications by distributing findings across several documents is known as salami slicing, duplicate publishing or self-plagiarism.
+    - Honorary Authorship and ghost authorship, i.e. listing individuals as authors who do not meet authorship criteria or not naming those who do, are forms of scientific misconduct which undermine the accountability of authorship and authorship as an indicator of scientific productivity.
+    - Self-citations To a certain extent, author self-citations are natural, as researchers usually build on their own previous research. However, in the context of research evalution, where citations are used as a proxy for impact on the scientific community, self-citations are problematic as they do in fact not mirror influence on the work of other researchers and thus distort citation rates (Asknes, 2003; Glänzel et al., 2006).  They are also the most common and easiest way to artificially inflate one’s scientific impact. Studies found that author self-citations can account for about one quarter to one third of the total number of citations received within the first three years, depending on the field, but generally decrease over time (e.g., Aksnes, 2003; Glänzel et al., 2006; Costas et al., 2010).
+    - Increasing the Journal Impact Factor Due to its importance, the Impact Factor is probably the most misused and manipulated indicator. There are several ways how journal editors “optimize” the Impact Factor of their periodicals, a phenomenon referred to as the ‘numbers game’ (Rogers, 2002), ‘Impact Factor game’ (The PLoS Medicine Editors, 2006) or even ‘Impact Factor wars’ (Favaloro, 2008). One method is to increase the number of citations to papers published in the journal in the last two years, i.e. journal self-citations, by pushing authors during the peer-review process to enlarge their reference lists (Seglen, 1997a; Hemmingsson et al., 2002). *Editors of four Brazilian journals went even a step further and formed a citation cartel to inflate each other’s Impact Factors through citation stacking, which is not as easily detectable as journal self-citations (van Norden, 2013).*
+    - Cumulative or Personal Impact Factors Aside from the Impact Factor being a flawed journal indicator, its worst application is that of cumulative or personal Impact Factors. Developed out of the need to obtain impact indicators for recent papers, which have not yet had time to accumulate citations, the journal Impact Factor is used as a proxy for the citations of papers published in the particular journal. The problem with using the journal Impact Factors as an expected citation rate is that due to the underlying skewed distributions, it is neither a predictor nor good representative of actual document citations (Seglen, 1997a; Moed, 2002). Recent research also provided evidence that this predictive power is actually decreasing since the 1990s (Lozano, Larivière and Gingras, 2013).
+  + COnclusão: "This chapter has reviewed the framework, methods and indicators used in bibliometrics, focusing on its application in research evaluation, as well some of its adverse effects on researchers’ scholarly communication behavior. It has argued that such indicators should be interpreted with caution, as they do not represent research activity – let alone scientific impact – but, rather, are indicators of such concepts. Also, they are far from representing the whole spectrum of research and scientific activities, as research does not necessarily lead to publication. Along these lines, bibliometric indicators do not provide any insights on the social or economic impact of research and are, thus, limited to assessing the impact of research within the scientific community. Hence, these indicators have to be triangulated and applied carefully, adapted to the units that are assessed. For example, while bibliometric data could be quite meaningful for assessing the research activity of a group of physicists in the United States, it would likely be much less relevant for historians in Germany, who typically publish in books national journals. There is not a one-size-fits-all bibliometric method for research evaluation but, rather, several types of methods indicators that can be applied to different contexts of evaluation and monitoring. On the whole, these indicators can certainly not offer a legitimate shortcut to replace traditional peer review assessments, especially at the level of individual researchers and small research groups. However, to assess the global output on the meso or macro level, bibliometrics can be quite useful, as it is perhaps the only method that can be used to compare and estimate strengths and weaknesses of institutions or countries. Most importantly, entities, such as researchers and institutions, should not be ranked by one indicator, but multiple metrics should be applied to mirror the complexity of scholarly communication. Moreover, quantitative metrics need to be validated and complemented with expert judgements. In addition to the importance of the application context of bibliometrics, attention should also be paid to data quality. This involves using adequate databases such as Web of Science or Scopus – instead of a blackbox like Google Scholar – and data cleaning in particular regarding author names and institutional addresses. Normalized indicators need to be used to balance out field, age and and document type biases."
+  + The Impact Factor has dominated research evaluation far too long6 because of its availability and simplicity, and the h-index has been popular because of a similar reason: the promise to enable the ranking of scientists using only one number. For policy-makers – and, unfortunately, for researchers as well – it is much easier to count papers than to read them. Similarly, the fact that these indicators are readily available on the web interfaces of the Web of Science and Scopus add legitimacy to them in the eyes of the research community.  Hence, in a context where any number beats no number, these indicators have prevailed, even though both of them have long been proven to be flawed.
+  + The current use of simple indicators at the micro level – such as the Impact Factor and the h-index – has side effects. As evaluators reduce scientific success to numbers, researchers are changing their publication behavior to optimize these numbers through various unethical tactics. Moreover, the scientific community has been, since the beginning of the twentieth century, independent when it comes to research evaluation, which was performed through peer-review by colleagues who understood the content of the research. We are entering a system where numbers compiled by private firms are increasingly replacing this judgement. And that is the worst side effect of them all: the dispossession of researchers from their own evaluation methods which, in turn, lessens the independence of the scientific community.
 
 * IDEIAS
 
 - Falar sobre a institucionalização da ciência e como o lab adotou uma ideologia capitalista (desenterrar os textos do Rômulo)
+- Contar a história de quando eu fui publicar o paper do mestrado e, ao pedir auxílio financeiro à pós-graduação, a mesma estabelecia um ponto de corte com base única e exclusivamente no fator de impacto. No fim conseguimos um desconto e tal...
+  + Mas será que é sensato, especialmente levando em conta que os recursos são extremamente escassos e que uma boa alocação deles para artigos de qualidade é essencial? E um artigo publicado em revista de maior impacto não necessariamente significa maior numero de citações? Posso falar do paper que fala sobre preditores. Talvez ler mais artigos sobre predição de citações.
+  + Já com relação a isso, se o fator de impacto da revista não pode ser aplicado para determinar qualidade de papers individuais e, muito mais importante, não pode ser comparado entre áreas distintas (como fica o Peged nesse caso?), será que é realmente justo usar apenas ele?
+  + Será que um tipo de peer review sobre a qualidade dos artigos não seria mais interessante? Se a gente faz a avaliação da qualidade de graça para as revistas cientificas, pq não o fazer para a nossa instituição tbm? Pq não priorizar nossa casa, aliás?
+  + Se nós não nos preocuparmos com isso, ngm vai.
 - Citações são diferentes entre si: algumas são para isso, algumas para aquilo. E se houvesse uma forma de classificação de citações, para atribuir pesos diferentes a elas? Agora, com uma cada vez maior disponibilidade de artigos full-text, isso se torna cada vez mais uma possibilidade.
 - Pq as pessoas continuam usando tanto o IF? Bom, pq as pessoas continuam adotando 0,05 como limiar de significância para teste estatístico? Meio que se tornou uma convenção. Algo que as pessoas nem param para pensar sobre.
-- Será que tem algum artigo que eu possa usar no arquivo de srtigos do reproducibilitea?
+- Será que tem algum artigo que eu possa usar no arquivo de srtigos do reproducibilitea? Sim.
 - Encontrar artigos sobre:
   + Os manifestos sobre a bibliometria
   + Os bancos de dados usados
@@ -498,18 +760,373 @@
 - Comparar os fatores de impacto de duas revistas: uma de molecular e outra de sei lá, ciencia da computação
 - Guardando as devidas proporções, esse lance do fator de impacto é tipo a nota de corte do ENEM. Muitas vezes a pessoa escolhe uma revista por causa do fator de impacto, mesmo que a revista não tenha tanto a ver com a sua pesquisa. Obviamente, espera-se que o peer review dê uma barrada nisso, mas ainda assim...
 - Falar do Scielo, Qualis e SERRAPILHEIRA
+- *Idéia artigos escolhidos:* Um sobre a história da bibliometria, um sobre os diferentes indicadores. 1 ou 2 sobre o cenário brasileiro (qualis, serrapilheira, Scielo, etc.), talvez um sobre altmetria
+- O problema disso é que o fator de impacto é um fim, não um meio. Acho justo buscar um maior fator de impacto maior no sentido de buscar maior visibilidade para o seu trabalho, para que assim ele possa ser mais visto e, esperançosamente, mais útil para a comunidade científica. Entretanto, até que ponto nós não olhamos só para o fator de impacto em vez de pensar onde que o nosso paper irá cumprir melhor a função dele de comunicar nossos achados ao *público alvo*? Sendo que esse publico alvo não é toda a comunidade acadêmica, mas um subset muito restrito do mesmo...
+- Fala do Garfield, e de como ele msm diz que o JIF é indicativo, não um valor absoluto. Até que ponto a maior parte da pesquisa não ser tão citada significa que ela não é de qualidade? Mais do que isso, então 99% da ciência não é de qualidade então? Que trabalho horrível estamos fazendo aqui? Se considerarmos a citação como medida de qualidade, estamos lascados...
+- O problema não é o fator de impacto (ou qqr outra métrica). O problema somos nós mesmos. Nossa cultura e nosso desconhecimento sobre as métricas e como aplicá-las. Tanto no nível do pesquisador quanto no de instituições e governamental até.
+- Há DIVERSOS índices. Mas ele deve ser visto como uma medida acessória, dada a quantidade de publicações. Entretanto, o crescimento exacerbado da quantidade de publicações, por sua vez, está intrinsecamente associado à supervalorização de índices sem a devida consiração do que eles realmente significam.
+- Falar do h-index, que supostamente é uma medida que engloba qualidade e quantidade de publicações, depois jogar a questão: numero de citações indicam qualidade? E perguntar se a maior parte da pesquisa cientifica não é de qualidade então. Se for, o que estamos fazendo aqui?
+- Ao falar das soluções, poderia falar sobre como o fato das métricas não serem relativas aos artigos, mas mtas vezes às revistas é um problema, e como que medidas não a nível de pesquisador ou revista, mas a nível de artigos, seriam muito interessantes. Mais sobre article-level metrics:  [[https://sparcopen.org/our-work/article-level-metrics/#:~:text=Article%2DLevel%20Metrics%20(ALMs),proxy%20for%20that%20publication's%20importance.][Article Level Metrics - SPARC]] ,   [[https://web.archive.org/web/20140313155739/http://www.sparc.arl.org/sites/default/files/sparc-alm-primer.pdf][Wayback Machine]] - Poderia usar isso para linkar com altmetrics... [[https://en.wikipedia.org/wiki/Article-level_metrics][Article-level metrics - Wikipedia]]
+- Atribuir um DOI aos reviews como forma de permitir a citação dos mesmos. Já há inúmeros avanços nisso com relação ao Zenodo, que permite atribuição de DOIs a códigos/research artifacts, então pq não abrir isso para peer-reviews então?
+- Lembrar de falar que a bibliometria pode ser usada para fazer n outras coisas, como avaliar quais papers são mais interessantes, traçar a evolução de um tópico por meio dos seus artigos principais, etc...
+- Na parte de histórico, falar da universidade de Leiden, para depois encaixar isso com o Manifesto de Leiden.
+
+* Escolhendo os papers/criando esqueleto da apresentação
+
+- *Idéia artigos escolhidos:* Um sobre a história da bibliometria, um sobre os diferentes indicadores. 1 ou 2 sobre o cenário brasileiro (qualis, serrapilheira, Scielo, etc.), talvez um sobre altmetria
+
+- Historia da bibliometria:
+  - \cite{araujo2006}
+  - \cite{thompson2015}
+  - \cite{mugnaini2013}
+- Índices bibliométricos: Será que adiciono um paper disso msm? Focar demais nas diferentes métricas pode ser muito maçante para a platéia. *Talvez trocar por um que discuta melhor o que exatamente a citação mede e afins*
+  + \cite{garner2018} - Ótimo também - tem a tabela do impacto da database utilizada no cálculo de índices
+  + \cite{durieux2010}
+  + \cite{roldan-valadez2019} (meu favorito até agora)
+  + Um dos q fala de indices bibliometricos tbm fala de diferenças do seu calculo em databases, certo? Olhar isso com calma.
+- Os manifestos
+  + DORA: \cite{cagan2013}
+  + Leiden Manifesto: \cite{hicks2015}
+  + Hong Kong Principles: \cite{moher2020}
+  + Changing how we evaluate research is hard, but not impossible (based on DORA)  \cite{hatch2020}
+
+- Peer-review vs bibliometria
+  + \cite{besselaar2020} (research) - *MELHOR NÃO* -
+  + Uma coisa interessante é que esse artigo cita outros que tentam *desenvolver índices mais preocupados à qualidade das publicações*. Posso citar eles para dizer que há tentativas de capturar melhor a qualidade por meio dos índices, mas não estamos lá ainda (se é que um dia chegaremos lá).
+  + Alternativamente, poderia citar que os dois possuem fraquezas e forças complementares e citar \cite{besselaar2020} e \cite{haeffner-cavaillon2009a}.
+
+- Brasil
+  + \cite{mugnaini2019} (research)
+  + Algum paper sobre o Qualis?
+  + Lattes tbm pode ser usado para estudos bibliométricos... (mugnaini2019) - é um ótimo artigo para apresentar como research article se eu conseguir linkar ele com alguma coisa, como o qualis
+  + "É preocupante o fato de que, na avaliação de programas de pós-graduação no Brasil – mais especificamente no Qualis –, as bases de dados bibliográficas comerciais representam quase a totalidade de critérios de avaliação de produção científica, servindo como: (1) fontes exclusivas de indicadores de impacto – principalmente os índices de citação Scopus e WoS –, quando se trata das áreas associadas às ditas ciências duras, crescentemente assolando as humanas e sociais; e (2) parâmetro de qualidade de periódicos, levando em conta seu processo seletivo – aspecto que se observa de maneira generalizada entre as áreas (Mugnaini, 2015). "
+  + Dá para falar do mugnaini em pelo menos dois momentos: quando for falar das zonas de bradford e quando for falar do qualis. Mesmo se eu acabar não usando ele como um dos 5, dá pra citar ainda assim como trabalho recente que usa essas zonas. Lembrar de atentar nesse momento que há diferenças entre a quantidade de papers nas zonas de cada área, e que diferenças entre diferentes áreas serao mto importantes mais pra frente, quando for falar dos indicadores.
+  + \cite{jaffe2020} tbm parece um bom artigo para se ler sobre o qualis, e é research.
 
 
-* Ler artigos mais focados na história da bibliometria/cientometria da próxima vez
-
-*TODO
-
-Estudar melhor o que é o Science Citation Index (SCI) e suas divisões, JCR e ISI.
-
+- Altmetria
+  + \cite{bornmann2014}
+  + \cite{williams2017}
+  + \cite{thelwall2013} (research - precisaria estudar a distribuição Z, bonferroni e afins novamente)
 
 
+* Amanhã:
+- Ler as anotações
+- Montar um esqueleto bem básico da aula
+- Definir o research article. se mugnaini e jaffe não forem interessantes, olhar a revisão e tentar tirar das suas referencias. Definir os outros será mais de boas dps.
+
+* Organização apresentação
+- Mote da apresentação:
+- *“Fifth, we must be aware that often problems are caused not by the data or metrics themselves, but by their inappropriate use either by academics or by administrators (Bornmann & Leydes- dorff, 2014; van Raan, A., 2005b). There is often a desire for  “quick and dirty” results and so simple measures such as the h- index or the JIF are used indiscriminately without due attention being paid to their limitations and biases” - \cite{mingers2015}*
+- Se eu pudesse refazer o ECG, iria focar total no Fator de impacto (q é do interesse de todos) e elaboraria a partir daí
+- Não adicionei análise de patentes, resolvi focar nas publicações, que julguei ser mais interessante para o meu público alvo
+
+** História da bibliometria
+  + \cite{mingers2015} -  Scientometrics is the study of the quantitative aspects of the process of science as a communication system. *It is centrally, but not only, concerned with the analysis of citations in the academic literature.*
+  + Definição de bibliometria/scientometria em \cite{gingras2016}
+  + Primórdios da bibliometria
+  + Leis bibliométricas (talvez falar só de Lotka e Bradford)
+    - OBS: tanto Lotka quanto bradford demonstram a assimetria da distribuição dos artigos: Independente se o eixo x é o número de autores ou de revistas, o eixo y (nº de publicações) atinge o pico bem no começo (curva deslocada para a equerda) - histograma.
+    - Lotka
+      + Usar para introduzir a natureza assimétrica de distribuição de publicações, enquanto atenta que um fenômeno muito similar ocorre na distribuição de citações
+
+    - Bradford
+      + Citar que é usada até hj (\cite{mugnaini2019}), aproveitando o gancho para falar das diferenças entre as diferenças áreas, algo que vai ser mto importante ao longo da apresentação
+      + Lei da dispersão explica pq os índices têm dificuldade em atingir cobertura completa de assuntos. As 2 zonas externas (e especial- mente a terceira) possuem um número muito grande de periódi- cos. Por isso que thompson2015 diz que essa lei inspirou Garfield a criar o SCI, focando em periódicos mais relevantes (core). *Daqui, ir direto para Eugene Garfield*
+
+    - Zipf
+  + Eugene Garfield, ISI Journal Impact Factor
+    - Falar como a lei de Bradford (e Garfield) foram importantes para auxiliar na decisão quanto à aquisição, descartes, encadernação, de- pósito, utilização de verba, planejamento de siste- ma.”
+  + Talvez falar do surgimento de grupos de pesquisa dedicados (Leiden) e surgimento de periódicos (scientometrics) e eventos específicos da área...
+  + Contexto histórico:
+    - Bibliometria avança graças ao maior valor dado à informação após segunda guerra mundial
+  + Avanço/barateamento da informática:
+    - Ampliação de bancos de dados bibliométricos
+    - Ampliação das possíveis aplicações da bibliometria
+      + Mapeamentos gŕaficos e modelagem matemáticas
+    - Desenvolvimento da área
+    - Embrião do que foi chamado de "bibliometria de escritório"
+      + Desktop bibliometrics abordado em  \cite{moed2017}, primeiro capitulo - tbm determina o q é informetrics
+        - "This book uses the term ‘informetrics’ as a generic term indicating the study of quantitative aspects of information. It comprises all studies denoted as ‘bibliometric’, including the classical publication- and citation-based studies, but it is broader, as it does not merely analyze books and other media of written communication, but also altmetric and usage data, webometric, economic and research input data, and survey data on scholarly reputation. It does not cover all aspects of informetrics, but those related to research assessment."
+        - "Desktop bibliometrics. Calculation and interpretation of science metrics are not always made by bibliometric experts. “Desktop bibliometrics”, a term coined by Katz and Hicks (1997) and referring to an evaluation practice using bibliometric data in a quick, often unreliable manner, is becoming a reality. "
+
+      + Movimento open source (novas ferramentas) e open access (mais sobre isso em \cite{mugnaini2019}) tbm desempenham funções importantes no desenvolvimento da bibliometria.
+
+  + Bancos de dados:
+    - Wos
+    - Scopus
+    - Scholar
+    - Falar de caracteristicas dos bancos de dados, como cobertura, qualidade da informação, etc...
+    - Falar de como diferentes bancos de dados geram resultados diferentes no cálculo de índices bibliométricos...
+  + Talvez: Desenvolvimento no Brasil?
+    - IBICT - Primeiro indício de institucionalização
+    - Scielo
+    - Periodicos CAPES
+    - Qualis
+      + Atentar para como indicadores das bases internacionais compõe a avaliação da produção científica brasileira.
+      + \cite{mugnaini2014}
+        - Qualis: Mesmo em ciências sociais, o artigo costuma ter mais peso que os livros. Há tantas outras áreas (ciência dura, em sua maioria), que não propõem critérios para a classificação de livros.
+        - “A avaliação da produção brasileira não se baseia nas citações que sua produção recebe, mas sim nas citações recebidas pelos periódi- cos onde os brasileiros publicam, principalmente o Fator de Impacto JCR [3a], mesmo considerando literatura extensa sobre suas limitações (ARCHAMBAULT e LARIVIÈRE, 2009; VANCLAY, 2011). Assim, a pouca inserção da produção científica nacional (LETA, 2011) acarreta  numa avaliação baseada em indicadores de produtividade, que resulta em produtivismo exagerado, impondo a necessidade de estabelecimento de critérios de qualidade.”
+        - “Como pode-se perceber todas as áreas de avaliação de Biológicas e Engenharias executam a classificação dos periódicos de sua área sim- plesmente manejando a lista de periódicos e respectivo indicador, tendo que atualizar a lista e os parâmetros de cada estrato, a cada triênio.”
 
 
+
+
+    - Plataforma Lattes (lattes é provavelmente a fonte de informação com maior abrangência da produção científica nacional)
+
+    - Falar dos mais diversos usos da bibliometria
+      - Lembrar de falar que a bibliometria pode ser usada para fazer n out- ras coisas, como avaliar quais papers são mais interessantes, traçar a evolução de um tópico por meio dos seus artigos principais, etc...
+      - Plágio
+      - Mapeamentos gŕaficos e modelagem matemáticas
+      - Redes de citações
+        - Se não há citação, não há relação
+        - Pesquisadores da mesma área que não se citam não tem similaridades identificadas
+        - Pode ser complementada pela análise de linguagem (e vice-versa)
+      - Análise de linguagem:
+        - Co-ocorrências de palavras
+        - Natural Language Processing (subcampo de machine learning) + aumento da disponibilidade de textos integrais
+          + Ampliação de possibilidades de estudos na área
+      - Entretanto, existe nenhum desses é tão usado para a avaliação da produção científica quanto a análise de citações
+
+** Análise de citação
+  + Usada como a principal medida de prestígio
+  + Duas grandes correntes: normativa e construtivista \cite{abramo2019}. Esse artigo tbm fala das limitações da análise de citações (depende mto da base indexadora)
+  + Discutir o que a citação realmente representa
+    - Citação indica o número de outros autores para os quais o artigo foi útil de alguma forma...
+    - Seja para argumentar a favor ou contra
+  + Talvez aqui: Falar das especificidades entre diferentes áreas.
+    - Social Sciences and Humanities - Citation data often not available. In part, because of books being the standard communication vehicle instead of articles. This limits the use of bibliometrics for Evaluation and Policy. \cite{mingers2015}
+    - Falar do envelhecimento (obsolescencia) das diferentes áreas.
+
+  + \cite{wallin2005}
+    - “If a relationship between citation frequency and research quality does exist, this relationship is not likely to be linear. The relationship be- tween research quality and citation fre- quency probably takes the form of a J-shaped curve, with exceedingly bad research cited more frequently than mediocre research (Bornstein 1991)”
+    - “The conclusion must therefore be that there is no unam- biguous relationship between citation parameters and scien- tific importance and/or quality. If we then assume that there must after all be some sort of relationship, an explanation for these clearly conflicting inves- tigations must therefore be that the relationship is so complex that we have difficulty in capturing it with the tools available to us
+    - The problem with these corre- lations is that the two parameters (peer review and number of citations) are probably not independent (Opthof 1997).
+    - Ponto interessante: se considerarmos à queima roupa que citações são sinonimo de qulaidade, um artigo ter 0 citações significa um artigo sem qualidade e, como boa parte das publicações não são citadas at all, isso significa que teríamos que aceitar que boa parte da ciência produzida é essencialmente lixo.
+
+
+
+  + O que as citações medem, afinal? \cite{pendlebury2009} - cita livro de Moed \cite{moed2006}
+
+  + Citação como medida de qualidade: Implica assumir que TODO MUNDO lê TODA A BIBLIOGRAFIA da sua área e consegue, sem viéses, sele- cionar apenas os verdadeiramente mais relevantes. Ao mesmo tempo, os viéses se diluem se analisarmos muitas pessoas de uma vez.
+
+
+  + Indicadores e avaliação de produção - *Focar bastante no h-index e, principalmente, no fator de impacto*
+    + Métricas (pesquisador)
+      - h-index
+        + Falar sobre o cálculo
+        + Popularidade
+        + Vantagens e desvantagens, assim como as métricas geradas para lidar com essas desvantagens
+        + \cite{durieux2010} - Possivelmente um bom exemplo para a aula: – “ For example, J.E. Hirsh has reported that the top 10 researchers in physics and biology have quite different h-indexes (46).”
+        + \cite{mingers2015} :  Thomas Khun e como o h-index não faz jus a ele at al, por ele ter poucas publicações
+        + Toda a literatura concorda que o h-index sozinho é mto cru, e que deve ser usado com outros indicadores.
+        + Ou seja, os dois mais conhecidos e usados indexes são amplamente considerados insuficientes para a avaliação da produção científica \cite{mingers2015}
+        + CPI covid - Um dos pesquisadores pediu o índice h da Natalia Pasternak: Ela falou que, como boa parte do trabalho dela era divulgação científica, não seria uma métrica que representaria o trabalho dela.
+      - G-index
+      - HC-index
+      - Individual H-Index
+      - E-index
+      - M-index
+      - Q-index
+      - Métricas (journals)
+        - Fator de impacto
+          + Excelente capítulo de livro: \cite{vanraan2019}
+          + Publicado anualmente pelo Journal Citation Reports (JCR)
+          + A publicação do Journal Impact Factor tem copyright. Não é qqr um q pode calcular e publicar ele.
+          + Calculo, o pq da popularidade
+          + Quem calcula?
+          + Será que ele deve ter um peso grande na avaliação e definição de políticas públicas em países cuja publicação científica é sub-representada no contexto internacional? Tipo o Brasil (mugnaini2019 tem algo sobre isso?)
+          + Como ele pode ser manipulado
+          + Vantagens e desvantagens
+            - Falar do uso primordial: Auxiliar bibliotecas/instituições que querem selecionar quais periódicos assinar. - Tirado de: \cite{wallin2005}
+            - OBS: *The Journal Impact Factor is now published by Clarivate Analytics.*
+            - Falar da distribuição das citações (muito skewed), e como a média não é uma boa medida de centralidade (ela é, no mínimo, misleading) nesse caso. Dar um exemplo com a mediana (3 ou 4 salários de uma empresa). Falar como *de um ponto de vista de estatística descritiva, a média não é uma boa medida sumarizadora para distribuições não normais*. A distribuição das citações é chamada de *lognormal.*
+              + Poucos pesquisadore com a maioria dos artigos (Lotka)
+              + Poucas revistas com grande parte dos artigos (Bradford)
+              + De forma análoga, poucos artigos com grande numero de citações
+              + \cite{schmid2017}: Falar da diferença de citações entre os top e bottom 10% da nature
+
+            - Assumir que fator de impacto significa qualidade de um dado periodico é muito propenso a erro, já que isso implica “assumir perfeita comunicação na comunidade científica internacional” (Velho, 1986).
+            - Entretanto, até que ponto nós não olhamos só para o fator de impacto em vez de pensar onde que o nosso paper irá cumprir melhor a função dele de comunicar nossos achados ao público alvo? Sendo que esse publico alvo não é toda a comunidade acadêmica, mas um subset muito restrito do mesmo... Será que vale a pena pegar uma revista geral em vez de uma específica por causa de alguns décimos de diferença do fator de impacto.
+            - Fala do Garfield, e de como ele msm diz que o JIF é indicativo, não um valor absoluto. Até que ponto a maior parte da pesquisa não ser tão citada significa que ela não é de qualidade? Mais do que isso, então 99% da ciência não é de qualidade então? Que trabalho horrível estamos fazendo aqui? Se considerarmos a citação como medida de qualidade, estamos lascados. . .
+            - \cite{haustein2015} : sobre média e mediana:
+              + "Mean citation rates are the most commonly used size-independent indicator of scientific impact. Due to the highly skewed distribution of citations per paper – as a rule of thumb, 80% of citations are received by 20% of documents and many are never cited, especially in the humanities (Larivière, Gingras and Archambault, 2008) – the arithmetic mean is, however, not a very suitable indicator since other than in a normal distribution it is not representative of the majority of documents (Seglen, 1992). The median has been suggested as a more appropriate due to its robustness (Calver & Bradley, 2009), but since it disregards the most frequently cited document, it cannot fully represent the citation impact of a set of papers. Providing the standard deviation with the mean and additional distribution-based indicators such as citation percentiles, for example the share of top 1% or 5% highly cited papers as a measure of excellence, seem more appropriate (Tijssen, Visser, & van Leeuwen, 2002; Bornmann & Mutz, 2011)."
+              + "As mentioned above, certain biases occur caused by differences in publication behavior between research fields, publication growth and speed, different document types, time frames and/or database coverage. To allow for a fair comparison of universities or researchers active in different subject areas, normalized citation indicators try to counterbalance these biases. A full normalization of biases is a difficult and so far not yet entirely solved task due to the complexity of processes envolved in scholarly communication."
+
+          + Falar como as críticas levaram à criação e adoção de indicadores alternativos.
+          + Cited Half-life
+            + Taxa de declínio da curva de citação
+            + Parece com o conceito de meia-vida para isótopos radioativos msm
+          + CiteScore
+            + SCImago journal rank (SJR)
+            + Source-Normalised Impact per Paper (SNIP)
+          + Eigenfactor metrics
+            + Eigenfactor Score (ES)
+            + Article INfluence Score (AIS)
+          + Immediacy Index
+
+          + Outras questões associadas à avaliação quantitativa científica englobam (tem uma ótima revisão que eu esqueci o nome - \cite{waltman2016} ) - Tentar sumarizar em 1 ou 2 slides...
+            + Normalização
+            + Janela de citação
+            + Banco de dados utilizado/indexação de periódicos... - \cite{garner2018} possui uma boa tabela que mostra bem a diferença entre os índices calculados com diversas databases
+            + Cobertura de bancos de dados: Relembrar da lei de Bradford para explicar pq é tão difícil um banco de dados conter toda a publicação relevante de uma dada área.
+
+          + Devo aprofundar no sistema de avaliação da pós-graduação brasileira pela CAPES?
+
+
+** Bibliometria e peer-review
+- *Daria para explicar o pq o peer-review foi "tomado" pela bibliometria e hj é globalmente usado como métrica "objetiva"* e juntar duas partes (talvez antes de entrar nas metricas)
+  + Parte da "queda do peer review" se dá exatamente pela modificação do comportamento dos cientistas por causa do uso das métricas para o financiamento (incentivo à produtividade - maior numero de artigos)
+- \cite{juznic2010}
+  + Fala do dual system of grant approval da slovenia - usa tanto bibliome- tria como peer review.
+  + “An important reason for introducing the dual system of grant approval in 2008 was to decrease the burden of administration, at least for the majority of researchers who already have a rich bibliographic record to prove their excellence. At least half of the researchers that are selected for phase two can be pre-selected using bibliometric methods. ”
+  + Há DIVERSOS índices. Mas ele deve ser visto como uma medida acessória, dada a quantidade de publicações. Entretanto, o crescimento exacerbado da quantidade de publicações, por sua vez, está intrinseca- mente associado à supervalorização de índices sem a devida consiração do que eles realmente significam.
+  + "Informed peer review" é um termo que aparece com frequencia
+  + Na verdade, é de se esperar que muitas pessoas usem informalmente o peer-review
+  + RAE/REF (Inglaterra), ERA (australia) e CNEAI (espanha) - Exemplos de um modelo misto peer-review e métricas
+  + Ler um outro paper \cite{johnson2020}
+  + Avaliação da produção científica: \cite{gingras2016} fala bastante sobre isso (cap. 3 e 4)
+  + Os problemas do uso exclusivos de métricas são evidenciados quando elas são aplicadas para poucos indivíduos
+  + Outras saídas (rule of five)
+  + Gosto da idéia de \cite{butler2007}: que o peer review e a bibliometria, quando usados em conjunto, podem funcionar como um "gatilho para reconhecer anomalias", o que por sua vez permite análise mais detida e correta de como contratar/financiar/etc.
+
+
+** Qualis
+- \cite{thompson2015}
+  + “Of course, all metrics must be used in context. Bibliometric indexes should generally be used in concert with a thoughtful review by senior colleagues.33, 34” OLHAR ESSAS REFERÊNCIAS DPS
+- Esse foco no qualis/fator de impacto leva a modificações do comportamento dos cientistas (nós)
+- Falar como o qualis baseado no FI é extremamente circular, sendo um mantenedor do status quo.
+- Falar como a idéia dos comitês do qualis é mto boa, mas nossa cultura de supervalorização de métricas (em especial do fator de impacto) é um problema
+- Falar do artigo do leopoldo como consequencia
+- Falar de como dá para "brincar" com os indexes - Ler sobre o paper q publicou 100 artigos falsos, se citando entre si, que aumentou mto o seu h-index. O caso está descrito em \cite{edwards2017}.
+
+** Manifestos
+DORA: estudos de caso
+
+**   Altmetria:
+    - Bibliometria
+
+**  Conclusão
+    + Esperança: o sistema de avaliação feito pela CAPES continua mudando. Logo, é interessante que a comunidade cientifica se engaje em discussões sobre o tema e (ao menos tente) mudar sua cultura.
+    + Sempre lembrar que os problemas não são causados pelas métricas em si, mas sim pelo seu uso inapropriado .
+      - *“Fifth, we must be aware that often problems are caused not by the data or metrics themselves, but by their inappropriate use either by academics or by administrators (Bornmann & Leydes- dorff, 2014; van Raan, A., 2005b). There is often a desire for  “quick and dirty” results and so simple measures such as the h- index or the JIF are used indiscriminately without due attention being paid to their limitations and biases” - \cite{mingers2015}*
+    + Perspectiva:
+      - Novas métricas (sempre)
+      - Maior integração dos índices bibliométricos baseados em citação com os altimétricos, para ter uma percepção mais extensa do impacto das pesquisas
+      - Aumento do movimento Open Access: Traz vantagens e (especialmente pra nós, brasileiros) desvantagens
+        + Mas, teremos mais acesso a full-text papers
+        + Além da clara vantagem para estudos de coocorrencia de palavras
+        + Para além disso, estamos com algoritmos mais sofisticados de machine learning, e NLP (processamento de linguagem natural) é uma área crescente
+        + Logo, talvez em um futuro não muito distante, se torne possível uma avaliação de conteúdo dos full-text articles para discriminar as diferentes motivações de uma citação
+    + Marcus:
+      - Essa questão pode não fazer parte da minha área, mas me afeta (e acredito que afeta todos aqui) diretamente.
+      - Se nós não nos preocuparmos com isso, ngm vai...
+      - Produtividade científica acaba sendo encarada como um fim em si msma - Isso gera os mais deiversos problemas
+        + Crise de reprodutibilidade, burnout, aumento de retratações
+
+
+
+
+    + Avaliação deve, pelo menos, ter múltiplos inputs.
+      - Aumenta os outputs, dificuldade de visualização
+      - Multiplas interpretações (conceitos de amplitude e abertura de indicadores, a avaliação cientométrica convencional tende a ser estreita nessas duas dimensões)
+      - Mas tbm permite tomar decisões mais ponderadas
+      - Usar os indicadores como "dispositivos discutíveis, que permitam aprendizado" (Barré, 2010, pg. 227), não para definir de forma final "quem é melhor" ou algo que o valha
+    + Incorporar análise a nível de artigo pode ser uma alternativa?
+
+
+   + Nova idéia - 5 artigos:
+     - 1 geral - Mugnaini2013
+     - 1 fator de impacto/métricas - Garner2018 - Fala de diversas métricas, databases e altmetrics
+     - 2 Qualis (1 do mugnaini)
+     - 1 sobre manifestos (e aquele sobre mudar a nossa conduta?) - Usar o Dora
+
+
+   + Nova idéia - 5 artigos:
+     - 1 geral - \cite{mingers2015}
+     - Garfield 1955
+     - \cite{moed2007}
+     - Dora
+     - \cite{hatch2020} or \cite{schmid2017}
+
+
+
+
+   - Artigo: \cite{hatch2020}
+     + 4 passos:
+       1) Entender os obstáculos que evitam a mudança
+          + Métricas (especialmente o JIF e H-index) estão muito enraizadas na avaliação academica
+          + Abandonar as métricas acaba significando "ficar para trás"
+            - Perda de reputação
+            - Perda de financiamento
+            - Daria para botar a nuvem de palavras do wellcome institute aqui
+
+       2) Experimentar diferentes idéias e abordagens, nos mais diversos níveis
+          - Ao contratar:
+            - Focar nas principais contribuições em vez de métricas (University of Texas Southwestern Medical Center)
+            - Aumentar o escopo dos requisitos/diferenciais para concorrer à posição oferecida (University of Michigan)
+          - Revisar a política e prática de avaliação academica:
+            + Criação de grupos que produziram planos de ação ou recomendações que foram adotadas pela universidade (Universitat Oberta de Catalunya e Imperial College London)
+            + Após implementar mudanças, fazer avaliação interna de como as mudanças estão impactado os pesquisadores (University Medical Center Utrecht)
+            + Os grupos devem ser o mais diverso possíveis - Isso traz mais visões de mundo, mtas vezes conflitantes, logo, os objetivos devem ser o mais simples, claros e realistas possível. Isso leva ao terceiro ponto
+            + Rule of Five: "choose five of their most significant articles and provide a brief statement for each that describes the sig- nificance and impact of that contribution." - HHMI
+
+       3) Criar uma visão compartilhada
+          - Alinhar as práticas com a missão institucional (declaração que sintetiza a essência, a razão de existir da organização) Ex:  [[https://www.macae.ufrj.br/index.php/2016-02-15-16-00-04/2016-02-22-14-39-02][Campus Macaé - UFRJ - Missão]]
+          - Estabelecer conceitos claros
+            + Termos como "Universidade de Classe Mundial"(World Class University) ou "excelência" são termos q definem padrões de qualidade na avliação academica
+            + Entretanto, são muito vagos - Abrem espaço para viéses e abusos
+            + Crítica da retórica da "excelencia" em prol de avaliação com critérios mais transparentes
+          - Estabelecer padrões na avaliação institucional
+            + CV narrativo - Facilita uma avaliação/comparação mais subjetiva, que complementa os aspectos quantitativos observados e levando a uma avaliação mais holistica
+          - Reconhecer contribuições colaborativas
+            + Estamos geralmente preocupados com avaliar os indivíduos
+            + Mas pesquisadores cada vez mais trabalham com colaborações e mesmo em times multidisciplinares
+            + Entretanto, avaliar contribuições dentro de colaborações permanece um desafio, por mais que vc encontre isso em  algumas publicações
+            + Em algumas áreas, usa-se a ordem dos colaboradores
+            + Mas há estratégias mais robustas sendo introduzidas
+              - Credit - Taxonomia adotada por algumas publishers, usada para descrver o papel do colaborador.
+
+       4) Comunicar a visão dentro do campus e fora dele
+          - Consultas a nível de campus e departamentos
+            + Sugestão de novas políticas de avaliação e revisão das já implementadas
+          - Simpósios (Imperial College)
+          - Workshops/palestras (UMC Ultrecht)
+            - Monitoramento de como os pesquisadores estão respondendo às mudanças revelou 3 perfis:
+              a. Alguns abraçaram o potencial da nova avaliação
+              b. Outros preferem o status quo, reafirmando métricas tradicionais
+              c. Alguns ficaram incertos com relação aos novos critérios, seja por considerar a avaliação dentro da UMC opaca e subjetiva, ou por considerar que diferença faz realmente, já q para pedir financiamento fazer applications em geral fora da UMC a avaliação padrão será utilizada
+
+
+          - Independente da forma, a comunicação transparente da política e prática avaliativa é crucial para que de fato haja reexaminações e implementações da avaliação cinetífica
+            + As instituições (e todos nós) podemos aprender com os acertos e erros uns dos outros...
+          - OBS: Olhar as referencias para dar mais informações na apresentação
+
+*O problema do peer review não é a subjtividade em si. Muito mais problemático é acreditar no mito da neutralidade científica, q a ciência é completamente imparcial e objetiva. E o problema da transparência pode ser resolvido ao se publicar os reviews junto com os artigos*
+
+
+- Falar do artigo do leopoldo de meis
+  + Muito voltado para o impacto individual do fator de impacto
+  + Depois de falar do artigo, falar que não é algo exclusivo do Brasil
+    - Word Cloud e algum gráfico do Wellcome Institute - Toxic, competitive and metrics
+
+
+   - OBS: para base mais filosófica, ler \cite{goldfinch2012}
+
+
+- Como associar peer review e métricas:
+   + Usar métricas normalizadas para gerar grupos de pesquisadores/publicações (agilizar)
+  + analisar caso a caso dentro dos grupos de interesse
+
+
+"A bibliometria é um campo de estudo que faz uso de métodos matemáticos e estatísticos para analisar publicações de vários tipos (e.g. livros, artigos, dentre outros). Métricas bibliométricas vêm sendo cada vez mais utilizadas para avaliar a qualidade/quantidade das publicações de pesquisadores, departamentos e instituições, impactando as políticas de financiamento científico e o próprio conceito de produtividade acadêmica. Entretanto, o uso da bibliometria para a avaliação de pesquisas científicas é constantemente questionada e até mesmo encarada como uma ameaça a modos mais clássicos de avaliação de trabalhos acadêmicos, como a revisão por pares. Compreender as métricas bibliométricas, assim como suas aplicações e limites, é essencial para se identificar onde e quando elas devem ou não ser utilizadas. Assim sendo, nesse tema propõe-se a discussão tanto de aplicações quanto de extrapolações errôneas dos principais indicadores bibliométricos, como o fator de impacto de revistas (Journal Impact Factor - JIF) científicas e o índex de Hirsch (h-index). Para além disso, outras questões como autocitações, citações como medida de relevância de um artigo e o tempo para acumulação das mesmas serão abordados, assim como seu impacto na análise blbliométrica. A relação entre bibliometria e peer-review será discutida, salientando o ônus e bônus de cada uma, mas com foco em exemplos onde ambas se conectam. Por último, serão abordadas as perspectivas da bibliometria, assim como metodologias alternativas na avaliação da produção científica."
+
+* Semana que vem:
+- Ler os artigos sobre peer-review
+- Talvez ler o hong kong e assistir o reproducibilitea
+- Montar apresentação
+- Ler \cite{gingras2016}
+- Estudar sobre como o qualis funciona
 
 \bibliography{Bibliometry}
 \bibliographystyle{apalike}
