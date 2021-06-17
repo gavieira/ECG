@@ -1,0 +1,44 @@
+#+TITLE:     Bibliometria e a avaliação da publicação científica
+#+AUTHOR:    Gabriel Alves Vieira
+#+EMAIL:     gabriel.vieira@bioqmed.urfj.br
+#+DATE:      25-06-2021
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:1 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+HTML_LINK_UP:
+#+HTML_LINK_HOME:
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [bigger]
+#+BEAMER_FRAME_LEVEL: 1
+#+LATEX_HEADER: \usepackage[backend=bibtex,style=apa,autocite=inline]{biblatex}
+#+LATEX_HEADER: \bibliography{../Bibliometry.bib}
+#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
+#+BIBLIOGRAPHY: ../Bibliometry
+
+* Introduction
+
+
+** teste
+- Trying \parencite{mugnaini2021}
+
+** teste2
+- trying again \parencite{garfield1955}
+
+** teste 3
+- Last cite \parencite{demeis2003,mingers2015,thompson2015}
+
+
+* Referências
+  :PROPERTIES:
+  :BEAMER_OPT: fragile,allowframebreaks,label=
+  :END:
+  \printbibliography
+
+
+

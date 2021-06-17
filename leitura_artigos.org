@@ -858,6 +858,7 @@
     - Scholar
     - Falar de caracteristicas dos bancos de dados, como cobertura, qualidade da informação, etc...
     - Falar de como diferentes bancos de dados geram resultados diferentes no cálculo de índices bibliométricos...
+    - Um único slide falando de plataformas brasileiras, como o Scielo e, claro, sobre o Lattes, que é uma fonte riquíssima de informação sobre publicação científica que é curada por nós msms, os usuários...
   + Talvez: Desenvolvimento no Brasil?
     - IBICT - Primeiro indício de institucionalização
     - Scielo
@@ -989,6 +990,27 @@
   + Os problemas do uso exclusivos de métricas são evidenciados quando elas são aplicadas para poucos indivíduos
   + Outras saídas (rule of five)
   + Gosto da idéia de \cite{butler2007}: que o peer review e a bibliometria, quando usados em conjunto, podem funcionar como um "gatilho para reconhecer anomalias", o que por sua vez permite análise mais detida e correta de como contratar/financiar/etc.
+  + \cite{butler2007}:
+    - "The generally good pattern of correspondence between quantitative indicators and peer judgements has sometimes led to the tendency to point to quanti- tative indicators as objective measures in contrast to the subjective character of the peer review. However, it should be remembered that indicators themselves are based in part on peer decisions, for instance, journal articles embody the peer evaluations that have led to acceptance for publication, and grant success embodies the peer assessment of applica-tions (Weingart, 2003)."
+    - A métrica é considerada objetiva, mas será q o ato de citar o é? E no caso em q a pessoa cita o artigo que é mais citado em vez de um menos (Matthew Effetct)?
+    - O uso desmedido de métricas causa inumeros problemas, como a manipulaç~ao do comportamento dos pesquisadores/instituições. Logo, o cenário ideal seria usar as métricas em conjunto com peer-review. Entretanto, como o uso arbitrário de métricas (ou uso intencional/manipulativo das msmas) tbm pode levar a distorções, o ideal seria que o peer-review pudesse usar as métricas, mas justificasse esse uso por x, y ou z.
+    - O peer-review é subjetivo, mas até aí, a ciência de forma geral é. O problema dessa subjetividade do peer review é a msm dos artigos e ocorre quando, por exemplo, é feito um juízo de valor sobre um artigo sem a devida elaboração (da mesma forma que em artigos onde as metodologias não são tão bem descritas), seja por descuido, seja pelo revisor achar que algo é óbvio... Até aí, a escolha do uso de indicadores para avaliar algo tbm é passível de manipulação e pode ser considerado qualitativo em muitos casos, se não for explicitado o pq daquela seleção específica
+    - Problema de quais indicadores escolher
+      + Escolher os com melhores correlações com o peer-review
+        - Mas nesse caso, a informação perdida não é importante?
+  + \cite{osterloh2020}:
+    - In particular, it has been suggested that the papers should be read instead of relying on journal rankings (e.g. Moed, 2007; DORA (San Francisco Declaration on Research Assessment) and DORA, 2012; Wilsdon et al., 2015; Alberts, 2013; Berg, 2016; Heckman and Moktan, 2018). This is cer- tainly good advice, but hard to put into practice.
+    - Cria um sistema baseado em semi-randomização que, supostamente:
+      + Aceita que incerteza é sintomatica do trabalho acadêmico.
+      + Pré-seleção dos papers por peer-review
+      + Paper aceito ou não (as is). Sem necessidade de revisão
+      + se houver discordancia entre peers, randomizar os papers que serão publicados
+    - Sugere que o uso do JIF é tão presente pq favorece muitos autores.
+    - Old boys' networks?
+    - "An impressive example of the misuse of impact factors was pub- lished recently in Nature (Callaway, 2016). This article refers to a study considering the natural sciences (Larivière et al., 2016), which reveals that 74.8 percent of the articles published in Nature (2015) were cited below the 2-year impact factor of 38.1, which reflects the average number of citations for articles in that journal. The most cited paper was referenced 905 times. Three quarters of authors benefit from the minority of authors with many citations. The equally renowned journal Science shows almost the same result: 75.5% of the papers published2015 garnered less than the impact factor of 34.7. The most successful paper was cited 694 times"
+  + Antes de terminar essa seção, falar como o uso de métricas para avaliação (em especial a individual) e uma diminuição da quantidade de recursos disponíveis pode levar a um excesso de competitividade e modificações do comportamento dos pesquisadores
+  + \cite{stavale2019}, \cite{vasconcelos2015}: Há um numero crescente de retratações ao longo dos anos, isso pode derivar das métricas usadas para essa competitividade, mas tbm tem a ver com a taxa crescente de publicação científica e com o avanço tecnologico (novos softwares para identificar plágio, por exemplo). É difícil dizer que as métricas por si só estão criando uma cultura acadêmica corrupta...
+  + Ver o q é o old boy's network
 
 
 ** Qualis
@@ -1045,9 +1067,9 @@ DORA: estudos de caso
    + Nova idéia - 5 artigos:
      - 1 geral - \cite{mingers2015}
      - Garfield 1955
-     - \cite{moed2007}
+     - \cite{butler2007}
+     - \cite{demeis2003}
      - Dora
-     - \cite{hatch2020} or \cite{schmid2017}
 
 
 
@@ -1127,6 +1149,76 @@ DORA: estudos de caso
 - Montar apresentação
 - Ler \cite{gingras2016}
 - Estudar sobre como o qualis funciona
+
+
+* Palestra: Padrões de publicação e sistemas de avaliação e financiamento da pesquisa nas Ciências Agrárias no Brasil - Prof. Raimundo Nonato Macedo dos Santos
+- É engenheiro e foi pra área de ciência da informação. Achei lindo ele falar que foi a grande decisão da vida dele e q trabalhar com isso alimentou a alma dele.
+- INfluência dos sistemas de avaliação na vida acadêmica dos profissionais das ciencias agrárias
+- vai falar um pouco sobre ciências da saúde
+- Tendência crescente a privilegiar a meritocracia/
+- Sistemas de avaliação da pesquisa ou sistemas de avaliação e financiamento da pesquisa baseados no desempenho, cada vez mais baseados no uso de indicadores bibliomericos de impacto ou citação
+- Muitas mudanças no padrão de publicação - Periodicos internacionais, com maior fator de impacto
+- Sempre usar as métricas com a inteligência humana, com análise e afins...
+- Combinar bibliometria com métodos qualitativos (Glasser, 2017; Aagaard; Schneider, 2017)
+** Objetivo:
+- explorar a inflencia que os atuais sistemas de avaliação e financiamento da pesquisa podem estar exercendo sobre os padrões de publicação dos pesquisadores de ciencias agrarias no brasil
+- Analisar os critérioos de avaliação usados pela CAPES e CNPq nas CAs;
+- Pq ciencias agrarias?
+  + É multidisciplinar (há segimentos ligados a ceincias duras e brandas)
+    - Culturas epistêmicas disintas:
+      + Ciencias duras: usa metodos mais deterministicos. É possível estabelecer relações diretas de causa-efeito entre as condições q possibilitam esses fenomenos e seus desfechos - mais simples alcançar consenso e paradigmas dominantes. Linguagem codificada e e menor elaboração de argumentação - Conhecimento produzido a maior velocidade. Publicações mais curtas. Divulgação a nível internacional. Ciencias duras: primeiro e ultimo autores como enfase. Foco em artigos de periodicos de alto impacto
+      + Brandas: metodos mais estocasticos - Não é possível estabelecer relações diretas de causa-efeito. Não é tão simples alcançar consenso e coexistem vários enfoques teoricos e metodologicos. Conhecimento produzido a menor velocidade. Publicações mais longas, foco em livros. Divulgação atinge nivel mais nacional, regional ou local. Foco em
+    - Não podemos usar esses indicadores absolutos. Tem q trabalhar levando em conta aspectos disciplinares, sociais, etc...
+  + Poucos trabalhos analisam a influencia dos SAP (sistema de avaliação e financiamento da pesquisa)
+- Usa o conceito das "culturas epistêmicas" para fundamentar a apresentação
+  - As avaliações devem levar em conta a unidade espistemica em toda a sua complexidade, q envolve os mais diversos agentes/fatores sociais e cientificos
+- SAPs podem ser classificados em fracos ou fortes, com relação aos elementos sociais. Geralmente estamos atrelados aos SAPs fortes.
+
+- Bal (2017), Génova, Astudillo & Fraga (2016) - fala sobre os elementos sociais dos SAPs fortes, cada vez mais comuns empregarem métricas. Inclusive, para as ciencias sociais/humanas.
+
+- até 2014, a produção de artigos nacionais era maior que a de artigos internacionais
+- Após 2014, os internacionais são a maioria
+- A publicação de artigos (nacional+internacional) explodiu de 2000 pra cá, superando em mto os trabalhos completos em anais e monografias
+- A unica area em que todas aumentam junto são nas ciencias brandas
+- 2016: artigos N+Int representam quase 80% de toda a produção
+  + Trabalhos em Anais - queda no numero deles ao longo do tempo
+  + Monografias - se mantem com um numero mais ou menos constante
+- Mais uma vez, nas ciencias brandas esse numero é mais equilibrado.
+- Numero de artigos nacionais é menor que o de internacionais na ciencia dura. Na ciencia branda, é o contrário.
+- Nas duras, há vários papers publicados para cada monografia. Nas brandas, é geralmetne 1 artigo por monografia.
+- Em 2016, O numero de artigos internacionais supera o de nacionais.
+
+- Tendência à internacionalização - aproximação a um viés de publicação das ciências duras. Muito disso acontece tbm na ciencia da saude.
+- Critérios CAPES/CNPq da avaliação das ciencias agrárias
+- Comitês da CAPES nas CAs - Monografias e trabalhos completos em anais não são privilegiados pela avaliação. Só artigos
+- CNPq - Usa o FI do JCR como um dos principais critérios. Não existe renovação da bolsa produtividade. Vc tem que concorrer de novo. É uma forma de manutenção do status quo.
+  + Agronomia: para concorrer à bolsa PQ1A, tem 1 ter publicado 40 artigos nos ultimos 10 anos, Todos devem ter qualis A1, A2, B1 ou B2
+  + Essa competitividade muda os comportamentos. Influencia demais nesse produtivismo.
+- Dentre os principais critérios para classicar as revistas baseadas em qualis, usa-se o Fator de impacto (JCR). Isso depende de indexação nos principais bancos de dados.
+
+- Criterios de avaliação das SAP
+  + Incentivam pesq. a publicar artigos em revistas de alto FI e não em outros tipo de
+
+- AChados sugerem que os SAP (CAPES/CNPq) influenciam nos padrões de publicação das CAs. Porem, não concluimos que exista uma relação direta de causa-efeito entre ambos os elementos, no sentido de que esses sistemas possam ser indicados como a única causa das alterações observadas. Mas bem, intuitivamente, eu diria q é evidente que há uma relação causal sim.
+
+- Isso é um grande problema para aquelas áreas que se voltam a questões mais locais.
+
+- Os números dão um indício pra gente. Mas eles não podem substituir a avaliação qualitativa.
+
+- Jacque fala: nós temos no brasil a plataforma lattes, que é uma fonte inesgotável de dados. É um sistema único. Aberto e livre a qqr pessoa.
+
+- Se exige JCR - journal citation report , ou seja, precisa ter sido publicado em periódico com fator de impacto
+
+
+- Números vêm se tornando cada vez mais importantes ao se propor projetos e afins. Isso pode diminuir a liberdade do cientista de escolher trabalhar com algo que seja realmente inovador. Tbm diminui a possibilidade de se selecionar projetos com grande potencial de inovação.
+- O sistema tem mtos problemas e precisa ser rediscutido.
+
+- Diferentes culturas epistêmicas não são representadas por um msm conjunto de métricas.
+- O fator de impacto é uma das métricas mais criticadas, em especial em se tratando de avaliação da produção científica.
+- O objetivo do citation index era basicamente recuperação de informação. A partir do momento que o estado se baseia nas citações. A verdade é que o sistema se baseia no fator de impacto pq: (i) é fácil de calcular e (ii) ngm propõe soluções.
+- Como mudar? As pessoas lá dentro
+
+- https://en.wikipedia.org/wiki/Goodhart%27s_law - Goodhart's law
 
 \bibliography{Bibliometry}
 \bibliographystyle{apalike}

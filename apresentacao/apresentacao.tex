@@ -1,0 +1,58 @@
+% Created 2021-06-17 Thu 14:36
+% Intended LaTeX compiler: pdflatex
+\documentclass[bigger]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[backend=bibtex,style=apa,autocite=plain]{biblatex}
+\bibliography{../Bibliometry.bib}
+\usetheme{default}
+\author{Eric S Fraga}
+\date{2010-03-30 Tue}
+\title{Writing Beamer presentations in org-mode}
+\hypersetup{
+ pdfauthor={Eric S Fraga},
+ pdftitle={Writing Beamer presentations in org-mode},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+
+\begin{frame}[label={sec:org6ef5a36}]{Introduction}
+\begin{block}{teste}
+\begin{itemize}
+\item Trying \autocite{mugnaini2021}
+\end{itemize}
+\end{block}
+
+\begin{block}{teste2}
+\begin{itemize}
+\item trying again \cite{garfield1955}
+\end{itemize}
+\end{block}
+
+\begin{block}{teste 3}
+\begin{itemize}
+\item Last cite \parencite{demeis2003,mingers2015,thompson2015}
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+\begin{frame}[fragile,allowframebreaks,label=]{Frame with references}
+\printbibliography
+\end{frame}
+\end{document}

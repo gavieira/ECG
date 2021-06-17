@@ -1,0 +1,351 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{apa/global//global/global}
+  \entry{mugnaini2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MR}{%
+         family={Mugnaini},
+         familyi={M\bibinitperiod},
+         given={Rog{\'e}rio},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Fraumann},
+         familyi={F\bibinitperiod},
+         given={Grischa},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TEF}{%
+         family={Tuesta},
+         familyi={T\bibinitperiod},
+         given={Esteban\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=PAL}{%
+         family={Packer},
+         familyi={P\bibinitperiod},
+         given={Abel\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{MR+1}
+    \strng{fullhash}{MRFGTEFPAL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Digital object identifiers (DOIs) are important metadata elements for
+  indexing and interoperability, as well as for bibliometric studies in times
+  of openness. This study analyses the use of DOIs in the cited references of
+  articles by authors from Brazilian institutions, their possible influencing
+  factors and differences among areas of knowledge. It measures the extent to
+  which the citation datasets are open for reuse by others in terms of the
+  availability of DOIs. 226,491 articles were retrieved from Web of Science
+  (2012\textendash 2016), making a total of 8,707,120 cited references, 68\% of
+  which include DOIs. The results showed that the hard sciences have higher
+  percentages of DOIs in their cited references. The factor type of
+  collaboration showed higher percentages when there is international
+  collaboration, being significantly different from the other categories.
+  However, when the analysis was conducted inside the areas, the international
+  collaboration was found to be different particularly in the soft sciences and
+  a couple of other areas. The articles with DOI attributed, as well as those
+  with mention of research funding, had a significantly higher percentage, even
+  in the interaction with the areas of knowledge. Among the open access routes
+  the green routes showed the highest percentages, followed by golden (DOAJ and
+  other) and Bronze, but green routes articles proved to be not significantly
+  different from those not openly accessible. Finally, the principal
+  collaborating countries also showed the greatest influence on the DOI
+  attribution, with the exception of Peru and South Africa. Our findings
+  provide evidence that studies on the availability and usability of DOIs can
+  assist researchers, by underlining the importance of making greater use of
+  this persistent identifier, as well as to provide consistency to citation
+  analysis.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11192-020-03663-7
+    \endverb
+    \field{issn}{1588-2861}
+    \field{number}{3}
+    \field{pages}{2523\bibrangedash 2556}
+    \field{shorttitle}{Openness Trends in {{Brazilian}} Citation Data}
+    \field{title}{Openness Trends in {{Brazilian}} Citation Data: Factors
+  Related to the Use of {{DOIs}}}
+    \field{volume}{126}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Mugnaini et al_2021_Openness tre
+    \verb nds in Brazilian citation data.pdf
+    \endverb
+    \field{journaltitle}{Scientometrics}
+    \field{month}{03}
+    \field{year}{2021}
+  \endentry
+
+  \entry{garfield1955}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GE}{%
+         family={Garfield},
+         familyi={G\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {{American Association for the Advancement of Science}}%
+    }
+    \keyw{fav,top5}
+    \strng{namehash}{GE1}
+    \strng{fullhash}{GE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{chapter}{Articles}
+    \verb{doi}
+    \verb 10.1126/science.122.3159.108
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{3159}
+    \field{pages}{108\bibrangedash 111}
+    \field{shorttitle}{Citation {{Indexes}} for {{Science}}}
+    \field{title}{Citation {{Indexes}} for {{Science}}: {{A New Dimension}} in
+  {{Documentation}} through {{Association}} of {{Ideas}}}
+    \field{volume}{122}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Garfield_1955_Citation Indexes f
+    \verb or Science.pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{month}{07}
+    \field{year}{1955}
+  \endentry
+
+  \entry{demeis2003}{article}{}
+    \name{author}{5}{}{%
+      {{hash=dL}{%
+         family={{de Meis}},
+         familyi={d\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Velloso},
+         familyi={V\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lannes},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CMS}{%
+         family={Carmo},
+         familyi={C\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=dC}{%
+         family={{de Meis}},
+         familyi={d\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {{Associa\c{c}\~ao Brasileira de Divulga\c{c}\~ao Cient\'ifica}}%
+    }
+    \keyw{Academic pressure,fav,Mental suffering,MSc and PhD students,Public
+  and private universities,Publish or perish,Science funding,top5}
+    \strng{namehash}{dL+1}
+    \strng{fullhash}{dLVALDCMSdC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Brazil's scientific community is under pressure. Each year there is an
+  increase in its contribution to international science and in the number of
+  students who are trained to do research and teach at an advanced level. Most
+  of these activities are carried out in state and federal universities, but
+  with government funding that has decreased by more than 70\% since 1996.
+  Interviews with graduate students, post-doctoral fellows and professors in
+  one university department with a strong research tradition illustrate the
+  level of stress engendered by the conflict between increasing competition and
+  diminishing resources, and serve to underscore the negative effects on
+  creativity and on the tendency to choose science as a career.%
+    }
+    \verb{doi}
+    \verb 10.1590/S0100-879X2003000900001
+    \endverb
+    \field{issn}{0100-879X, 0100-879X, 1414-431X}
+    \field{pages}{1135\bibrangedash 1141}
+    \field{shorttitle}{The Growing Competition in {{Brazilian}} Science}
+    \field{title}{The Growing Competition in {{Brazilian}} Science: Rites of
+  Passage, Stress and Burnout}
+    \field{volume}{36}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/de Meis et al_2003_The growing c
+    \verb ompetition in Brazilian science.pdf
+    \endverb
+    \field{journaltitle}{Brazilian Journal of Medical and Biological Research}
+    \field{month}{09}
+    \field{year}{2003}
+  \endentry
+
+  \entry{mingers2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MJ}{%
+         family={Mingers},
+         familyi={M\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Leydesdorff},
+         familyi={L\bibinitperiod},
+         given={Loet},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Altmetrics,Citations,fav,H-index,Impact factor,Normalisation,top5}
+    \strng{namehash}{MJLL1}
+    \strng{fullhash}{MJLL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Scientometrics is the study of the quantitative aspects of the process of
+  science as a communication system. It is centrally, but not only, concerned
+  with the analysis of citations in the academic literature. In recent years it
+  has come to play a major role in the measurement and evaluation of research
+  performance. In this review we consider: the historical development of
+  scientometrics, sources of citation data, citation metrics and the ``laws''
+  of scientometrics, normalisation, journal impact factors and other journal
+  metrics, visualising and mapping science, evaluation and policy, and future
+  developments.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ejor.2015.04.002
+    \endverb
+    \field{issn}{0377-2217}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 19}
+    \field{title}{A Review of Theory and Practice in Scientometrics}
+    \field{volume}{246}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Mingers_Leydesdorff_2015_A revie
+    \verb w of theory and practice in scientometrics.pdf
+    \endverb
+    \field{journaltitle}{European Journal of Operational Research}
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{thompson2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TDF}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={Dennis\bibnamedelima F.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=WCK}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Cheri\bibnamedelima K.},
+         giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+  \keyw{application,bibliometrics,fav,history,laws,medicine,pharmacy,publications,top5}
+    \strng{namehash}{TDFWCK1}
+    \strng{fullhash}{TDFWCK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    The discipline of bibliometrics involves the application of mathematical
+  and statistical methods to scholarly publications. The first attempts at
+  systematic data collection were provided by Alfred Lotka and Samuel Bradford,
+  who subsequently established the foundational laws of bibliometrics. Eugene
+  Garfield ushered in the modern era of bibliometrics with the routine use of
+  citation analysis and systematized processing. Key elements of bibliometric
+  analysis include database coverage, consistency and accuracy of the data,
+  data fields, search options, and analysis and use of metrics. A number of
+  bibliometric applications are currently being used in medical science and
+  health care. Bibliometric parameters and indexes may be increasingly used by
+  grant funding sources as measures of research success. Universities may build
+  benchmarking standards from bibliometric data to determine academic
+  achievement through promotion and tenure guidelines in the future. This
+  article reviews the history, definition, laws, and elements of bibliometric
+  principles and provides examples of bibliometric applications to the broader
+  health care community. To accomplish this, the Medline (1966\textendash 2014)
+  and Web of Science (1945\textendash 2014) databases were searched to identify
+  relevant articles; select articles were also cross-referenced. Articles
+  selected were those that provided background, history, descriptive analysis,
+  and application of bibliometric principles and metrics to medical science and
+  health care. No attempt was made to cover all areas exhaustively; rather, key
+  articles were chosen that illustrate bibliometric concepts and enhance the
+  reader's knowledge. It is important that faculty and researchers understand
+  the limitations and appropriate uses of bibliometric data. Bibliometrics has
+  considerable potential as a research area for health care scientists and
+  practitioners that can be used to discover new information about academic
+  trends, pharmacotherapy, disease, and broader health sciences trends.%
+    }
+    \verb{doi}
+    \verb 10.1002/phar.1586
+    \endverb
+    \field{issn}{1875-9114}
+    \field{number}{6}
+    \field{pages}{551\bibrangedash 559}
+    \field{title}{A {{Descriptive}} and {{Historical Review}} of
+  {{Bibliometrics}} with {{Applications}} to {{Medical Sciences}}}
+    \field{volume}{35}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Thompson_Walker_2015_A Descripti
+    \verb ve and Historical Review of Bibliometrics with Applications to.pdf
+    \endverb
+    \field{journaltitle}{Pharmacotherapy: The Journal of Human Pharmacology and
+  Drug Therapy}
+    \field{annotation}{%
+    \_eprint:
+  https://accpjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/phar.1586%
+    }
+    \field{year}{2015}
+  \endentry
+\enddatalist
+\endinput
