@@ -21,17 +21,186 @@
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 #+BIBLIOGRAPHY: ../Bibliometry
 
-* Introduction
+* Conceitos
+- Bibliometria:
+- Cientometria:
+- Informetria:
+
+* Bibliometria - Leis
+- Lei de Lotka
+- Lei de Bradford
+- Lei de Zipf
+
+* Zonas de Bradford
+- 3 zonas:
+  + Cada uma com 1/3 das publicações relevantes
+  + Cada uma com N vezes mais periódicos que a anterior
+  + N = Constante de Bradford
+
+* Science Citation Index
+- Index: O que é?
+  + Forma de recuperação de informações
+
+- Science Citation Index \parencite{garfield1955}
+  + Baseado no livro similar de direito
+    - Lei é baseada em precedentes
+  + Recuperar facilmente quem citou
+  + Fator de impacto - Medida de importância historica de um artigo
+
+* \cite{mugnaini2019}
+- Distribuição das zonas de bradford no Brasil
+
+* ISI Journal Impact Factor
 
 
-** teste
-- Trying \parencite{mugnaini2021}
 
-** teste2
-- trying again \parencite{garfield1955}
+* Databases
+- *WoS*
+  +
 
-** teste 3
-- Last cite \parencite{demeis2003,mingers2015,thompson2015}
+- *Scopus*
+  +
+
+- *Google Scholar*
+  +
+
+- *Scielo*
+  +
+
+- *Currículo Lattes*
+  +
+
+
+* Indicadores bibliométricos (métricas)
+- Extremamente usados em estudos bibliométricos e avaliação da produção cientifica
+- Baseados em citações
+
+- Citações
+  + Obsolescencia
+  + Curva assimétrica
+  + Tempo de acúmulo
+
+* Fator de Impacto (FI)
+- Criado em ... e atribuído a períodicos
+
+- Função:
+  +
+
+- Publicado anualmente
+  + Inicialmente: ISI
+  + Hoje: Clarivate Analytics
+
+- Calculo:
+  +
+
+* Problemas/limitações do Fator de impacto
+- Manipulável
+  + Inflações artificiais
+
+- Janela de citação de 2 anos
+  + Para algumas áreas, não é o bastante
+
+- Baseado na média
+
+
+* Índice h ()
+-
+-
+
+
+
+* Métricas vs peer-review
+- Aumento da produção científica
+  + Peer-review mais dispendioso
+
+- Maior incorporação das métricas na avaliação
+  + País
+  + Instituição
+  + Departamento
+  + Laboratório
+  + Pesquisador
+
+- Contratação, financiamento...
+
+* RAE
+- Grande evento de peer-review
+- Determinação do financiamento na Inglaterra
+
+- Extremamente criticado
+  + Muito caro
+  + Estudos mostram correlação entre índices e resultados do RAE
+
+- Será que o peer-review fora das revistas está morto?
+
+* Métricas vs peer-review: quadro comparativo
+
+| Peer review | Métricas     |
+| Qualitativo | Quantitativo |
+
+
+* \cite{butler2007}
+- Abordagem mista
+- Ambos possuem falhas, e se complementam
+- Os dois possuírem correlação em várias áreas serve como possibilidade de refinamento da avaliação
+  + Se eles divergirem, os avaliadores devem discutir mais a fundo
+
+* Avaliação no Brasil
+- Qualis
+
+
+* Avaliação no Brasil 2
+
+
+* Problemas da avaliação baseada em métricas (e em especial no FI)
+
+- Mudança do comportamento dos pesquisadores
+  + Minar as idéias originais
+  + Maior foco em periódicos internacionais de alto impacto
+
+
+- Impacto na integridade científica
+  + Evidência anedótica
+
+- Problemas a nível pessoal
+  + Produtivismo e competição exacerbada
+  + Depressão, burnout
+
+
+* \cite{demeis2003}
+
+- Pesquisa feita no IBQm
+
+
+* \cite{demeis2003} - 2
+
+* \cite{demeis2003} - 3
+
+
+* Os manifestos
+- Várias iniciativas surgiram para lidar com o mal uso das métricas nos sistemas de avaliação da política científica
+  + DORA
+  + Leiden
+  + Tide
+  + Hong Kong
+
+* DORA
+- Desenvolvido e ... em 2013
+- Site - xxxx assinaturas
+- Recomendações para pesquisadores, instituições, agências de fomento
+
+* Principal recomendação
+- Não usar métricas a nível de periódico (como o fator de impacto) para avaliar pessoas.
+
+* Conquistas DORA \parencite{schmid2017}
+-
+-
+
+* Conclusão e perspectivas
+- A bibliometria é um campo essencial
+- Bibliometria e peer-review podem coexistir
+- Múltiplos inputs (ex: indices clássicos + altmetricos) tendem a prover análises mais holísticas
+- O *mal uso* de qualquer indicador para avaliação invariavelmente terá impactos danosos ao avaliado
+- Temos responsabilidade e vós nesse assunto
 
 
 * Referências
@@ -40,5 +209,4 @@
   :END:
   \printbibliography
 
-
-
+* Who watches the watchmen?
