@@ -160,34 +160,45 @@
   + Qualis Periódicos
     - Divisão da produção em 49 áreas [[https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/sobre-as-areas-de-avaliacao][Sobre as áreas de avaliação — Português (Brasil)]]
     - Capes estabelece princípios gerais de avaliação
-    - Um comitê para cada área - ajustes nos critérios e indicadores usados para classificar periódicos
+    - Um comitê para cada área
+      + Ajustes nos critérios e indicadores usados para clasificar periódicos em estratos (A1-2, B1-5, C)
     - Lista de classificação dos periódicos - atualizada anualmente
     - \cite{deoliveira2017}:
       + 29 áreas - FI como *principal definidor* da classificação
+    - Periodicos multidisciplinares
+      + Bem avaliados em uma área, mal avaliados em outra.
+      + Pesquisador publica fora da área da sua PG é prejudicado.
+
+
+    - Reformulação: Qualis Referência \cite{perez2020}
+      + Ainda em debate
+      + Visa criar um Qualis único, válido para todas as áreas
+      + Fortemente baseado em métricas para definir a posição dos periódicos nos estratos
+        - Scopus (CiteScore)
+        - WoS (FI)
+        - Google Scholar (h-index) - em menor nível
+
+    - Mas será que o qualis é adequado para avaliar a produção intelectual brasileira como ele se propõe?
+
+* \cite{mugnaini2019}
+
+- Não, pois o scopus + WoS pega só 30% da produção
+- Ao contrário, ele força uma modificação do padrão de publicação
+
 
     - Qualis visa avaliar os programas de pós-graduação com base na qualidade dos veículos usados para sua produção intelectual, não o pesquisador \parencite{barata2016}
       + Parte importante da definição da nota do programa
-      + Alocação de recursos
+      + Guia ações e políticas - Alocação de recursos
       + Efeitos diretos sobre carreira de professores/alunos
+      + Periódicos brasileiros:
+        - Menos citações que os internacionais
+        - Usar a mesma métrica: revistas brasileiras nos estratos inferiores (menos atrativas) - várias consequências:
+          + Pesquisadores teriam que alinhar suas pesquisas com os interesses internacionais, evitando questões locais (e por vezes cruciais para nosso país)
+          + Veículos brasileiros, que permitiriam a comunicação dessas questões locais, iriam diminuir
+          + Maior competição (todos almejando as revistas internacionais)
+          + Autores e programas já inseridos internacionalmente seriam privilegiados.
+          + Particularmente problemático para áreas como as ciências sociais, q publicam localmente.
 
-
-* Avaliação no Brasil 2
-
-- Bolsa Produtividade científica
-  + Muito cobiçada \parencite{mota2019}
-    - Status acadêmico
-    - Atração de outros financiamentos
-
-  + Pesquisadores julgados por Comitês de Assessoramento (CA) de cada subárea do conhecimento.
-
-  + Requisitos mínimos de publicação - CA de Ciências da Vida (engloba bioquímica)
-    + Nível 2: 5 artigos (IF>1) em 5 anos
-    + Nível 1 (1A-D): 20 artigos (IF>1) em 10 anos
-      - Artigos com *IF>4 contam como 4 artigos com IF entre 1 e 4*
-
-- *O  atendimento  aos  critérios  mínimos  não  garante  a  concessão  de  bolsas.*
-  + Um dos critérios de classificação é:
-    - "Publicações, considerados apenas os periódicos científicos de fator de impacto igual ou superior a 1, com ênfase na produção contida em periódicos de mais elevado índice de impacto.(...)" (CNPq, 2020)
 
 * Problemas da metricização exacerbada da avaliação
 
@@ -211,6 +222,25 @@
 * \cite{demeis2003} - 2
 
 * \cite{demeis2003} - 3
+
+* Avaliação no Brasil 2 - Retirar
+
+- Bolsa Produtividade científica
+  + Muito cobiçada \parencite{mota2019}
+    - Status acadêmico
+    - Atração de outros financiamentos
+
+  + Pesquisadores julgados por Comitês de Assessoramento (CA) de cada subárea do conhecimento.
+
+  + Requisitos mínimos de publicação - CA de Ciências da Vida (engloba bioquímica)
+    + Nível 2: 5 artigos (IF>1) em 5 anos
+    + Nível 1 (1A-D): 20 artigos (IF>1) em 10 anos
+      - Artigos com *IF>4 contam como 4 artigos com IF entre 1 e 4*
+
+- *O  atendimento  aos  critérios  mínimos  não  garante  a  concessão  de  bolsas.*
+  + Um dos critérios de classificação é:
+    - "Publicações, considerados apenas os periódicos científicos de fator de impacto igual ou superior a 1, com ênfase na produção contida em periódicos de mais elevado índice de impacto.(...)" (CNPq, 2020)
+
 
 
 * Os manifestos
