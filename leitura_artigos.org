@@ -1222,3 +1222,6 @@ DORA: estudos de caso
 
 \bibliography{Bibliometry}
 \bibliographystyle{apalike}
+
+* Para a apresentação:
+- Ler e reler os artigos selecionados + \cite{mattedi2017}
