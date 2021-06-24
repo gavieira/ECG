@@ -1,0 +1,672 @@
+% Created 2021-06-24 Thu 19:02
+% Intended LaTeX compiler: pdflatex
+\documentclass[bigger]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[backend=bibtex,style=apa,autocite=inline]{biblatex}
+\bibliography{../Bibliometry.bib}
+\usetheme{default}
+\author{Gabriel Alves Vieira}
+\date{25-06-2021}
+\title{Bibliometria e a avaliação da publicação científica}
+\hypersetup{
+ pdfauthor={Gabriel Alves Vieira},
+ pdftitle={Bibliometria e a avaliação da publicação científica},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\cite{urbizagastegui}
+\cite{garfield1955}
+\cite{gracio2016}
+\cite{khasseh2017a}
+\cite{aria2017a}
+\cite{garfield1963}
+\cite{pendlebury2009}
+\cite{strehl2005}
+\cite{teixeiradasilva2020}
+\cite{roldan-valadez2019}
+\cite{hirsch2005}
+\cite{abramo2011}
+\cite{butler2007}
+\cite{deoliveira2017}
+\cite{barata2016}
+\cite{perez2020}
+\cite{demeis2003}
+\cite{trust2020}
+\cite{schmid2017}
+\cite{hatch2020}
+
+
+\begin{frame}[label={sec:org781a1c5}]{Conceitos}
+\begin{itemize}
+\item Informetria: “The study of the application of mathematical meth- ods to the objects of information science”
+\begin{itemize}
+\item Mais geral, cobre todos os tipos de informações
+\end{itemize}
+\item Bibliometria: “The application of mathematics and statistical methods to books and other media of communication”
+\begin{itemize}
+\item Voltado ao estudo de livros/publicações
+\end{itemize}
+\item Cientometria: “the quantitative methods of the research on the development of science as an informational process”
+\begin{itemize}
+\item Visa avaliar a pesquisa científica.
+\item Grande foco em citações
+\begin{itemize}
+\item Citações ligam pessoas, idéias, revistas e instituições
+\item Formam uma rede que pode ser analisada quantitativamente
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgbb3613e}]{Conceitos 2}
+\begin{itemize}
+\item Figura 2 de /cite\{thompson2015\}
+\item Frisar que iremos focar uma parte da bibliometria dentro da cientometria, que são os indicadores baseados em citações, extremamente utilizados na avaliação da produção científica.
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orga62bedb}]{Bibliometria - Leis}
+\begin{itemize}
+\item Criadas nos primórdios da
+\begin{itemize}
+\item Todas passaram por críticas/atualizações
+\end{itemize}
+
+\item Lei de Lotka
+\begin{itemize}
+\item Frequência de publicação por autores de um dado campo
+\item 
+\end{itemize}
+\item Lei de Bradford
+\item Lei de Zipf
+\begin{itemize}
+\item Ordem dos termos mais utilizados em um campo científico
+\item Estabelecer relação entre autores que não se citam
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgb031106}]{Zonas de Bradford}
+\begin{itemize}
+\item 3 zonas:
+\begin{itemize}
+\item Cada uma com 1/3 das publicações relevantes
+\item Cada uma com N vezes mais periódicos que a anterior
+\item N = Constante de Bradford
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org54ff4ba}]{\cite{mugnaini2019}}
+\begin{itemize}
+\item Distribuição das zonas de bradford no Brasil
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgb94e452}]{Science Citation Index}
+\begin{itemize}
+\item Index: O que é?
+\begin{itemize}
+\item Forma de recuperação de informações
+\end{itemize}
+
+\item Science Citation Index \parencite{garfield1955}
+\begin{itemize}
+\item Baseado no livro similar de direito
+\begin{itemize}
+\item Lei é baseada em precedentes
+\end{itemize}
+\item Recuperar facilmente quem citou
+\item Fator de impacto - Medida de importância historica de um artigo
+\end{itemize}
+
+\item Posteriormente, outros índices foram criados
+\begin{itemize}
+\item Social Sciences Citation Index (SSCI, in 1973)
+\item Arts \& Humanities Citation Index (A\&HCI; since 1978)
+\item Incorporados ao Web of Science
+\end{itemize}
+
+\item Network de citações mais fácil de ser recuperado
+\begin{itemize}
+\item Usado em estudos bibliométricos
+\item Price: Um dos primeiros a estudar esse network
+\begin{itemize}
+\item Vantagem cumulativa
+\begin{itemize}
+\item Idéia de que pesquisadores com \parencite{mattedi2017}
+\end{itemize}
+\item Matthew Effect (Merton, 1968)
+\begin{itemize}
+\item ``Porque a todo aquele que tem será dado, e terá em abundância; mas daquele que não tem, até o que tem será tirado.'' (Mateus 25,29) Bíblia de Jerusalém.
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:orgd072457}]{ISI Journal Impact Factor}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:org25e57a8}]{Databases}
+\begin{itemize}
+\item \alert{WoS}
+
+\item \alert{Scopus}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Google Scholar}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Scielo}
+\begin{itemize}
+\item Têm métricas (Scielo Analytics)
+\end{itemize}
+
+\item \alert{Currículo Lattes}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item Nenhuma database apresenta 100\% de cobertura para todas as áreas.
+\begin{itemize}
+\item Tem a ver com a lei de Bradford (artigos espalhados em vários periódicos)
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org9803826}]{Indicadores bibliométricos (métricas)}
+\begin{itemize}
+\item Extremamente usados em estudos bibliométricos e avaliação da produção cientifica
+\item Baseados em citações
+
+\item Citações
+\begin{itemize}
+\item Obsolescencia
+\item Curva assimétrica
+\item Tempo de acúmulo
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org67b6268}]{Fator de Impacto (FI)}
+\begin{itemize}
+\item Criado para avaliar periódicos \parencite{garfield1963}
+\item Bibliotecas pudessem escolher quais períodicos assinar
+
+\item Função:
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item Publicado anualmente
+\begin{itemize}
+\item Inicialmente: ISI
+\item Hoje: Clarivate Analytics
+\end{itemize}
+
+\item Calculo:
+\begin{itemize}
+\item 
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org7e802bf}]{Problemas/limitações do Fator de impacto}
+\begin{itemize}
+\item Manipulável
+\begin{itemize}
+\item Inflações artificiais
+\end{itemize}
+
+\item Janela de citação de 2 anos
+\begin{itemize}
+\item Para algumas áreas, não é o bastante
+\end{itemize}
+
+\item Baseado na média
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:org8f9000c}]{Índice h () - \parencite{hirsch2005}}
+\begin{itemize}
+\item 
+
+\item 
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:orgea08783}]{Métricas vs peer-review}
+\begin{itemize}
+\item Aumento da produção científica
+\begin{itemize}
+\item Peer-review mais dispendioso
+\end{itemize}
+
+\item Maior incorporação das métricas na avaliação
+\begin{itemize}
+\item País
+\item Instituição
+\item Departamento
+\item Laboratório
+\item Pesquisador
+\end{itemize}
+
+\item Contratação, financiamento\ldots{}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgd3421ed}]{RAE}
+\begin{itemize}
+\item Grande evento de peer-review
+\item Determinação do financiamento na Inglaterra
+
+\item Extremamente criticado
+\begin{itemize}
+\item Muito caro
+\item Estudos mostram correlação entre índices e resultados do RAE
+\end{itemize}
+
+\item Será que o peer-review fora das revistas está morto?
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org34f309a}]{Métricas vs peer-review: quadro comparativo}
+\begin{center}
+\begin{tabular}{ll}
+Peer review & Métricas\\
+Qualitativo & Quantitativo\\
+\end{tabular}
+\end{center}
+\end{frame}
+
+
+\begin{frame}[label={sec:orge1bd217}]{Problemas da quantificação}
+\begin{itemize}
+\item Mais precisamente, a metrificação compreende a operação, ao mesmo tempo, cognitiva e normativa por meio da qual se procura transformar a avaliação da produtividade numa atividade imparcial e confiável (Porter, 1995) /cite\{mattedi2017\}
+\item O apelo da metrificação à imparcialidade dos números padroniza competências locais em regras gerais: transforma um padrão de comunicação científica em parâmetro de avaliação para toda a produção científica.
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:orga3aa205}]{\cite{butler2007}}
+\begin{itemize}
+\item Abordagem mista
+\item Ambos possuem falhas, e se complementam
+\item Os dois possuírem correlação em várias áreas serve como possibilidade de refinamento da avaliação
+\begin{itemize}
+\item Se eles divergirem, os avaliadores devem discutir mais a fundo
+\end{itemize}
+
+\item Humanas - métricas auxiliam peer-review, mas não o substituem \parencite{abramo2011}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org8949e14}]{Avaliação no Brasil}
+\begin{itemize}
+\item Capes
+\begin{itemize}
+\item Avaliação dos programas de pós-graduação
+\item Qualis Periódicos
+\begin{itemize}
+\item Divisão da produção em 49 áreas \href{https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/sobre-as-areas-de-avaliacao}{Sobre as áreas de avaliação — Português (Brasil)}
+\item Capes estabelece princípios gerais de avaliação
+\item Um comitê para cada área
+\begin{itemize}
+\item Ajustes nos critérios e indicadores usados para clasificar periódicos em estratos (A1-2, B1-5, C)
+\end{itemize}
+\item Lista de classificação dos periódicos - atualizada anualmente
+\item \cite{deoliveira2017}:
+\begin{itemize}
+\item 29 áreas - FI como \alert{principal definidor} da classificação
+\end{itemize}
+\item Periodicos multidisciplinares
+\begin{itemize}
+\item Bem avaliados em uma área, mal avaliados em outra.
+\item Pesquisador publica fora da área da sua PG é prejudicado.
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+
+
+\begin{itemize}
+\item Reformulação: Qualis Referência \cite{perez2020}
+\begin{itemize}
+\item Ainda em debate
+\item Visa criar um Qualis único, válido para todas as áreas
+\item Fortemente baseado em métricas para definir a posição dos periódicos nos estratos
+\begin{itemize}
+\item Scopus (CiteScore)
+\item WoS (FI)
+\item Google Scholar (h-index) - em menor nível
+\end{itemize}
+\end{itemize}
+
+\item Mas será que o qualis é adequado para avaliar a produção intelectual brasileira como ele se propõe?
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orga071a55}]{\cite{mugnaini2019}}
+\begin{itemize}
+\item Não, pois o scopus + WoS pega só 30\% da produção
+\item Ao contrário, ele força uma modificação do padrão de publicação
+\end{itemize}
+
+
+\begin{itemize}
+\item Qualis visa avaliar os programas de pós-graduação com base na qualidade dos veículos usados para sua produção intelectual, não o pesquisador \parencite{barata2016}
+\begin{itemize}
+\item Parte importante da definição da nota do programa
+\item Guia ações e políticas - Alocação de recursos
+\item Efeitos diretos sobre carreira de professores/alunos
+\item Periódicos brasileiros:
+\begin{itemize}
+\item Menos citações que os internacionais
+\item Usar a mesma métrica: revistas brasileiras nos estratos inferiores (menos atrativas) - várias consequências:
+\begin{itemize}
+\item Pesquisadores teriam que alinhar suas pesquisas com os interesses internacionais, evitando questões locais (e por vezes cruciais para nosso país)
+\item Veículos brasileiros, que permitiriam a comunicação dessas questões locais, iriam diminuir
+\item Maior competição (todos almejando as revistas internacionais)
+\item Autores e programas já inseridos internacionalmente seriam privilegiados (Efeito Mateus)
+\item Particularmente problemático para áreas como as ciências sociais, q publicam localmente.
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:orgcc4a393}]{Problemas da metricização exacerbada da avaliação}
+\begin{itemize}
+\item Mudança do comportamento dos pesquisadores
+\begin{itemize}
+\item (Ok, qqr avaliação muda o comportamento, mas como o peer-review é mais qualitativo, isso não é tão pronunciado, pq ele não deixa claro o que vc deve fazer para se adaptar a ele. As métricas deixam claro: publicar em revistas de alto impacto é um exemplo. Publicar muito (h-index), é outro)
+\item Minar as idéias originais
+\item Maior foco em periódicos internacionais de alto impacto
+\end{itemize}
+
+\item Impacto na integridade científica
+\begin{itemize}
+\item Evidência anedótica
+\end{itemize}
+
+\item Problemas a nível pessoal
+\begin{itemize}
+\item Produtivismo e competição exacerbada
+\item Depressão, burnout
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:org51ee9d3}]{\cite{demeis2003}}
+\begin{itemize}
+\item Aumento da produção científica nacional
+\item Diminuição do financiamento
+\item Aumento da competitividade
+\begin{itemize}
+\item PROFIX:
+\begin{itemize}
+\item Jovens pesquisadores
+\item 1154 candidatos para 100 bolsas
+\end{itemize}
+\item Bolsas do CNPq:
+\begin{itemize}
+\item Seção: bioquímica, biofísica, fisiologia, farmacologia e neurociências
+\item 437 inscrições de projetos, 267 aprovados por mérito científico
+\item Recursos para o financiamento de apenas 20 projetos
+\end{itemize}
+\end{itemize}
+\item Cenário de distorção cultural
+\begin{itemize}
+\item Cientometria prevalece sobre o conhecimento (demeis et al. 2003b)
+\begin{itemize}
+\item PROFIX e CNPq - Principal critério:
+\begin{itemize}
+\item Background científico dos candidatos: Número de publicações e o impacto das revistas onde foram publicados.
+\end{itemize}
+\end{itemize}
+\item Sofrimento mental é o preço pago pela escassez de recursos
+\begin{itemize}
+\item Cobrança e competição exacerbadas
+\item Qual o impacto dessa situação para os indivíduos?
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org0a0392c}]{\cite{demeis2003} - 2}
+\begin{block}{Você é o que vc publica}
+\begin{itemize}
+\item “He [the thesis advisor] doesn’t care about my thesis. He believes that a thesis is the consequence of good work and good work means papers published in good journals”
+
+\item “What we hear is that you are worth what you publish\ldots{} the currency in this arena is publications”
+\end{itemize}
+\end{block}
+
+\begin{block}{Submissão do paper}
+\begin{itemize}
+\item “My major concern was to publish, to be recognized\ldots{} it was a kind of self-affirmation, so I could tell them, ‘Look, I am good!’”;
+
+\item “When the journal does not accept, you feel as if it is not only your paper, but you yourself that is rejected\ldots{} They look at you as if you do not deserve to be there\ldots{} it is a very bad feeling!”;
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Insegurança sobre o financiamento e cobrança}
+\begin{itemize}
+\item “If you stop publishing, you lose your grant\ldots{} You are ejected from the system, it doesn’t matter what you did in the past - it only matters what you have done in the last 2 to 3 years”
+
+\item “At times I feel so anxious\ldots{} you must complete your thesis in a short period of time, you have an advisor who guides you but at the same time continuously demands results, because we live in a system that constantly demands more and more from the advisor, and so it goes on down the line, in a cascade\ldots{}”
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}[label={sec:org3c6c178}]{\cite{demeis2003} - 3}
+\begin{block}{Ritos de passagem}
+\begin{itemize}
+\item Morte, transição e renascimento
+\item Transição - Período de incertezas e ansiedade
+\begin{itemize}
+\item Trajetoria científica como uma transição constante
+\begin{itemize}
+\item Continuar provando sua capacidade
+\item Exclusão do sistema
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{block}
+
+\begin{block}{Burnout}
+\begin{itemize}
+\item Exaustão emocional e mental
+\item Prejudica tanto o desempenho no trabalho como a saúde
+\begin{itemize}
+\item Dores de cabeça, hipertensão, ansiedade e depressão
+\end{itemize}
+\item Abuso de álcool/drogas
+\item Deterioração das relações com família/amigos
+\end{itemize}
+\end{block}
+
+\begin{block}{Futuro cenário}
+\begin{itemize}
+\item Perda do interesse na carreira científica
+\item Possível declínio da ciência brasileira
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}[label={sec:org4ffa7bd}]{Cultura científica}
+\begin{itemize}
+\item \cite{trust2020}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org1345de1}]{Avaliação no Brasil 2 - Retirar}
+\begin{itemize}
+\item Bolsa Produtividade científica
+\begin{itemize}
+\item Muito cobiçada \parencite{mota2019}
+\begin{itemize}
+\item Status acadêmico
+\item Atração de outros financiamentos
+\end{itemize}
+
+\item Pesquisadores julgados por Comitês de Assessoramento (CA) de cada subárea do conhecimento.
+
+\item Requisitos mínimos de publicação - CA de Ciências da Vida (engloba bioquímica)
+\begin{itemize}
+\item Nível 2: 5 artigos (IF>1) em 5 anos
+\item Nível 1 (1A-D): 20 artigos (IF>1) em 10 anos
+\begin{itemize}
+\item Artigos com \alert{IF>4 contam como 4 artigos com IF entre 1 e 4}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+
+\item \alert{O  atendimento  aos  critérios  mínimos  não  garante  a  concessão  de  bolsas.}
+\begin{itemize}
+\item Um dos critérios de classificação é:
+\begin{itemize}
+\item ``Publicações, considerados apenas os periódicos científicos de fator de impacto igual ou superior a 1, com ênfase na produção contida em periódicos de mais elevado índice de impacto.(\ldots{})'' (CNPq, 2020)
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgdab6ecd}]{Os manifestos}
+\begin{itemize}
+\item Várias iniciativas/guidelines surgiram para lidar com o mal uso das métricas nos sistemas de avaliação da política científica
+\begin{itemize}
+\item San Francisco Declaration on Research Assessment (DORA) - 2013
+\item Leiden Manifesto - 2015
+\item Metric Tide - 2015
+\item Hong Kong Principles - 2019
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgdbec492}]{DORA}
+\begin{itemize}
+\item Um dos mais influentes
+\item Site - assinaturas:
+\begin{itemize}
+\item XXXX pessoas, XXXX organizações
+\end{itemize}
+\item Recomendações para pesquisadores, instituições, agências de fomento
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org8305b11}]{Recomendações}
+\begin{block}{Principal}
+\begin{itemize}
+\item Não usar métricas a nível de periódico (como o fator de impacto) para avaliar pessoas.
+\end{itemize}
+\end{block}
+
+\begin{block}{Agências de financiamento/instituições}
+\begin{itemize}
+\item For the purposes of research assessment, consider the value and impact of all research outputs (including datasets and software) in addition to research publications, and consider a broad range of impact measures including qualitative indicators of research impact, such as influence on policy and practice.
+\end{itemize}
+\end{block}
+
+\begin{block}{Editoras}
+\begin{itemize}
+\item Make available a range of article-level metrics to encourage a shift toward assessment based on the scientific content of an article rather than publication metrics of the journal in which it was published
+\end{itemize}
+\end{block}
+
+\begin{block}{Organizações que provém métricas}
+\begin{itemize}
+\item Be open and transparent by providing data and methods used to calculate all metrics.
+\end{itemize}
+\end{block}
+
+\begin{block}{Pesquisadores}
+\begin{itemize}
+\item Challenge research assessment practices that rely inappropriately on Journal Impact Factors and promote and teach best practice that focuses on the value and influence of specific research outputs.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}[label={sec:org3004f58}]{Avanços \parencite{schmid2017}}
+\begin{itemize}
+\item Funding organizations in Europe (EMBO, Wellcome Trust, oth- ers), the United States (National Institutes of Health [NIH], Na- tional Science Foundation), and around the world (Australia, Canada, and others) have instituted, strengthened, and/or made more explicit their guidelines to curtail the use of JIFs and to allow researchers to articulate the significance of their own work, through selected and annotated bibliographies.
+\item Scientific societies, such as EMBO and ASCB, are using JIF-inde- pendent mechanisms to evaluate potential awardees at the junior and senior levels.
+\item Awareness:
+\begin{itemize}
+\item Nobel laureates (Schekman, 2013; Nobel Prize, 2017) and blog- gers are speaking out against JIF, encouraging scientists, as articu- lated by Bruce Beutler, “to publish as high as is practical, don’t waste a lot of time on repeated attempts to get in the top tier.”
+\item International forums are taking place to discuss research assess- ment and the utility and impact of bibliometrics
+\end{itemize}
+\item DORA’s request of Thomson Reuters, the developer of JIF, to make their data more available and transparent has, in part, been answered (van Noorden, 2014), as the Web of Science (currently administered by Clarivate Analytics), now allows data to be directly downloaded from their site to Excel spreadsheets for independent analysis (see Figure 1).
+\item The launch and success of bioRxiv, and other preprint servers, together with their acceptance of this practice by almost all jour- nals, is enabling more rapid and efficient communication of re- sults. Indeed, I have relied on the availability of bioRxiv preprints to make positive decisions in hiring (as a department chairman), in funding (as a grant referee), and as an external referee for tenure decisions.
+
+\item Olhar \parencite{hatch2020}
+\end{itemize}
+
+
+
+\begin{itemize}
+\item Link para assinar o DORA: \url{https://sfdora.org/sign/}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org695d1ed}]{Conclusão e perspectivas}
+\begin{itemize}
+\item A cientometria é essencial para estudar a prática da ciência
+\item Entretanto, um (mal) uso exacerbado de indicadores para avaliar a produção científica molda a dinâmica que a cientometria se propõe a estudar.
+\begin{itemize}
+\item Produtivismo, individualismo e competitividade
+\item Práticas questionáveis que minam a ciência aos olhos do público
+\item Ciência como produto em vez de bem público
+\end{itemize}
+\item Maior presença de outros outputs ceintificos em avaliações individuais:
+\begin{itemize}
+\item Datasets, Código, Orientações, Eventos (Extensão ou não)
+\end{itemize}
+\item Múltiplos inputs (ex: indices clássicos + altmetricos)
+\begin{itemize}
+\item Avaliações mais holísticas da produção científica
+\end{itemize}
+\item O \alert{mal uso} de qualquer indicador para avaliação invariavelmente terá impactos danosos ao avaliado
+\item Temos responsabilidade e voz nesse assunto
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile,allowframebreaks,label=]{Referências}
+\printbibliography
+\end{frame}
+
+\begin{frame}[label={sec:orge37773f}]{Who watches the watchmen?}
+\end{frame}
+\end{document}

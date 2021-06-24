@@ -21,6 +21,29 @@
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 #+BIBLIOGRAPHY: ../Bibliometry
 
+
+\cite{urbizagastegui}
+\cite{garfield1955}
+\cite{gracio2016}
+\cite{khasseh2017a}
+\cite{aria2017a}
+\cite{garfield1963}
+\cite{pendlebury2009}
+\cite{strehl2005}
+\cite{teixeiradasilva2020}
+\cite{roldan-valadez2019}
+\cite{hirsch2005}
+\cite{abramo2011}
+\cite{butler2007}
+\cite{deoliveira2017}
+\cite{barata2016}
+\cite{perez2020}
+\cite{demeis2003}
+\cite{trust2020}
+\cite{schmid2017}
+\cite{hatch2020}
+
+
 * Conceitos
 - Informetria: “The study of the application of mathematical meth- ods to the objects of information science”
   + Mais geral, cobre todos os tipos de informações
