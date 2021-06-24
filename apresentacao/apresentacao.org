@@ -22,13 +22,27 @@
 #+BIBLIOGRAPHY: ../Bibliometry
 
 * Conceitos
-- Bibliometria:
-- Cientometria:
-- Informetria:
+- Informetria: “The study of the application of mathematical meth- ods to the objects of information science”
+  + Mais geral, cobre todos os tipos de informações
+- Bibliometria: “The application of mathematics and statistical methods to books and other media of communication”
+  + Voltado ao estudo de livros/publicações
+- Cientometria: “the quantitative methods of the research on the development of science as an informational process”
+  + Visa avaliar a pesquisa científica.
+  + Grande foco em citações
+    - Citações ligam pessoas, idéias, revistas e instituições
+    - Formam uma rede que pode ser analisada quantitativamente
+
+* Conceitos 2
+- Figura 2 de /cite{thompson2015}
+- Frisar que iremos focar uma parte da bibliometria dentro da cientometria, que são os indicadores baseados em citações, extremamente utilizados na avaliação da produção científica.
 
 * Bibliometria - Leis
+- Criadas nos primórdios da
+  + Todas passaram por críticas/atualizações
+
 - Lei de Lotka
-  + Boa explicação em \cite{mattedi2017}
+  + Frequência de publicação por autores de um dado campo
+  +
 - Lei de Bradford
 - Lei de Zipf
   + Ordem dos termos mais utilizados em um campo científico
@@ -40,6 +54,9 @@
   + Cada uma com N vezes mais periódicos que a anterior
   + N = Constante de Bradford
 
+* \cite{mugnaini2019}
+- Distribuição das zonas de bradford no Brasil
+
 * Science Citation Index
 - Index: O que é?
   + Forma de recuperação de informações
@@ -50,8 +67,19 @@
   + Recuperar facilmente quem citou
   + Fator de impacto - Medida de importância historica de um artigo
 
-* \cite{mugnaini2019}
-- Distribuição das zonas de bradford no Brasil
+- Posteriormente, outros índices foram criados
+  + Social Sciences Citation Index (SSCI, in 1973)
+  + Arts & Humanities Citation Index (A&HCI; since 1978)
+  + Incorporados ao Web of Science
+
+- Network de citações mais fácil de ser recuperado
+  + Usado em estudos bibliométricos
+  + Price: Um dos primeiros a estudar esse network
+    - Vantagem cumulativa
+      + Idéia de que pesquisadores com \parencite{mattedi2017}
+    - Matthew Effect (Merton, 1968)
+      + "Porque a todo aquele que tem será dado, e terá em abundância; mas daquele que não tem, até o que tem será tirado." (Mateus 25,29) Bíblia de Jerusalém.
+
 
 * ISI Journal Impact Factor
 
@@ -59,7 +87,6 @@
 
 * Databases
 - *WoS*
-  +
 
 - *Scopus*
   +
@@ -73,6 +100,8 @@
 - *Currículo Lattes*
   +
 
+- Nenhuma database apresenta 100% de cobertura para todas as áreas.
+  + Tem a ver com a lei de Bradford (artigos espalhados em vários periódicos)
 
 * Indicadores bibliométricos (métricas)
 - Extremamente usados em estudos bibliométricos e avaliação da produção cientifica
@@ -84,7 +113,8 @@
   + Tempo de acúmulo
 
 * Fator de Impacto (FI)
-- Criado em ... e atribuído a períodicos
+- Criado para avaliar periódicos \parencite{garfield1963}
+- Bibliotecas pudessem escolher quais períodicos assinar
 
 - Função:
   +
@@ -106,7 +136,7 @@
 - Baseado na média
 
 
-* Índice h ()
+* Índice h () - \parencite{hirsch2005}
 -
 -
 
@@ -153,6 +183,8 @@
 - Os dois possuírem correlação em várias áreas serve como possibilidade de refinamento da avaliação
   + Se eles divergirem, os avaliadores devem discutir mais a fundo
 
+- Humanas - métricas auxiliam peer-review, mas não o substituem \parencite{abramo2011}
+
 * Avaliação no Brasil
 
 - Capes
@@ -196,13 +228,14 @@
           + Pesquisadores teriam que alinhar suas pesquisas com os interesses internacionais, evitando questões locais (e por vezes cruciais para nosso país)
           + Veículos brasileiros, que permitiriam a comunicação dessas questões locais, iriam diminuir
           + Maior competição (todos almejando as revistas internacionais)
-          + Autores e programas já inseridos internacionalmente seriam privilegiados.
+          + Autores e programas já inseridos internacionalmente seriam privilegiados (Efeito Mateus)
           + Particularmente problemático para áreas como as ciências sociais, q publicam localmente.
 
 
 * Problemas da metricização exacerbada da avaliação
 
 - Mudança do comportamento dos pesquisadores
+  + (Ok, qqr avaliação muda o comportamento, mas como o peer-review é mais qualitativo, isso não é tão pronunciado, pq ele não deixa claro o que vc deve fazer para se adaptar a ele. As métricas deixam claro: publicar em revistas de alto impacto é um exemplo. Publicar muito (h-index), é outro)
   + Minar as idéias originais
   + Maior foco em periódicos internacionais de alto impacto
 
@@ -216,12 +249,67 @@
 
 * \cite{demeis2003}
 
-- Pesquisa feita no IBQm
-
+- Aumento da produção científica nacional
+- Diminuição do financiamento
+- Aumento da competitividade
+  + PROFIX:
+    - Jovens pesquisadores
+    - 1154 candidatos para 100 bolsas
+  + Bolsas do CNPq:
+    - Seção: bioquímica, biofísica, fisiologia, farmacologia e neurociências
+    - 437 inscrições de projetos, 267 aprovados por mérito científico
+    - Recursos para o financiamento de apenas 20 projetos
+- Cenário de distorção cultural
+  + Cientometria prevalece sobre o conhecimento (demeis et al. 2003b)
+    - PROFIX e CNPq - Principal critério:
+      + Background científico dos candidatos: Número de publicações e o impacto das revistas onde foram publicados.
+  + Sofrimento mental é o preço pago pela escassez de recursos
+    - Cobrança e competição exacerbadas
+    - Qual o impacto dessa situação para os indivíduos?
 
 * \cite{demeis2003} - 2
 
+** Você é o que vc publica
+
+- “He [the thesis advisor] doesn’t care about my thesis. He believes that a thesis is the consequence of good work and good work means papers published in good journals”
+
+- “What we hear is that you are worth what you publish... the currency in this arena is publications”
+
+** Submissão do paper
+
+- “My major concern was to publish, to be recognized... it was a kind of self-affirmation, so I could tell them, ‘Look, I am good!’”;
+
+- “When the journal does not accept, you feel as if it is not only your paper, but you yourself that is rejected... They look at you as if you do not deserve to be there... it is a very bad feeling!”;
+
+
+** Insegurança sobre o financiamento e cobrança
+
+- “If you stop publishing, you lose your grant... You are ejected from the system, it doesn’t matter what you did in the past - it only matters what you have done in the last 2 to 3 years”
+
+- “At times I feel so anxious... you must complete your thesis in a short period of time, you have an advisor who guides you but at the same time continuously demands results, because we live in a system that constantly demands more and more from the advisor, and so it goes on down the line, in a cascade...”
+
 * \cite{demeis2003} - 3
+
+** Ritos de passagem
+- Morte, transição e renascimento
+- Transição - Período de incertezas e ansiedade
+  + Trajetoria científica como uma transição constante
+    - Continuar provando sua capacidade
+    - Exclusão do sistema
+
+** Burnout
+- Exaustão emocional e mental
+- Prejudica tanto o desempenho no trabalho como a saúde
+  + Dores de cabeça, hipertensão, ansiedade e depressão
+- Abuso de álcool/drogas
+- Deterioração das relações com família/amigos
+
+** Futuro cenário
+- Perda do interesse na carreira científica
+- Possível declínio da ciência brasileira
+
+* Cultura científica
+- \cite{trust2020}
 
 * Avaliação no Brasil 2 - Retirar
 
@@ -241,33 +329,62 @@
   + Um dos critérios de classificação é:
     - "Publicações, considerados apenas os periódicos científicos de fator de impacto igual ou superior a 1, com ênfase na produção contida em periódicos de mais elevado índice de impacto.(...)" (CNPq, 2020)
 
-
-
 * Os manifestos
-- Várias iniciativas surgiram para lidar com o mal uso das métricas nos sistemas de avaliação da política científica
-  + DORA
-  + Leiden
-  + Tide
-  + Hong Kong
+- Várias iniciativas/guidelines surgiram para lidar com o mal uso das métricas nos sistemas de avaliação da política científica
+  + San Francisco Declaration on Research Assessment (DORA) - 2013
+  + Leiden Manifesto - 2015
+  + Metric Tide - 2015
+  + Hong Kong Principles - 2019
 
 * DORA
-- Desenvolvido e ... em 2013
-- Site - xxxx assinaturas
+- Um dos mais influentes
+- Site - assinaturas:
+    - XXXX pessoas, XXXX organizações
 - Recomendações para pesquisadores, instituições, agências de fomento
 
-* Principal recomendação
+* Recomendações
+** Principal
 - Não usar métricas a nível de periódico (como o fator de impacto) para avaliar pessoas.
 
-* Conquistas DORA \parencite{schmid2017}
--
--
+** Agências de financiamento/instituições
+- For the purposes of research assessment, consider the value and impact of all research outputs (including datasets and software) in addition to research publications, and consider a broad range of impact measures including qualitative indicators of research impact, such as influence on policy and practice.
+
+** Editoras
+- Make available a range of article-level metrics to encourage a shift toward assessment based on the scientific content of an article rather than publication metrics of the journal in which it was published
+
+** Organizações que provém métricas
+- Be open and transparent by providing data and methods used to calculate all metrics.
+
+** Pesquisadores
+- Challenge research assessment practices that rely inappropriately on Journal Impact Factors and promote and teach best practice that focuses on the value and influence of specific research outputs.
+
+* Avanços \parencite{schmid2017}
+- Funding organizations in Europe (EMBO, Wellcome Trust, oth- ers), the United States (National Institutes of Health [NIH], Na- tional Science Foundation), and around the world (Australia, Canada, and others) have instituted, strengthened, and/or made more explicit their guidelines to curtail the use of JIFs and to allow researchers to articulate the significance of their own work, through selected and annotated bibliographies.
+- Scientific societies, such as EMBO and ASCB, are using JIF-inde- pendent mechanisms to evaluate potential awardees at the junior and senior levels.
+- Awareness:
+  + Nobel laureates (Schekman, 2013; Nobel Prize, 2017) and blog- gers are speaking out against JIF, encouraging scientists, as articu- lated by Bruce Beutler, “to publish as high as is practical, don’t waste a lot of time on repeated attempts to get in the top tier.”
+  + International forums are taking place to discuss research assess- ment and the utility and impact of bibliometrics
+- DORA’s request of Thomson Reuters, the developer of JIF, to make their data more available and transparent has, in part, been answered (van Noorden, 2014), as the Web of Science (currently administered by Clarivate Analytics), now allows data to be directly downloaded from their site to Excel spreadsheets for independent analysis (see Figure 1).
+- The launch and success of bioRxiv, and other preprint servers, together with their acceptance of this practice by almost all jour- nals, is enabling more rapid and efficient communication of re- sults. Indeed, I have relied on the availability of bioRxiv preprints to make positive decisions in hiring (as a department chairman), in funding (as a grant referee), and as an external referee for tenure decisions.
+
+- Olhar \parencite{hatch2020}
+
+
+
+- Link para assinar o DORA: https://sfdora.org/sign/
 
 * Conclusão e perspectivas
-- A bibliometria é um campo essencial
-- Bibliometria e peer-review podem coexistir
-- Múltiplos inputs (ex: indices clássicos + altmetricos) tendem a prover análises mais holísticas
+- A cientometria é essencial para estudar a prática da ciência
+- Entretanto, um (mal) uso exacerbado de indicadores para avaliar a produção científica molda a dinâmica que a cientometria se propõe a estudar.
+  + Produtivismo, individualismo e competitividade
+  + Práticas questionáveis que minam a ciência aos olhos do público
+  + Ciência como produto em vez de bem público
+- Maior presença de outros outputs ceintificos em avaliações individuais:
+  + Datasets, Código, Orientações, Eventos (Extensão ou não)
+- Múltiplos inputs (ex: indices clássicos + altmetricos)
+  + Avaliações mais holísticas da produção científica
 - O *mal uso* de qualquer indicador para avaliação invariavelmente terá impactos danosos ao avaliado
-- Temos responsabilidade e vós nesse assunto
+- Temos responsabilidade e voz nesse assunto
 
 
 * Referências

@@ -17,89 +17,6 @@
 \endgroup
 
 \datalist[entry]{apa/global//global/global}
-  \entry{mugnaini2021}{article}{}
-    \name{author}{4}{}{%
-      {{hash=MR}{%
-         family={Mugnaini},
-         familyi={M\bibinitperiod},
-         given={Rog{\'e}rio},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=FG}{%
-         family={Fraumann},
-         familyi={F\bibinitperiod},
-         given={Grischa},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=TEF}{%
-         family={Tuesta},
-         familyi={T\bibinitperiod},
-         given={Esteban\bibnamedelima F.},
-         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
-      }}%
-      {{hash=PAL}{%
-         family={Packer},
-         familyi={P\bibinitperiod},
-         given={Abel\bibnamedelima L.},
-         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{MR+1}
-    \strng{fullhash}{MRFGTEFPAL1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{shorttitle}
-    \field{labelyear}{2021}
-    \field{labeldatesource}{}
-    \field{abstract}{%
-    Digital object identifiers (DOIs) are important metadata elements for
-  indexing and interoperability, as well as for bibliometric studies in times
-  of openness. This study analyses the use of DOIs in the cited references of
-  articles by authors from Brazilian institutions, their possible influencing
-  factors and differences among areas of knowledge. It measures the extent to
-  which the citation datasets are open for reuse by others in terms of the
-  availability of DOIs. 226,491 articles were retrieved from Web of Science
-  (2012\textendash 2016), making a total of 8,707,120 cited references, 68\% of
-  which include DOIs. The results showed that the hard sciences have higher
-  percentages of DOIs in their cited references. The factor type of
-  collaboration showed higher percentages when there is international
-  collaboration, being significantly different from the other categories.
-  However, when the analysis was conducted inside the areas, the international
-  collaboration was found to be different particularly in the soft sciences and
-  a couple of other areas. The articles with DOI attributed, as well as those
-  with mention of research funding, had a significantly higher percentage, even
-  in the interaction with the areas of knowledge. Among the open access routes
-  the green routes showed the highest percentages, followed by golden (DOAJ and
-  other) and Bronze, but green routes articles proved to be not significantly
-  different from those not openly accessible. Finally, the principal
-  collaborating countries also showed the greatest influence on the DOI
-  attribution, with the exception of Peru and South Africa. Our findings
-  provide evidence that studies on the availability and usability of DOIs can
-  assist researchers, by underlining the importance of making greater use of
-  this persistent identifier, as well as to provide consistency to citation
-  analysis.%
-    }
-    \verb{doi}
-    \verb 10.1007/s11192-020-03663-7
-    \endverb
-    \field{issn}{1588-2861}
-    \field{number}{3}
-    \field{pages}{2523\bibrangedash 2556}
-    \field{shorttitle}{Openness Trends in {{Brazilian}} Citation Data}
-    \field{title}{Openness Trends in {{Brazilian}} Citation Data: Factors
-  Related to the Use of {{DOIs}}}
-    \field{volume}{126}
-    \verb{file}
-    \verb /home/gabriel/Dropbox/zotero-library/Mugnaini et al_2021_Openness tre
-    \verb nds in Brazilian citation data.pdf
-    \endverb
-    \field{journaltitle}{Scientometrics}
-    \field{month}{03}
-    \field{year}{2021}
-  \endentry
-
   \entry{garfield1955}{article}{}
     \name{author}{1}{}{%
       {{hash=GE}{%
@@ -140,6 +57,131 @@
     \field{journaltitle}{Science}
     \field{month}{07}
     \field{year}{1955}
+  \endentry
+
+  \entry{mugnaini2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MR}{%
+         family={Mugnaini},
+         familyi={M\bibinitperiod},
+         given={Rog{\'e}rio},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DRJP}{%
+         family={Damaceno},
+         familyi={D\bibinitperiod},
+         given={Rafael Jeferson\bibnamedelima Pezzuto},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=DLA}{%
+         family={Digiampietri},
+         familyi={D\bibinitperiod},
+         given={Luciano\bibnamedelima Antonio},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MJP}{%
+         family={{Mena-Chalco}},
+         familyi={M\bibinitperiod},
+         given={Jes{\'u}s\bibnamedelima Pascual},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {pt}%
+    }
+    \list{publisher}{1}{%
+      {{Pontif\'icia Universidade Cat\'olica de Campinas}}%
+    }
+    \keyw{Bases bibliográfi cas,Bibliometria,Periódicos científi
+  cos,Produção,todo}
+    \strng{namehash}{MR+1}
+    \strng{fullhash}{MRDRJPDLAMJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Resumo Indicadores de produ\c{c}\~ao cient\'ifica s\~ao usualmente
+  utilizados para a avalia\c{c}\~ao da comunidade acad\^emica. Como par\^ametro
+  de qualidade, as bases de dados bibliogr\'aficas s\~ao empregadas para a
+  sele\c{c}\~ao dos peri\'odicos mais importantes, o que as confere um papel
+  significativo no processo avaliativo. Por outro lado, ao se restringir as
+  an\'alises \`a produ\c{c}\~ao indexada, abre-se m\~ao do todo, correndo-se o
+  risco de desqualificar a produ\c{c}\~ao em peri\'odicos n\~ao indexados. O
+  Qualis busca contornar esse problema, ao possibilitar que as \'areas
+  valorizem os peri\'odicos n\~ao indexados, mas nem sempre consideram o volume
+  de artigos publicados neles. Este trabalho apresenta uma an\'alise
+  explorat\'oria da dispers\~ao da produ\c{c}\~ao cient\'ifica dos 260.663
+  pesquisadores, no n\'ivel de doutorado, registrados na Plataforma Lattes.
+  Para a determina\c{c}\~ao do panorama nacional, foram considerados todos os
+  artigos completos publicados em peri\'odicos por esses pesquisadores entre os
+  anos de 1998 e 2016. Esse panorama contempla an\'alises discriminadas por
+  grande \'area de atua\c{c}\~ao dos pesquisadores, o pa\'is de
+  publica\c{c}\~ao e a indexa\c{c}\~ao das publica\c{c}\~oes nos diferentes
+  peri\'odicos. Observaram-se tend\^encias de internacionaliza\c{c}\~ao, assim
+  como a import\^ancia de peri\'odicos nacionais como ve\'iculos de
+  publica\c{c}\~ao de parte significativa da produ\c{c}\~ao cient\'ifica de
+  algumas \'areas. Finalmente, ficou evidenciada a potencial limita\c{c}\~ao de
+  estudos que n\~ao considerem a produ\c{c}\~ao cient\'ifica em peri\'odicos
+  n\~ao indexados, ou estudos restritos \`as bases Scopus e/ou Web of Science,
+  ignorando a Scientific Electronic Library Online.%
+    }
+    \verb{doi}
+    \verb 10.1590/2318-0889201931e190033
+    \endverb
+    \field{issn}{0103-3786, 0103-3786, 2318-0889}
+    \field{shorttitle}{{Panorama da produ\c{c}\~ao cient\'ifi ca do Brasil
+  al\'em da indexa\c{c}\~ao}}
+    \field{title}{{Panorama da produ\c{c}\~ao cient\'ifi ca do Brasil al\'em da
+  indexa\c{c}\~ao: uma an\'alise explorat\'oria da comunica\c{c}\~ao em
+  peri\'odicos}}
+    \field{volume}{31}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Mugnaini et al_2019_Panorama da
+    \verb produção científi ca do Brasil além da indexação.pdf
+    \endverb
+    \field{journaltitle}{Transinforma\c{c}\~ao}
+    \field{month}{11}
+    \field{year}{2019}
+  \endentry
+
+  \entry{butler2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Butler},
+         familyi={B\bibinitperiod},
+         given={Linda},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{fav,top5}
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.3152/030234207X254404
+    \endverb
+    \field{issn}{03023427, 14715430}
+    \field{number}{8}
+    \field{pages}{565\bibrangedash 574}
+    \field{shorttitle}{Assessing University Research}
+    \field{title}{Assessing University Research: A Plea for a Balanced
+  Approach}
+    \field{volume}{34}
+    \verb{file}
+    \verb /home/gabriel/Dropbox/zotero-library/Butler_2007_Assessing university
+    \verb  research.pdf
+    \endverb
+    \field{journaltitle}{Science and Public Policy}
+    \field{month}{10}
+    \field{year}{2007}
   \endentry
 
   \entry{demeis2003}{article}{}
@@ -219,133 +261,57 @@
     \field{year}{2003}
   \endentry
 
-  \entry{mingers2015}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MJ}{%
-         family={Mingers},
-         familyi={M\bibinitperiod},
-         given={John},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=LL}{%
-         family={Leydesdorff},
-         familyi={L\bibinitperiod},
-         given={Loet},
-         giveni={L\bibinitperiod},
+  \entry{schmid2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SSL}{%
+         family={Schmid},
+         familyi={S\bibinitperiod},
+         given={Sandra\bibnamedelima L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
+    \list{publisher}{1}{%
+      {{American Society for Cell Biology (mboc)}}%
     }
-    \keyw{Altmetrics,Citations,fav,H-index,Impact factor,Normalisation,top5}
-    \strng{namehash}{MJLL1}
-    \strng{fullhash}{MJLL1}
+    \keyw{fav,todo}
+    \strng{namehash}{SSL1}
+    \strng{fullhash}{SSL1}
     \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2017}
     \field{labeldatesource}{}
     \field{abstract}{%
-    Scientometrics is the study of the quantitative aspects of the process of
-  science as a communication system. It is centrally, but not only, concerned
-  with the analysis of citations in the academic literature. In recent years it
-  has come to play a major role in the measurement and evaluation of research
-  performance. In this review we consider: the historical development of
-  scientometrics, sources of citation data, citation metrics and the ``laws''
-  of scientometrics, normalisation, journal impact factors and other journal
-  metrics, visualising and mapping science, evaluation and policy, and future
-  developments.%
+    The San Francisco Declaration on Research Assessment (DORA) was penned 5
+  years ago to articulate best practices for how we communicate and judge our
+  scientific contributions. In particular, it adamantly declared that Journal
+  Impact Factor (JIF) should never be used as a surrogate measure of the
+  quality of individual research contributions, or for hiring, promotion, or
+  funding decisions. Since then, a heightened awareness of the damaging
+  practice of using JIFs as a proxy for the quality of individual papers, and
+  to assess an individual's or institution's accomplishments has led to changes
+  in policy and the design and application of best practices to more accurately
+  assess the quality and impact of our research. Herein I summarize the
+  considerable progress made and remaining challenges that must be met to
+  ensure a fair and meritocratic approach to research assessment and the
+  advancement of research.%
     }
     \verb{doi}
-    \verb 10.1016/j.ejor.2015.04.002
+    \verb 10.1091/mbc.e17-08-0534
     \endverb
-    \field{issn}{0377-2217}
-    \field{number}{1}
-    \field{pages}{1\bibrangedash 19}
-    \field{title}{A Review of Theory and Practice in Scientometrics}
-    \field{volume}{246}
+    \field{issn}{1059-1524}
+    \field{number}{22}
+    \field{pages}{2941\bibrangedash 2944}
+    \field{shorttitle}{Five Years Post-{{DORA}}}
+    \field{title}{Five Years Post-{{DORA}}: Promoting Best Practices for
+  Research Assessment}
+    \field{volume}{28}
     \verb{file}
-    \verb /home/gabriel/Dropbox/zotero-library/Mingers_Leydesdorff_2015_A revie
-    \verb w of theory and practice in scientometrics.pdf
+    \verb /home/gabriel/Dropbox/zotero-library/Schmid_2017_Five years post-DORA
+    \verb .pdf
     \endverb
-    \field{journaltitle}{European Journal of Operational Research}
-    \field{month}{10}
-    \field{year}{2015}
-  \endentry
-
-  \entry{thompson2015}{article}{}
-    \name{author}{2}{}{%
-      {{hash=TDF}{%
-         family={Thompson},
-         familyi={T\bibinitperiod},
-         given={Dennis\bibnamedelima F.},
-         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
-      }}%
-      {{hash=WCK}{%
-         family={Walker},
-         familyi={W\bibinitperiod},
-         given={Cheri\bibnamedelima K.},
-         giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-  \keyw{application,bibliometrics,fav,history,laws,medicine,pharmacy,publications,top5}
-    \strng{namehash}{TDFWCK1}
-    \strng{fullhash}{TDFWCK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{}
-    \field{abstract}{%
-    The discipline of bibliometrics involves the application of mathematical
-  and statistical methods to scholarly publications. The first attempts at
-  systematic data collection were provided by Alfred Lotka and Samuel Bradford,
-  who subsequently established the foundational laws of bibliometrics. Eugene
-  Garfield ushered in the modern era of bibliometrics with the routine use of
-  citation analysis and systematized processing. Key elements of bibliometric
-  analysis include database coverage, consistency and accuracy of the data,
-  data fields, search options, and analysis and use of metrics. A number of
-  bibliometric applications are currently being used in medical science and
-  health care. Bibliometric parameters and indexes may be increasingly used by
-  grant funding sources as measures of research success. Universities may build
-  benchmarking standards from bibliometric data to determine academic
-  achievement through promotion and tenure guidelines in the future. This
-  article reviews the history, definition, laws, and elements of bibliometric
-  principles and provides examples of bibliometric applications to the broader
-  health care community. To accomplish this, the Medline (1966\textendash 2014)
-  and Web of Science (1945\textendash 2014) databases were searched to identify
-  relevant articles; select articles were also cross-referenced. Articles
-  selected were those that provided background, history, descriptive analysis,
-  and application of bibliometric principles and metrics to medical science and
-  health care. No attempt was made to cover all areas exhaustively; rather, key
-  articles were chosen that illustrate bibliometric concepts and enhance the
-  reader's knowledge. It is important that faculty and researchers understand
-  the limitations and appropriate uses of bibliometric data. Bibliometrics has
-  considerable potential as a research area for health care scientists and
-  practitioners that can be used to discover new information about academic
-  trends, pharmacotherapy, disease, and broader health sciences trends.%
-    }
-    \verb{doi}
-    \verb 10.1002/phar.1586
-    \endverb
-    \field{issn}{1875-9114}
-    \field{number}{6}
-    \field{pages}{551\bibrangedash 559}
-    \field{title}{A {{Descriptive}} and {{Historical Review}} of
-  {{Bibliometrics}} with {{Applications}} to {{Medical Sciences}}}
-    \field{volume}{35}
-    \verb{file}
-    \verb /home/gabriel/Dropbox/zotero-library/Thompson_Walker_2015_A Descripti
-    \verb ve and Historical Review of Bibliometrics with Applications to.pdf
-    \endverb
-    \field{journaltitle}{Pharmacotherapy: The Journal of Human Pharmacology and
-  Drug Therapy}
-    \field{annotation}{%
-    \_eprint:
-  https://accpjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/phar.1586%
-    }
-    \field{year}{2015}
+    \field{journaltitle}{Molecular Biology of the Cell}
+    \field{month}{11}
+    \field{year}{2017}
   \endentry
 \enddatalist
 \endinput

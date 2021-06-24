@@ -1,4 +1,4 @@
-% Created 2021-06-17 Thu 14:36
+% Created 2021-06-17 Thu 19:03
 % Intended LaTeX compiler: pdflatex
 \documentclass[bigger]{beamer}
 \usepackage[utf8]{inputenc}
@@ -14,15 +14,15 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
-\usepackage[backend=bibtex,style=apa,autocite=plain]{biblatex}
+\usepackage[backend=bibtex,style=apa,autocite=inline]{biblatex}
 \bibliography{../Bibliometry.bib}
 \usetheme{default}
-\author{Eric S Fraga}
-\date{2010-03-30 Tue}
-\title{Writing Beamer presentations in org-mode}
+\author{Gabriel Alves Vieira}
+\date{25-06-2021}
+\title{Bibliometria e a avaliação da publicação científica}
 \hypersetup{
- pdfauthor={Eric S Fraga},
- pdftitle={Writing Beamer presentations in org-mode},
+ pdfauthor={Gabriel Alves Vieira},
+ pdftitle={Bibliometria e a avaliação da publicação científica},
  pdfkeywords={},
  pdfsubject={},
  pdfcreator={Emacs 27.2 (Org mode 9.5)}, 
@@ -31,28 +31,311 @@
 
 \maketitle
 
-\begin{frame}[label={sec:org6ef5a36}]{Introduction}
-\begin{block}{teste}
+\begin{frame}[label={sec:org1918bc8}]{Conceitos}
 \begin{itemize}
-\item Trying \autocite{mugnaini2021}
+\item Bibliometria:
+\item Cientometria:
+\item Informetria:
 \end{itemize}
-\end{block}
+\end{frame}
 
-\begin{block}{teste2}
+\begin{frame}[label={sec:orgd7e64c2}]{Bibliometria - Leis}
 \begin{itemize}
-\item trying again \cite{garfield1955}
+\item Lei de Lotka
+\item Lei de Bradford
+\item Lei de Zipf
 \end{itemize}
-\end{block}
+\end{frame}
 
-\begin{block}{teste 3}
+\begin{frame}[label={sec:orgcbfc820}]{Zonas de Bradford}
 \begin{itemize}
-\item Last cite \parencite{demeis2003,mingers2015,thompson2015}
+\item 3 zonas:
+\begin{itemize}
+\item Cada uma com 1/3 das publicações relevantes
+\item Cada uma com N vezes mais periódicos que a anterior
+\item N = Constante de Bradford
 \end{itemize}
-\end{block}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgde49abb}]{Science Citation Index}
+\begin{itemize}
+\item Index: O que é?
+\begin{itemize}
+\item Forma de recuperação de informações
+\end{itemize}
+
+\item Science Citation Index \parencite{garfield1955}
+\begin{itemize}
+\item Baseado no livro similar de direito
+\begin{itemize}
+\item Lei é baseada em precedentes
+\end{itemize}
+\item Recuperar facilmente quem citou
+\item Fator de impacto - Medida de importância historica de um artigo
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgb2fbc6d}]{\cite{mugnaini2019}}
+\begin{itemize}
+\item Distribuição das zonas de bradford no Brasil
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orge61e507}]{ISI Journal Impact Factor}
 \end{frame}
 
 
-\begin{frame}[fragile,allowframebreaks,label=]{Frame with references}
+
+\begin{frame}[label={sec:org22fa978}]{Databases}
+\begin{itemize}
+\item \alert{WoS}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Scopus}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Google Scholar}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Scielo}
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item \alert{Currículo Lattes}
+\begin{itemize}
+\item 
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:orge0617f9}]{Indicadores bibliométricos (métricas)}
+\begin{itemize}
+\item Extremamente usados em estudos bibliométricos e avaliação da produção cientifica
+\item Baseados em citações
+
+\item Citações
+\begin{itemize}
+\item Obsolescencia
+\item Curva assimétrica
+\item Tempo de acúmulo
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org0d386ee}]{Fator de Impacto (FI)}
+\begin{itemize}
+\item Criado em \ldots{} e atribuído a períodicos
+
+\item Função:
+\begin{itemize}
+\item 
+\end{itemize}
+
+\item Publicado anualmente
+\begin{itemize}
+\item Inicialmente: ISI
+\item Hoje: Clarivate Analytics
+\end{itemize}
+
+\item Calculo:
+\begin{itemize}
+\item 
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org2109b85}]{Problemas/limitações do Fator de impacto}
+\begin{itemize}
+\item Manipulável
+\begin{itemize}
+\item Inflações artificiais
+\end{itemize}
+
+\item Janela de citação de 2 anos
+\begin{itemize}
+\item Para algumas áreas, não é o bastante
+\end{itemize}
+
+\item Baseado na média
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:orgfc84c53}]{Índice h ()}
+\begin{itemize}
+\item 
+
+\item 
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:org0b848fb}]{Métricas vs peer-review}
+\begin{itemize}
+\item Aumento da produção científica
+\begin{itemize}
+\item Peer-review mais dispendioso
+\end{itemize}
+
+\item Maior incorporação das métricas na avaliação
+\begin{itemize}
+\item País
+\item Instituição
+\item Departamento
+\item Laboratório
+\item Pesquisador
+\end{itemize}
+
+\item Contratação, financiamento\ldots{}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org501f090}]{RAE}
+\begin{itemize}
+\item Grande evento de peer-review
+\item Determinação do financiamento na Inglaterra
+
+\item Extremamente criticado
+\begin{itemize}
+\item Muito caro
+\item Estudos mostram correlação entre índices e resultados do RAE
+\end{itemize}
+
+\item Será que o peer-review fora das revistas está morto?
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgc5a55f5}]{Métricas vs peer-review: quadro comparativo}
+\begin{center}
+\begin{tabular}{ll}
+Peer review & Métricas\\
+Qualitativo & Quantitativo\\
+\end{tabular}
+\end{center}
+\end{frame}
+
+
+\begin{frame}[label={sec:orge3ff37e}]{\cite{butler2007}}
+\begin{itemize}
+\item Abordagem mista
+\item Ambos possuem falhas, e se complementam
+\item Os dois possuírem correlação em várias áreas serve como possibilidade de refinamento da avaliação
+\begin{itemize}
+\item Se eles divergirem, os avaliadores devem discutir mais a fundo
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org6d01f49}]{Avaliação no Brasil}
+\begin{itemize}
+\item Qualis
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:org809c8d2}]{Avaliação no Brasil 2}
+\end{frame}
+
+
+\begin{frame}[label={sec:orgaff26df}]{Problemas da avaliação baseada em métricas (e em especial no FI)}
+\begin{itemize}
+\item Mudança do comportamento dos pesquisadores
+\begin{itemize}
+\item Minar as idéias originais
+\item Maior foco em periódicos internacionais de alto impacto
+\end{itemize}
+\end{itemize}
+
+
+\begin{itemize}
+\item Impacto na integridade científica
+\begin{itemize}
+\item Evidência anedótica
+\end{itemize}
+
+\item Problemas a nível pessoal
+\begin{itemize}
+\item Produtivismo e competição exacerbada
+\item Depressão, burnout
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:orgbb71e90}]{\cite{demeis2003}}
+\begin{itemize}
+\item Pesquisa feita no IBQm
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:org6991427}]{\cite{demeis2003} - 2}
+\end{frame}
+
+\begin{frame}[label={sec:orgcc023df}]{\cite{demeis2003} - 3}
+\end{frame}
+
+
+\begin{frame}[label={sec:org7850a3b}]{Os manifestos}
+\begin{itemize}
+\item Várias iniciativas surgiram para lidar com o mal uso das métricas nos sistemas de avaliação da política científica
+\begin{itemize}
+\item DORA
+\item Leiden
+\item Tide
+\item Hong Kong
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org5baed58}]{DORA}
+\begin{itemize}
+\item Desenvolvido e \ldots{} em 2013
+\item Site - xxxx assinaturas
+\item Recomendações para pesquisadores, instituições, agências de fomento
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:orgf1793f0}]{Principal recomendação}
+\begin{itemize}
+\item Não usar métricas a nível de periódico (como o fator de impacto) para avaliar pessoas.
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org8ba643c}]{Conquistas DORA \parencite{schmid2017}}
+\begin{itemize}
+\item 
+
+\item 
+\end{itemize}
+\end{frame}
+
+\begin{frame}[label={sec:org18f37f9}]{Conclusão e perspectivas}
+\begin{itemize}
+\item A bibliometria é um campo essencial
+\item Bibliometria e peer-review podem coexistir
+\item Múltiplos inputs (ex: indices clássicos + altmetricos) tendem a prover análises mais holísticas
+\item O \alert{mal uso} de qualquer indicador para avaliação invariavelmente terá impactos danosos ao avaliado
+\item Temos responsabilidade e vós nesse assunto
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile,allowframebreaks,label=]{Referências}
 \printbibliography
+\end{frame}
+
+\begin{frame}[label={sec:org8e87141}]{Who watches the watchmen?}
 \end{frame}
 \end{document}
